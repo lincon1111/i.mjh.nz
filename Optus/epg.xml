@@ -1,0 +1,2359 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "xmltv.dtd"><tv generator-info-name="www.matthuisman.nz">
+  <channel id="os1">
+    <display-name>Optus Sport 1</display-name>
+    <icon src="https://static.sport.optus.com.au/resources/static/OS_1.png"/>
+  </channel>
+  <channel id="os12">
+    <display-name>LALIGA Channel</display-name>
+    <icon src="https://static.sport.optus.com.au/resources/static/8fafc368-828d-4ae2-be26-4dee57a360d2_ll-gen.jpg"/>
+  </channel>
+  <channel id="os11">
+    <display-name>Premier League Channel</display-name>
+    <icon src="https://static.sport.optus.com.au/resources/static/568b3ee0-4923-40c2-aebe-c226b8da3db9_premierleaguerebrandsdesignstudio01.jpg"/>
+  </channel>
+  <programme channel="os1" start="20231006000000 +0000" stop="20231006010000 +0000">
+    <title>PL GOATs</title>
+    <sub-title>Episode 2</sub-title>
+    <desc>[CC]Episode 2</desc>
+  </programme>
+  <programme channel="os1" start="20231006010000 +0000" stop="20231006020000 +0000">
+    <title>The Catch-Up Show</title>
+    <sub-title>Episode 8</sub-title>
+    <desc>[CC]Episode 8</desc>
+  </programme>
+  <programme channel="os1" start="20231006020000 +0000" stop="20231006040000 +0000">
+    <title>Aston Villa v Brighton and Hove Albion</title>
+    <sub-title>Episode 65</sub-title>
+    <desc>[CC]Aston Villa v Brighton and Hove Albion</desc>
+  </programme>
+  <programme channel="os1" start="20231006040000 +0000" stop="20231006060000 +0000">
+    <title>West Ham v Sheffield United</title>
+    <sub-title>Episode 68</sub-title>
+    <desc>[CC]West Ham v Sheffield United</desc>
+  </programme>
+  <programme channel="os1" start="20231006060000 +0000" stop="20231006080000 +0000">
+    <title>Nottingham Forest v Brentford</title>
+    <sub-title>Episode 69</sub-title>
+    <desc>[CC]Nottingham Forest v Brentford</desc>
+  </programme>
+  <programme channel="os1" start="20231006080000 +0000" stop="20231006083000 +0000">
+    <title>PL Stories</title>
+    <sub-title>#10</sub-title>
+    <desc>[CC]#10</desc>
+  </programme>
+  <programme channel="os1" start="20231006083000 +0000" stop="20231006090000 +0000">
+    <title>UEFA EURO 2024 Qualifiers Preview</title>
+    <sub-title>Episode 4</sub-title>
+    <desc>[CC]Episode 4</desc>
+  </programme>
+  <programme channel="os1" start="20231006090000 +0000" stop="20231006093000 +0000">
+    <title>Tab Football Forecast</title>
+    <sub-title>Episode 5</sub-title>
+    <desc>[CC]Episode 5</desc>
+  </programme>
+  <programme channel="os1" start="20231006093000 +0000" stop="20231006100000 +0000">
+    <title>LIVE: Fantasy Premier League</title>
+    <sub-title>Episode 8</sub-title>
+    <desc>[CC]Episode 8</desc>
+  </programme>
+  <programme channel="os1" start="20231006100000 +0000" stop="20231006110000 +0000">
+    <title>The Catch-Up Show</title>
+    <sub-title>Episode 8</sub-title>
+    <desc>[CC]Episode 8</desc>
+  </programme>
+  <programme channel="os1" start="20231006110000 +0000" stop="20231006120000 +0000">
+    <title>LIVE: Welcome To The Weekend</title>
+    <sub-title>Episode 8</sub-title>
+    <desc>[CC]Episode 8</desc>
+  </programme>
+  <programme channel="os1" start="20231006120000 +0000" stop="20231006123000 +0000">
+    <title>Tab Football Forecast</title>
+    <sub-title>Episode 5</sub-title>
+    <desc>[CC]Episode 5</desc>
+  </programme>
+  <programme channel="os1" start="20231006123000 +0000" stop="20231006130000 +0000">
+    <title>Fantasy Premier League</title>
+    <sub-title>Episode 8</sub-title>
+    <desc>[CC]Episode 8</desc>
+  </programme>
+  <programme channel="os1" start="20231006130000 +0000" stop="20231006150000 +0000">
+    <title>West Ham v Sheffield United</title>
+    <sub-title>Episode 68</sub-title>
+    <desc>[CC]West Ham v Sheffield United</desc>
+  </programme>
+  <programme channel="os1" start="20231006150000 +0000" stop="20231006153000 +0000">
+    <title>Tab Football Forecast</title>
+    <sub-title>Episode 5</sub-title>
+    <desc>[CC]Episode 5</desc>
+  </programme>
+  <programme channel="os1" start="20231006153000 +0000" stop="20231006160000 +0000">
+    <title>PL 23/24 Preview</title>
+    <sub-title>Episode 12</sub-title>
+    <desc>[CC]Episode 12</desc>
+  </programme>
+  <programme channel="os1" start="20231006160000 +0000" stop="20231006170000 +0000">
+    <title>Welcome To The Weekend</title>
+    <sub-title>Episode 8</sub-title>
+    <desc>[CC]Episode 8</desc>
+  </programme>
+  <programme channel="os1" start="20231006170000 +0000" stop="20231006180000 +0000">
+    <title>LIVE: Team Talks</title>
+    <sub-title>Episode 8</sub-title>
+    <desc>[CC]Episode 8</desc>
+  </programme>
+  <programme channel="os1" start="20231006180000 +0000" stop="20231006182000 +0000">
+    <title>Tab Football Forecast</title>
+    <sub-title>Episode 5</sub-title>
+    <desc>[CC]Episode 5</desc>
+  </programme>
+  <programme channel="os1" start="20231006182000 +0000" stop="20231006203000 +0000">
+    <title>LIVE: Manchester United v Arsenal</title>
+    <sub-title>Episode 3</sub-title>
+    <desc>[CC]Manchester United v Arsenal</desc>
+  </programme>
+  <programme channel="os1" start="20231006203000 +0000" stop="20231006210000 +0000">
+    <title>PL Stories</title>
+    <sub-title>#10</sub-title>
+    <desc>[CC]#10</desc>
+  </programme>
+  <programme channel="os1" start="20231006210000 +0000" stop="20231006230000 +0000">
+    <title>Fulham v Chelsea</title>
+    <sub-title>Episode 64</sub-title>
+    <desc>[CC]Fulham v Chelsea</desc>
+  </programme>
+  <programme channel="os1" start="20231006230000 +0000" stop="20231007010000 +0000">
+    <title>AFC Bournemouth v Arsenal</title>
+    <sub-title>Episode 66</sub-title>
+    <desc>[CC]AFC Bournemouth v Arsenal</desc>
+  </programme>
+  <programme channel="os1" start="20231007010000 +0000" stop="20231007030000 +0000">
+    <title>Manchester United v Crystal Palace</title>
+    <sub-title>Episode 61</sub-title>
+    <desc>[CC]Manchester United v Crystal Palace</desc>
+  </programme>
+  <programme channel="os1" start="20231007030000 +0000" stop="20231007033000 +0000">
+    <title>Fantasy Premier League</title>
+    <sub-title>Episode 8</sub-title>
+    <desc>[CC]Episode 8</desc>
+  </programme>
+  <programme channel="os1" start="20231007033000 +0000" stop="20231007053000 +0000">
+    <title>Tottenham v Liverpool</title>
+    <sub-title>Episode 67</sub-title>
+    <desc>[CC]Tottenham v Liverpool</desc>
+  </programme>
+  <programme channel="os1" start="20231007053000 +0000" stop="20231007060000 +0000">
+    <title>PL 23/24 Preview</title>
+    <sub-title>Episode 12</sub-title>
+    <desc>[CC]Episode 12</desc>
+  </programme>
+  <programme channel="os1" start="20231007060000 +0000" stop="20231007070000 +0000">
+    <title>Team Talks</title>
+    <sub-title>Episode 8</sub-title>
+    <desc>[CC]Episode 8</desc>
+  </programme>
+  <programme channel="os1" start="20231007070000 +0000" stop="20231007090000 +0000">
+    <title>Luton Town v Burnley</title>
+    <sub-title>Episode 18</sub-title>
+    <desc>[CC]Luton Town v Burnley</desc>
+  </programme>
+  <programme channel="os1" start="20231007090000 +0000" stop="20231007093000 +0000">
+    <title>Fantasy Premier League</title>
+    <sub-title>Episode 8</sub-title>
+    <desc>[CC]Episode 8</desc>
+  </programme>
+  <programme channel="os1" start="20231007093000 +0000" stop="20231007103000 +0000">
+    <title>Welcome To The Weekend</title>
+    <sub-title>Episode 8</sub-title>
+    <desc>[CC]Episode 8</desc>
+  </programme>
+  <programme channel="os1" start="20231007103000 +0000" stop="20231007113000 +0000">
+    <title>LIVE: PL 23/24 Matchday</title>
+    <sub-title>Episode 24</sub-title>
+    <desc>[CC]Episode 24</desc>
+  </programme>
+  <programme channel="os1" start="20231007113000 +0000" stop="20231007140000 +0000">
+    <title>LIVE: Luton Town v Tottenham</title>
+    <sub-title>Episode 75</sub-title>
+    <desc>[CC]Luton Town v Tottenham</desc>
+  </programme>
+  <programme channel="os1" start="20231007140000 +0000" stop="20231007163000 +0000">
+    <title>LIVE: Goal Rush</title>
+    <sub-title>Manchester United v Brentford</sub-title>
+    <desc>[CC]Manchester United v Brentford</desc>
+  </programme>
+  <programme channel="os1" start="20231007163000 +0000" stop="20231007190000 +0000">
+    <title>LIVE: Crystal Palace v Nottingham Forest</title>
+    <sub-title>Episode 73</sub-title>
+    <desc>[CC]Crystal Palace v Nottingham Forest</desc>
+  </programme>
+  <programme channel="os1" start="20231007190000 +0000" stop="20231007200000 +0000">
+    <title>LIVE: Matchday Live Extra</title>
+    <sub-title>Episode 9</sub-title>
+    <desc>[CC]Episode 9</desc>
+  </programme>
+  <programme channel="os1" start="20231007200000 +0000" stop="20231007220000 +0000">
+    <title>Luton Town v Tottenham</title>
+    <sub-title>Episode 75</sub-title>
+    <desc>[CC]Luton Town v Tottenham</desc>
+  </programme>
+  <programme channel="os1" start="20231007220000 +0000" stop="20231008000000 +0000">
+    <title>Manchester United v Brentford</title>
+    <sub-title>Episode 78</sub-title>
+    <desc>[CC]Manchester United v Brentford</desc>
+  </programme>
+  <programme channel="os1" start="20231008000000 +0000" stop="20231008010000 +0000">
+    <title>PL GOATs</title>
+    <sub-title>Episode 2</sub-title>
+    <desc>[CC]Episode 2</desc>
+  </programme>
+  <programme channel="os1" start="20231008010000 +0000" stop="20231008013000 +0000">
+    <title>The Highlights - Sunday</title>
+    <sub-title>Episode 4</sub-title>
+    <desc>[CC]Episode 4</desc>
+  </programme>
+  <programme channel="os1" start="20231008013000 +0000" stop="20231008033000 +0000">
+    <title>Burnley v Chelsea</title>
+    <sub-title>Episode 77</sub-title>
+    <desc>[CC]Burnley v Chelsea</desc>
+  </programme>
+  <programme channel="os1" start="20231008033000 +0000" stop="20231008053000 +0000">
+    <title>Everton v AFC Bournemouth</title>
+    <sub-title>Episode 80</sub-title>
+    <desc>[CC]Everton v AFC Bournemouth</desc>
+  </programme>
+  <programme channel="os1" start="20231008053000 +0000" stop="20231008055000 +0000">
+    <title>The Highlights - Sunday</title>
+    <sub-title>Episode 4</sub-title>
+    <desc>[CC]Episode 4</desc>
+  </programme>
+  <programme channel="os1" start="20231008055000 +0000" stop="20231008080000 +0000">
+    <title>LIVE: Ulsan v Incheon</title>
+    <sub-title>Episode 64</sub-title>
+    <desc>[CC]Ulsan v Incheon</desc>
+  </programme>
+  <programme channel="os1" start="20231008080000 +0000" stop="20231008100000 +0000">
+    <title>Fulham v Sheffield United</title>
+    <sub-title>Episode 72</sub-title>
+    <desc>[CC]Fulham v Sheffield United</desc>
+  </programme>
+  <programme channel="os1" start="20231008100000 +0000" stop="20231008120000 +0000">
+    <title>Luton Town v Tottenham</title>
+    <sub-title>Episode 75</sub-title>
+    <desc>[CC]Luton Town v Tottenham</desc>
+  </programme>
+  <programme channel="os1" start="20231008120000 +0000" stop="20231008130000 +0000">
+    <title>LIVE: PL 23/24 Matchday</title>
+    <sub-title>Episode 25</sub-title>
+    <desc>[CC]Episode 25</desc>
+  </programme>
+  <programme channel="os1" start="20231008130000 +0000" stop="20231008153000 +0000">
+    <title>LIVE: Goal Rush</title>
+    <sub-title>Brighton v Liverpool</sub-title>
+    <desc>[CC]Brighton v Liverpool</desc>
+  </programme>
+  <programme channel="os1" start="20231008153000 +0000" stop="20231008183000 +0000">
+    <title>LIVE: Arsenal v Manchester City</title>
+    <sub-title>Episode 71</sub-title>
+    <desc>[CC]Arsenal v Manchester City</desc>
+  </programme>
+  <programme channel="os1" start="20231008183000 +0000" stop="20231008193000 +0000">
+    <title>PL GOATs</title>
+    <sub-title>Episode 2</sub-title>
+    <desc>[CC]Episode 2</desc>
+  </programme>
+  <programme channel="os1" start="20231008193000 +0000" stop="20231008210000 +0000">
+    <title>LIVE: The Weekend Wrap</title>
+    <sub-title>Episode 8</sub-title>
+    <desc>[CC]Episode 8</desc>
+  </programme>
+  <programme channel="os1" start="20231008210000 +0000" stop="20231008213000 +0000">
+    <title>PL Stories</title>
+    <sub-title>#10</sub-title>
+    <desc>[CC]#10</desc>
+  </programme>
+  <programme channel="os1" start="20231008213000 +0000" stop="20231008220000 +0000">
+    <title>PL Rewind</title>
+    <sub-title>Episode 8</sub-title>
+    <desc>[CC]Episode 8</desc>
+  </programme>
+  <programme channel="os1" start="20231008220000 +0000" stop="20231008230000 +0000">
+    <title>PL 23/24 Review</title>
+    <sub-title>Episode 8</sub-title>
+    <desc>[CC]Episode 8</desc>
+  </programme>
+  <programme channel="os1" start="20231008230000 +0000" stop="20231009010000 +0000">
+    <title>Arsenal v Manchester City</title>
+    <sub-title>Episode 71</sub-title>
+    <desc>[CC]Arsenal v Manchester City</desc>
+  </programme>
+  <programme channel="os1" start="20231009010000 +0000" stop="20231009013000 +0000">
+    <title>The Highlights - Monday</title>
+    <sub-title>Episode 4</sub-title>
+    <desc>[CC]Episode 4</desc>
+  </programme>
+  <programme channel="os1" start="20231009013000 +0000" stop="20231009033000 +0000">
+    <title>West Ham v Newcastle</title>
+    <sub-title>Episode 76</sub-title>
+    <desc>[CC]West Ham v Newcastle</desc>
+  </programme>
+  <programme channel="os1" start="20231009033000 +0000" stop="20231009053000 +0000">
+    <title>Crystal Palace v Nottingham Forest</title>
+    <sub-title>Episode 73</sub-title>
+    <desc>[CC]Crystal Palace v Nottingham Forest</desc>
+  </programme>
+  <programme channel="os1" start="20231009053000 +0000" stop="20231009060000 +0000">
+    <title>The Highlights - Monday</title>
+    <sub-title>Episode 4</sub-title>
+    <desc>[CC]Episode 4</desc>
+  </programme>
+  <programme channel="os1" start="20231009060000 +0000" stop="20231009080000 +0000">
+    <title>Brighton and Hove Albion v Liverpool</title>
+    <sub-title>Episode 74</sub-title>
+    <desc>[CC]Brighton and Hove Albion v Liverpool</desc>
+  </programme>
+  <programme channel="os1" start="20231009080000 +0000" stop="20231009081500 +0000">
+    <title>Women's Football Wrap</title>
+    <sub-title>Episode 2</sub-title>
+    <desc>Episode 2</desc>
+  </programme>
+  <programme channel="os1" start="20231009081500 +0000" stop="20231009084500 +0000">
+    <title>Women's Super League 23/24 Mini Match</title>
+    <sub-title>Manchester United v Arsenal</sub-title>
+    <desc>Manchester United v Arsenal</desc>
+  </programme>
+  <programme channel="os1" start="20231009084500 +0000" stop="20231009091500 +0000">
+    <title>Women's Super League 23/24 Mini Match</title>
+    <sub-title>Manchester City v Chelsea</sub-title>
+    <desc>Manchester City v Chelsea</desc>
+  </programme>
+  <programme channel="os1" start="20231009091500 +0000" stop="20231009094500 +0000">
+    <title>Women's Super League 23/24 Mini Match</title>
+    <sub-title>Liverpool v Aston Villa</sub-title>
+    <desc>Liverpool v Aston Villa</desc>
+  </programme>
+  <programme channel="os1" start="20231009094500 +0000" stop="20231009100000 +0000">
+    <title>Women's Football Wrap</title>
+    <sub-title>Episode 2</sub-title>
+    <desc>Episode 2</desc>
+  </programme>
+  <programme channel="os1" start="20231009100000 +0000" stop="20231009120000 +0000">
+    <title>Arsenal v Manchester City</title>
+    <sub-title>Episode 71</sub-title>
+    <desc>[CC]Arsenal v Manchester City</desc>
+  </programme>
+  <programme channel="os1" start="20231009120000 +0000" stop="20231009123000 +0000">
+    <title>UEFA EURO 2024 Qualifiers Preview</title>
+    <sub-title>Episode 4</sub-title>
+    <desc>[CC]Episode 4</desc>
+  </programme>
+  <programme channel="os1" start="20231009123000 +0000" stop="20231009130000 +0000">
+    <title>The Highlights - Monday</title>
+    <sub-title>Episode 4</sub-title>
+    <desc>[CC]Episode 4</desc>
+  </programme>
+  <programme channel="os1" start="20231009130000 +0000" stop="20231009140000 +0000">
+    <title>LIVE: The Kelly and Wrighty Show</title>
+    <sub-title>Episode 8</sub-title>
+    <desc>[CC]Episode 8</desc>
+  </programme>
+  <programme channel="os1" start="20231009140000 +0000" stop="20231009160000 +0000">
+    <title>Wolverhampton v Aston Villa</title>
+    <sub-title>Episode 79</sub-title>
+    <desc>[CC]Wolverhampton v Aston Villa</desc>
+  </programme>
+  <programme channel="os1" start="20231009160000 +0000" stop="20231009170000 +0000">
+    <title>LIVE: Generation xG</title>
+    <sub-title>Episode 8</sub-title>
+    <desc>[CC]Episode 8</desc>
+  </programme>
+  <programme channel="os1" start="20231009170000 +0000" stop="20231009173000 +0000">
+    <title>UEFA EURO 2024 Qualifiers Preview</title>
+    <sub-title>Episode 4</sub-title>
+    <desc>[CC]Episode 4</desc>
+  </programme>
+  <programme channel="os1" start="20231009173000 +0000" stop="20231009180000 +0000">
+    <title>PL 23/24 Netbusters</title>
+    <sub-title>Episode 8</sub-title>
+    <desc>[CC]Episode 8</desc>
+  </programme>
+  <programme channel="os1" start="20231009180000 +0000" stop="20231009200000 +0000">
+    <title>West Ham v Newcastle</title>
+    <sub-title>Episode 76</sub-title>
+    <desc>[CC]West Ham v Newcastle</desc>
+  </programme>
+  <programme channel="os1" start="20231009200000 +0000" stop="20231009220000 +0000">
+    <title>Brighton and Hove Albion v Liverpool</title>
+    <sub-title>Episode 74</sub-title>
+    <desc>[CC]Brighton and Hove Albion v Liverpool</desc>
+  </programme>
+  <programme channel="os1" start="20231009220000 +0000" stop="20231009230000 +0000">
+    <title>The Kelly and Wrighty Show</title>
+    <sub-title>Episode 8</sub-title>
+    <desc>[CC]Episode 8</desc>
+  </programme>
+  <programme channel="os1" start="20231009230000 +0000" stop="20231010000000 +0000">
+    <title>Generation xG</title>
+    <sub-title>Episode 8</sub-title>
+    <desc>[CC]Episode 8</desc>
+  </programme>
+  <programme channel="os1" start="20231010000000 +0000" stop="20231010010000 +0000">
+    <title>PL 23/24 Review</title>
+    <sub-title>Episode 8</sub-title>
+    <desc>[CC]Episode 8</desc>
+  </programme>
+  <programme channel="os1" start="20231010010000 +0000" stop="20231010030000 +0000">
+    <title>Arsenal v Manchester City</title>
+    <sub-title>Episode 71</sub-title>
+    <desc>[CC]Arsenal v Manchester City</desc>
+  </programme>
+  <programme channel="os1" start="20231010030000 +0000" stop="20231010033000 +0000">
+    <title>UEFA EURO 2024 Qualifiers Preview</title>
+    <sub-title>Episode 4</sub-title>
+    <desc>[CC]Episode 4</desc>
+  </programme>
+  <programme channel="os1" start="20231010033000 +0000" stop="20231010053000 +0000">
+    <title>Manchester United v Brentford</title>
+    <sub-title>Episode 78</sub-title>
+    <desc>[CC]Manchester United v Brentford</desc>
+  </programme>
+  <programme channel="os1" start="20231010053000 +0000" stop="20231010060000 +0000">
+    <title>PL 23/24 Netbusters</title>
+    <sub-title>Episode 8</sub-title>
+    <desc>[CC]Episode 8</desc>
+  </programme>
+  <programme channel="os1" start="20231010060000 +0000" stop="20231010063000 +0000">
+    <title>PL Stories</title>
+    <sub-title>#10</sub-title>
+    <desc>[CC]#10</desc>
+  </programme>
+  <programme channel="os1" start="20231010063000 +0000" stop="20231010073000 +0000">
+    <title>PL 23/24 Review</title>
+    <sub-title>Episode 8</sub-title>
+    <desc>[CC]Episode 8</desc>
+  </programme>
+  <programme channel="os1" start="20231010073000 +0000" stop="20231010080000 +0000">
+    <title>Women's Super League 23/24 Highlights</title>
+    <sub-title>Episode 2</sub-title>
+    <desc>[CC]Episode 2</desc>
+  </programme>
+  <programme channel="os1" start="20231010080000 +0000" stop="20231010090000 +0000">
+    <title>PL Moments</title>
+    <sub-title>Episode 3</sub-title>
+    <desc>[CC]Episode 3</desc>
+  </programme>
+  <programme channel="os1" start="20231010090000 +0000" stop="20231010093000 +0000">
+    <title>UEFA EURO 2024 Qualifiers Preview</title>
+    <sub-title>Episode 4</sub-title>
+    <desc>[CC]Episode 4</desc>
+  </programme>
+  <programme channel="os1" start="20231010093000 +0000" stop="20231010113000 +0000">
+    <title>Luton Town v Tottenham</title>
+    <sub-title>Episode 75</sub-title>
+    <desc>[CC]Luton Town v Tottenham</desc>
+  </programme>
+  <programme channel="os1" start="20231010113000 +0000" stop="20231010133000 +0000">
+    <title>Burnley v Chelsea</title>
+    <sub-title>Episode 77</sub-title>
+    <desc>[CC]Burnley v Chelsea</desc>
+  </programme>
+  <programme channel="os1" start="20231010133000 +0000" stop="20231010140000 +0000">
+    <title>PL 23/24 Netbusters</title>
+    <sub-title>Episode 8</sub-title>
+    <desc>[CC]Episode 8</desc>
+  </programme>
+  <programme channel="os1" start="20231010140000 +0000" stop="20231010143000 +0000">
+    <title>PL Rewind</title>
+    <sub-title>Episode 9</sub-title>
+    <desc>[CC]Episode 9</desc>
+  </programme>
+  <programme channel="os1" start="20231010143000 +0000" stop="20231010153000 +0000">
+    <title>PL Moments</title>
+    <sub-title>Episode 3</sub-title>
+    <desc>[CC]Episode 3</desc>
+  </programme>
+  <programme channel="os1" start="20231010153000 +0000" stop="20231010173000 +0000">
+    <title>Everton v AFC Bournemouth</title>
+    <sub-title>Episode 80</sub-title>
+    <desc>[CC]Everton v AFC Bournemouth</desc>
+  </programme>
+  <programme channel="os1" start="20231010173000 +0000" stop="20231010180000 +0000">
+    <title>PL Stories</title>
+    <sub-title>#10</sub-title>
+    <desc>[CC]#10</desc>
+  </programme>
+  <programme channel="os1" start="20231010180000 +0000" stop="20231010183000 +0000">
+    <title>Match Officials Mic'd Up</title>
+    <sub-title>Episode 2</sub-title>
+    <desc>[CC]Episode 2</desc>
+  </programme>
+  <programme channel="os1" start="20231010183000 +0000" stop="20231010193000 +0000">
+    <title>PL Moments</title>
+    <sub-title>Episode 3</sub-title>
+    <desc>[CC]Episode 3</desc>
+  </programme>
+  <programme channel="os1" start="20231010193000 +0000" stop="20231010200000 +0000">
+    <title>PL 23/24 Netbusters</title>
+    <sub-title>Episode 8</sub-title>
+    <desc>[CC]Episode 8</desc>
+  </programme>
+  <programme channel="os1" start="20231010200000 +0000" stop="20231010220000 +0000">
+    <title>Arsenal v Manchester City</title>
+    <sub-title>Episode 71</sub-title>
+    <desc>[CC]Arsenal v Manchester City</desc>
+  </programme>
+  <programme channel="os1" start="20231010220000 +0000" stop="20231010223000 +0000">
+    <title>PL Rewind</title>
+    <sub-title>Episode 9</sub-title>
+    <desc>[CC]Episode 9</desc>
+  </programme>
+  <programme channel="os1" start="20231010223000 +0000" stop="20231010230000 +0000">
+    <title>Match Officials Mic'd Up</title>
+    <sub-title>Episode 2</sub-title>
+    <desc>[CC]Episode 2</desc>
+  </programme>
+  <programme channel="os1" start="20231010230000 +0000" stop="20231011010000 +0000">
+    <title>Fulham v Sheffield United</title>
+    <sub-title>Episode 72</sub-title>
+    <desc>[CC]Fulham v Sheffield United</desc>
+  </programme>
+  <programme channel="os1" start="20231011010000 +0000" stop="20231011013000 +0000">
+    <title>UEFA EURO 2024 Qualifiers Preview</title>
+    <sub-title>Episode 4</sub-title>
+    <desc>[CC]Episode 4</desc>
+  </programme>
+  <programme channel="os1" start="20231011013000 +0000" stop="20231011033000 +0000">
+    <title>West Ham v Newcastle</title>
+    <sub-title>Episode 76</sub-title>
+    <desc>[CC]West Ham v Newcastle</desc>
+  </programme>
+  <programme channel="os1" start="20231011033000 +0000" stop="20231011043000 +0000">
+    <title>The Kelly and Wrighty Show</title>
+    <sub-title>Episode 8</sub-title>
+    <desc>[CC]Episode 8</desc>
+  </programme>
+  <programme channel="os1" start="20231011043000 +0000" stop="20231011050000 +0000">
+    <title>PL Rewind</title>
+    <sub-title>Episode 9</sub-title>
+    <desc>[CC]Episode 9</desc>
+  </programme>
+  <programme channel="os1" start="20231011050000 +0000" stop="20231011053000 +0000">
+    <title>Match Officials Mic'd Up</title>
+    <sub-title>Episode 2</sub-title>
+    <desc>[CC]Episode 2</desc>
+  </programme>
+  <programme channel="os1" start="20231011053000 +0000" stop="20231011073000 +0000">
+    <title>Wolverhampton v Aston Villa</title>
+    <sub-title>Episode 79</sub-title>
+    <desc>[CC]Wolverhampton v Aston Villa</desc>
+  </programme>
+  <programme channel="os1" start="20231011073000 +0000" stop="20231011083000 +0000">
+    <title>Generation xG</title>
+    <sub-title>Episode 8</sub-title>
+    <desc>[CC]Episode 8</desc>
+  </programme>
+  <programme channel="os1" start="20231011083000 +0000" stop="20231011090000 +0000">
+    <title>Match Officials Mic'd Up</title>
+    <sub-title>Episode 2</sub-title>
+    <desc>[CC]Episode 2</desc>
+  </programme>
+  <programme channel="os1" start="20231011090000 +0000" stop="20231011110000 +0000">
+    <title>Manchester United v Brentford</title>
+    <sub-title>Episode 78</sub-title>
+    <desc>[CC]Manchester United v Brentford</desc>
+  </programme>
+  <programme channel="os1" start="20231011110000 +0000" stop="20231011113000 +0000">
+    <title>UEFA EURO 2024 Qualifiers Preview</title>
+    <sub-title>Episode 4</sub-title>
+    <desc>[CC]Episode 4</desc>
+  </programme>
+  <programme channel="os1" start="20231011113000 +0000" stop="20231011133000 +0000">
+    <title>Luton Town v Tottenham</title>
+    <sub-title>Episode 75</sub-title>
+    <desc>[CC]Luton Town v Tottenham</desc>
+  </programme>
+  <programme channel="os1" start="20231011133000 +0000" stop="20231011140000 +0000">
+    <title>PL Rewind</title>
+    <sub-title>Episode 9</sub-title>
+    <desc>[CC]Episode 9</desc>
+  </programme>
+  <programme channel="os1" start="20231011140000 +0000" stop="20231011150000 +0000">
+    <title>The Catch-Up Show</title>
+    <sub-title>Episode 9</sub-title>
+    <desc>[CC]Episode 9</desc>
+  </programme>
+  <programme channel="os1" start="20231011150000 +0000" stop="20231011170000 +0000">
+    <title>Brighton and Hove Albion v Liverpool</title>
+    <sub-title>Episode 74</sub-title>
+    <desc>[CC]Brighton and Hove Albion v Liverpool</desc>
+  </programme>
+  <programme channel="os1" start="20231011170000 +0000" stop="20231011173000 +0000">
+    <title>PL Stories</title>
+    <sub-title>#11</sub-title>
+    <desc>[CC]#11</desc>
+  </programme>
+  <programme channel="os1" start="20231011173000 +0000" stop="20231011193000 +0000">
+    <title>West Ham v Newcastle</title>
+    <sub-title>Episode 76</sub-title>
+    <desc>[CC]West Ham v Newcastle</desc>
+  </programme>
+  <programme channel="os1" start="20231011193000 +0000" stop="20231011200000 +0000">
+    <title>PL 23/24 Netbusters</title>
+    <sub-title>Episode 8</sub-title>
+    <desc>[CC]Episode 8</desc>
+  </programme>
+  <programme channel="os1" start="20231011200000 +0000" stop="20231011220000 +0000">
+    <title>Arsenal v Manchester City</title>
+    <sub-title>Episode 71</sub-title>
+    <desc>[CC]Arsenal v Manchester City</desc>
+  </programme>
+  <programme channel="os1" start="20231011220000 +0000" stop="20231011230000 +0000">
+    <title>The Catch-Up Show</title>
+    <sub-title>Episode 9</sub-title>
+    <desc>[CC]Episode 9</desc>
+  </programme>
+  <programme channel="os1" start="20231011230000 +0000" stop="20231012010000 +0000">
+    <title>Luton Town v Tottenham</title>
+    <sub-title>Episode 75</sub-title>
+    <desc>[CC]Luton Town v Tottenham</desc>
+  </programme>
+  <programme channel="os1" start="20231012010000 +0000" stop="20231012030000 +0000">
+    <title>Wolverhampton v Aston Villa</title>
+    <sub-title>Episode 79</sub-title>
+    <desc>[CC]Wolverhampton v Aston Villa</desc>
+  </programme>
+  <programme channel="os1" start="20231012030000 +0000" stop="20231012033000 +0000">
+    <title>PL Stories</title>
+    <sub-title>#11</sub-title>
+    <desc>[CC]#11</desc>
+  </programme>
+  <programme channel="os1" start="20231012033000 +0000" stop="20231012043000 +0000">
+    <title>Generation xG</title>
+    <sub-title>Episode 8</sub-title>
+    <desc>[CC]Episode 8</desc>
+  </programme>
+  <programme channel="os1" start="20231012043000 +0000" stop="20231012053000 +0000">
+    <title>The Catch-Up Show</title>
+    <sub-title>Episode 9</sub-title>
+    <desc>[CC]Episode 9</desc>
+  </programme>
+  <programme channel="os1" start="20231012053000 +0000" stop="20231012073000 +0000">
+    <title>Everton v AFC Bournemouth</title>
+    <sub-title>Episode 80</sub-title>
+    <desc>[CC]Everton v AFC Bournemouth</desc>
+  </programme>
+  <programme channel="os1" start="20231012073000 +0000" stop="20231012080000 +0000">
+    <title>Match Officials Mic'd Up</title>
+    <sub-title>Episode 2</sub-title>
+    <desc>[CC]Episode 2</desc>
+  </programme>
+  <programme channel="os1" start="20231012080000 +0000" stop="20231012083000 +0000">
+    <title>Hungry Jack's Football Bite</title>
+    <sub-title>Episode 6</sub-title>
+    <desc>[CC]Episode 6</desc>
+  </programme>
+  <programme channel="os1" start="20231012083000 +0000" stop="20231012103000 +0000">
+    <title>Crystal Palace v Nottingham Forest</title>
+    <sub-title>Episode 73</sub-title>
+    <desc>[CC]Crystal Palace v Nottingham Forest</desc>
+  </programme>
+  <programme channel="os1" start="20231012103000 +0000" stop="20231012123000 +0000">
+    <title>Burnley v Chelsea</title>
+    <sub-title>Episode 77</sub-title>
+    <desc>[CC]Burnley v Chelsea</desc>
+  </programme>
+  <programme channel="os1" start="20231012123000 +0000" stop="20231012130000 +0000">
+    <title>The Big Interview</title>
+    <sub-title>Episode 10</sub-title>
+    <desc>[CC]Episode 10</desc>
+  </programme>
+  <programme channel="os1" start="20231012130000 +0000" stop="20231012140000 +0000">
+    <title>The Catch-Up Show</title>
+    <sub-title>Episode 9</sub-title>
+    <desc>[CC]Episode 9</desc>
+  </programme>
+  <programme channel="os1" start="20231012140000 +0000" stop="20231012143000 +0000">
+    <title>Match Officials Mic'd Up</title>
+    <sub-title>Episode 2</sub-title>
+    <desc>[CC]Episode 2</desc>
+  </programme>
+  <programme channel="os1" start="20231012143000 +0000" stop="20231012150000 +0000">
+    <title>PL Stories</title>
+    <sub-title>#11</sub-title>
+    <desc>[CC]#11</desc>
+  </programme>
+  <programme channel="os1" start="20231012150000 +0000" stop="20231012151500 +0000">
+    <title>Hungry Jack's Football Bite</title>
+    <sub-title>Episode 6</sub-title>
+    <desc>[CC]Episode 6</desc>
+  </programme>
+  <programme channel="os1" start="20231012151500 +0000" stop="20231012155000 +0000">
+    <title>UEFA EURO 2024 Qualifiers Preview</title>
+    <sub-title>Episode 4</sub-title>
+    <desc>[CC]Episode 4</desc>
+  </programme>
+  <programme channel="os1" start="20231012155000 +0000" stop="20231012180000 +0000">
+    <title>LIVE: Latvia v Armenia</title>
+    <sub-title>Episode 139</sub-title>
+    <desc>[CC]Latvia v Armenia</desc>
+  </programme>
+  <programme channel="os1" start="20231012180000 +0000" stop="20231012183500 +0000">
+    <title>PL Rewind</title>
+    <sub-title>Episode 9</sub-title>
+    <desc>[CC]Episode 9</desc>
+  </programme>
+  <programme channel="os1" start="20231012183500 +0000" stop="20231012204500 +0000">
+    <title>LIVE: Spain v Scotland</title>
+    <sub-title>Episode 140</sub-title>
+    <desc>[CC]Spain v Scotland</desc>
+  </programme>
+  <programme channel="os1" start="20231012204500 +0000" stop="20231012211500 +0000">
+    <title>The Big Interview</title>
+    <sub-title>Episode 10</sub-title>
+    <desc>[CC]Episode 10</desc>
+  </programme>
+  <programme channel="os1" start="20231012211500 +0000" stop="20231012213000 +0000">
+    <title>PL Classic Match</title>
+    <sub-title>Episode 112</sub-title>
+    <desc>We delve into the Premier League archive to bring you a Classic Match.</desc>
+  </programme>
+  <programme channel="os1" start="20231012213000 +0000" stop="20231012220000 +0000">
+    <title>PL Stories</title>
+    <sub-title>#11</sub-title>
+    <desc>[CC]#11</desc>
+  </programme>
+  <programme channel="os1" start="20231012220000 +0000" stop="20231013000000 +0000">
+    <title>Latvia v Armenia</title>
+    <sub-title>Episode 139</sub-title>
+    <desc>[CC]Latvia v Armenia</desc>
+  </programme>
+  <programme channel="os12" start="20231006000000 +0000" stop="20231006003000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Show</sub-title>
+    <desc>LaLiga Show 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231006003000 +0000" stop="20231006023000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD08</desc>
+  </programme>
+  <programme channel="os12" start="20231006023000 +0000" stop="20231006043000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD08</desc>
+  </programme>
+  <programme channel="os12" start="20231006043000 +0000" stop="20231006063000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD08</desc>
+  </programme>
+  <programme channel="os12" start="20231006063000 +0000" stop="20231006080000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>Viva LaLiga</sub-title>
+    <desc>Viva LaLiga 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231006080000 +0000" stop="20231006100000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD08</desc>
+  </programme>
+  <programme channel="os12" start="20231006100000 +0000" stop="20231006120000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Classics</sub-title>
+    <desc>LaLiga 2018/2019 MD34</desc>
+  </programme>
+  <programme channel="os12" start="20231006120000 +0000" stop="20231006123000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Show</sub-title>
+    <desc>LaLiga Show 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231006123000 +0000" stop="20231006130000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga World</sub-title>
+    <desc>LaLiga World 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231006130000 +0000" stop="20231006133000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga News</sub-title>
+    <desc>LaLiga News 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231006133000 +0000" stop="20231006150000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>Viva LaLiga</sub-title>
+    <desc>Viva LaLiga 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231006150000 +0000" stop="20231006153000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Show</sub-title>
+    <desc>LaLiga Show 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231006153000 +0000" stop="20231006154500 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Zap</sub-title>
+    <desc>LaLiga Zap International 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231006154500 +0000" stop="20231006160000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Zap</sub-title>
+    <desc>LaLiga Zap International 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231006160000 +0000" stop="20231006163000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Tactics </sub-title>
+    <desc>LaLiga Tactics 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231006163000 +0000" stop="20231006170000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga News</sub-title>
+    <desc>LaLiga News 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231006170000 +0000" stop="20231006183000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>Viva LaLiga</sub-title>
+    <desc>Viva LaLiga 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231006183000 +0000" stop="20231006190000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Live</sub-title>
+    <desc>LaLiga Live Pre-Match 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231006190000 +0000" stop="20231006210000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231006210000 +0000" stop="20231006213000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Live</sub-title>
+    <desc>LaLiga Live Post-Match 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231006213000 +0000" stop="20231006220000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>Matches Highlights</sub-title>
+    <desc>Matches Highlights LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231006220000 +0000" stop="20231006233000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>Viva LaLiga</sub-title>
+    <desc>Viva LaLiga 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231006233000 +0000" stop="20231007000000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Show</sub-title>
+    <desc>LaLiga Show 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231007000000 +0000" stop="20231007001500 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Zap</sub-title>
+    <desc>LaLiga Zap International 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231007001500 +0000" stop="20231007003000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Zap</sub-title>
+    <desc>LaLiga Zap International 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231007003000 +0000" stop="20231007023000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231007023000 +0000" stop="20231007043000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD08</desc>
+  </programme>
+  <programme channel="os12" start="20231007043000 +0000" stop="20231007063000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD08</desc>
+  </programme>
+  <programme channel="os12" start="20231007063000 +0000" stop="20231007080000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>Viva LaLiga</sub-title>
+    <desc>Viva LaLiga 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231007080000 +0000" stop="20231007100000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231007100000 +0000" stop="20231007103000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga World</sub-title>
+    <desc>LaLiga World 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231007103000 +0000" stop="20231007110000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Show</sub-title>
+    <desc>LaLiga Show 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231007110000 +0000" stop="20231007120000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Live</sub-title>
+    <desc>LaLiga Live Pre-Match 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231007120000 +0000" stop="20231007140000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231007140000 +0000" stop="20231007141500 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Live</sub-title>
+    <desc>LaLiga Live Break 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231007141500 +0000" stop="20231007161500 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231007161500 +0000" stop="20231007163000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Live</sub-title>
+    <desc>LaLiga Live Break 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231007163000 +0000" stop="20231007183000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231007183000 +0000" stop="20231007190000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Live</sub-title>
+    <desc>LaLiga Live Break 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231007190000 +0000" stop="20231007210000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231007210000 +0000" stop="20231007220000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Live</sub-title>
+    <desc>LaLiga Live Post-Match 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231007220000 +0000" stop="20231007221500 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>Matches Highlights</sub-title>
+    <desc>Matches Highlights LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231007221500 +0000" stop="20231007223000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>Matches Highlights</sub-title>
+    <desc>Matches Highlights LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231007223000 +0000" stop="20231007224500 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>Matches Highlights</sub-title>
+    <desc>Matches Highlights LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231007224500 +0000" stop="20231007230000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>Matches Highlights</sub-title>
+    <desc>Matches Highlights LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231007230000 +0000" stop="20231008004500 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231008004500 +0000" stop="20231008023000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231008023000 +0000" stop="20231008043000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231008043000 +0000" stop="20231008063000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231008063000 +0000" stop="20231008073000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Live</sub-title>
+    <desc>LaLiga Live Post-Match 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231008073000 +0000" stop="20231008093000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231008093000 +0000" stop="20231008100000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga World</sub-title>
+    <desc>LaLiga World 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231008100000 +0000" stop="20231008101500 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>Matches Highlights</sub-title>
+    <desc>Matches Highlights LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231008101500 +0000" stop="20231008103000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>Matches Highlights</sub-title>
+    <desc>Matches Highlights LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231008103000 +0000" stop="20231008104500 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Zap</sub-title>
+    <desc>LaLiga Zap International 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231008104500 +0000" stop="20231008110000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Zap</sub-title>
+    <desc>LaLiga Zap International 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231008110000 +0000" stop="20231008120000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Live</sub-title>
+    <desc>LaLiga Live Pre-Match 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231008120000 +0000" stop="20231008140000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231008140000 +0000" stop="20231008141500 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Live</sub-title>
+    <desc>LaLiga Live Break 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231008141500 +0000" stop="20231008161500 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231008161500 +0000" stop="20231008163000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Live</sub-title>
+    <desc>LaLiga Live Break 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231008163000 +0000" stop="20231008183000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231008183000 +0000" stop="20231008190000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Live</sub-title>
+    <desc>LaLiga Live Break 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231008190000 +0000" stop="20231008210000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231008210000 +0000" stop="20231008223000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Live</sub-title>
+    <desc>LaLiga Live Post-Match 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231008223000 +0000" stop="20231008224500 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>Matches Highlights</sub-title>
+    <desc>Matches Highlights LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231008224500 +0000" stop="20231008230000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>Matches Highlights</sub-title>
+    <desc>Matches Highlights LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231008230000 +0000" stop="20231008231500 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>Matches Highlights</sub-title>
+    <desc>Matches Highlights LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231008231500 +0000" stop="20231008233000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>Matches Highlights</sub-title>
+    <desc>Matches Highlights LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231008233000 +0000" stop="20231008234500 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>Matches Highlights</sub-title>
+    <desc>Matches Highlights LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231008234500 +0000" stop="20231009013000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231009013000 +0000" stop="20231009020000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga World</sub-title>
+    <desc>LaLiga World 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231009020000 +0000" stop="20231009021500 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Zap</sub-title>
+    <desc>LaLiga Zap International 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231009021500 +0000" stop="20231009023000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Zap</sub-title>
+    <desc>LaLiga Zap International 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231009023000 +0000" stop="20231009043000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231009043000 +0000" stop="20231009063000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231009063000 +0000" stop="20231009080000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Live</sub-title>
+    <desc>LaLiga Live Post-Match 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231009080000 +0000" stop="20231009100000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231009100000 +0000" stop="20231009120000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231009120000 +0000" stop="20231009130000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Highlights</sub-title>
+    <desc>LALIGA EA Sports Highlights 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231009130000 +0000" stop="20231009133000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga News</sub-title>
+    <desc>LaLiga News 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231009133000 +0000" stop="20231009150000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Live</sub-title>
+    <desc>LaLiga Live Post-Match 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231009150000 +0000" stop="20231009153000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga World</sub-title>
+    <desc>LaLiga World 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231009153000 +0000" stop="20231009160000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Zap</sub-title>
+    <desc>LaLiga Zap International 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231009160000 +0000" stop="20231009163000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Best 11</sub-title>
+    <desc>LaLiga Best 11 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231009163000 +0000" stop="20231009170000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga News</sub-title>
+    <desc>LaLiga News 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231009170000 +0000" stop="20231009183000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>Viva LaLiga</sub-title>
+    <desc>Viva LaLiga 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231009183000 +0000" stop="20231009190000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Fans</sub-title>
+    <desc>LaLiga Fans 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231009190000 +0000" stop="20231009210000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231009210000 +0000" stop="20231009220000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Highlights</sub-title>
+    <desc>LALIGA EA Sports Highlights 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231009220000 +0000" stop="20231009233000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>Viva LaLiga</sub-title>
+    <desc>Viva LaLiga 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231009233000 +0000" stop="20231010000000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Zap</sub-title>
+    <desc>LaLiga Zap International 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231010000000 +0000" stop="20231010003000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Talking Football</sub-title>
+    <desc>LaLiga Talking Football 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231010003000 +0000" stop="20231010023000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231010023000 +0000" stop="20231010043000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231010043000 +0000" stop="20231010063000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231010063000 +0000" stop="20231010080000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>Viva LaLiga</sub-title>
+    <desc>Viva LaLiga 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231010080000 +0000" stop="20231010100000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231010100000 +0000" stop="20231010120000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Classics</sub-title>
+    <desc>LaLiga 2016/2017 MD31</desc>
+  </programme>
+  <programme channel="os12" start="20231010120000 +0000" stop="20231010130000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Hypermotion Highlights</sub-title>
+    <desc>LaLiga Hypermotion Highlights 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231010130000 +0000" stop="20231010133000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga News</sub-title>
+    <desc>LaLiga News 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231010133000 +0000" stop="20231010150000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>Viva LaLiga</sub-title>
+    <desc>Viva LaLiga 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231010150000 +0000" stop="20231010160000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Highlights</sub-title>
+    <desc>LALIGA EA Sports Highlights 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231010160000 +0000" stop="20231010163000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga World</sub-title>
+    <desc>LaLiga World 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231010163000 +0000" stop="20231010170000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga News</sub-title>
+    <desc>LaLiga News 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231010170000 +0000" stop="20231010183000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>Viva LaLiga</sub-title>
+    <desc>Viva LaLiga 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231010183000 +0000" stop="20231010190000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga World</sub-title>
+    <desc>LaLiga World 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231010190000 +0000" stop="20231010210000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231010210000 +0000" stop="20231010220000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Hypermotion Highlights</sub-title>
+    <desc>LaLiga Hypermotion Highlights 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231010220000 +0000" stop="20231010233000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>Viva LaLiga</sub-title>
+    <desc>Viva LaLiga 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231010233000 +0000" stop="20231011003000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Highlights</sub-title>
+    <desc>LALIGA EA Sports Highlights 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231011003000 +0000" stop="20231011023000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231011023000 +0000" stop="20231011043000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231011043000 +0000" stop="20231011063000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231011063000 +0000" stop="20231011080000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>Viva LaLiga</sub-title>
+    <desc>Viva LaLiga 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231011080000 +0000" stop="20231011100000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231011100000 +0000" stop="20231011120000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Classics</sub-title>
+    <desc>LaLiga 2016/2017 MD01</desc>
+  </programme>
+  <programme channel="os12" start="20231011120000 +0000" stop="20231011123000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Zap</sub-title>
+    <desc>LaLiga Zap International 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231011123000 +0000" stop="20231011130000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga World</sub-title>
+    <desc>LaLiga World 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231011130000 +0000" stop="20231011133000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga News</sub-title>
+    <desc>LaLiga News 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231011133000 +0000" stop="20231011150000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>Viva LaLiga</sub-title>
+    <desc>Viva LaLiga 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231011150000 +0000" stop="20231011153000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Best 11</sub-title>
+    <desc>LaLiga Best 11 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231011153000 +0000" stop="20231011160000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga World</sub-title>
+    <desc>LaLiga World 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231011160000 +0000" stop="20231011163000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Chronicles</sub-title>
+    <desc>LaLiga Chronicles 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231011163000 +0000" stop="20231011170000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga News</sub-title>
+    <desc>LaLiga News 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231011170000 +0000" stop="20231011183000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>Viva LaLiga</sub-title>
+    <desc>Viva LaLiga 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231011183000 +0000" stop="20231011190000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Zap</sub-title>
+    <desc>LaLiga Zap International 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231011190000 +0000" stop="20231011210000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231011210000 +0000" stop="20231011213000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga World</sub-title>
+    <desc>LaLiga World 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231011213000 +0000" stop="20231011220000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Chronicles</sub-title>
+    <desc>LaLiga Chronicles 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231011220000 +0000" stop="20231011233000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>Viva LaLiga</sub-title>
+    <desc>Viva LaLiga 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231011233000 +0000" stop="20231012003000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Hypermotion Highlights</sub-title>
+    <desc>LaLiga Hypermotion Highlights 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231012003000 +0000" stop="20231012023000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231012023000 +0000" stop="20231012043000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231012043000 +0000" stop="20231012063000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231012063000 +0000" stop="20231012080000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>Viva LaLiga</sub-title>
+    <desc>Viva LaLiga 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231012080000 +0000" stop="20231012100000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231012100000 +0000" stop="20231012120000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Classics</sub-title>
+    <desc>LaLiga 2016/2017 MD23</desc>
+  </programme>
+  <programme channel="os12" start="20231012120000 +0000" stop="20231012123000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga World</sub-title>
+    <desc>LaLiga World 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231012123000 +0000" stop="20231012130000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Chronicles</sub-title>
+    <desc>LaLiga Chronicles 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231012130000 +0000" stop="20231012133000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga News</sub-title>
+    <desc>LaLiga News 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231012133000 +0000" stop="20231012150000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>Viva LaLiga</sub-title>
+    <desc>Viva LaLiga 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231012150000 +0000" stop="20231012160000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Hypermotion Highlights</sub-title>
+    <desc>LaLiga Hypermotion Highlights 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231012160000 +0000" stop="20231012163000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Talking Football</sub-title>
+    <desc>LaLiga Talking Football 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231012163000 +0000" stop="20231012170000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga News</sub-title>
+    <desc>LaLiga News 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231012170000 +0000" stop="20231012190000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Classics</sub-title>
+    <desc>Liga Espa�ola 2009/2010 J25</desc>
+  </programme>
+  <programme channel="os12" start="20231012190000 +0000" stop="20231012210000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os12" start="20231012210000 +0000" stop="20231012213000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Fans</sub-title>
+    <desc>LaLiga Fans 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231012213000 +0000" stop="20231012220000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Zap</sub-title>
+    <desc>LaLiga Zap International 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231012220000 +0000" stop="20231013000000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD09</desc>
+  </programme>
+  <programme channel="os11" start="20231006000000 +0000" stop="20231006003000 +0000">
+    <title>THE BIG INTERVIEW EP09: NICK POPE</title>
+    <sub-title>Having been released by Ipswich Town at a young age, Nick Pope went to college for 3 years and looked set to have a career away from football, until a chance at Charlton meant his life would take a different path. Former Newcastle goalkeeper, Shay Given chats with Pope as they look through images of his time at the lower league clubs that shaped him into the Newcastle number 1 he is today. We also get a behind the scenes look at what it’s like to get a goalkeeper’s point of view of facing shots from the Newcastle squad.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231006003000 +0000" stop="20231006010000 +0000">
+    <title>THE BIG INTERVIEW EP04: MARCEL DESAILLY</title>
+    <sub-title>Born in Ghana and moving to France when he was young, World Cup winner Marcel Desailly talks to The Big Interview about his upbringing, developing his defensive skills at AC Milan and moving to Chelsea over Liverpool and Manchester United in 1998.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231006010000 +0000" stop="20231006013000 +0000">
+    <title>CLASSIC MATCH 17/18 CHE v BUR</title>
+    <sub-title>We delve into the Premier League archive to bring you a Classic Match from the 2017/2018 season.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231006013000 +0000" stop="20231006020000 +0000">
+    <title>CLASSIC MATCH 15/16 BOU v EVE</title>
+    <sub-title>We delve into the Premier League archive to bring you a Classic Match from the 2015/2016 season.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231006020000 +0000" stop="20231006030000 +0000">
+    <title>PL STORIES EP54: CHAMPIONS STORY</title>
+    <sub-title>The Champions Story follows the journey of Arsenal and Manchester City. Back in August Mikel Arteta's Arsenal were outsiders for the title, Pep Guardiola's City began the season as red hot favourites. Driven by the passion and love of their respective fans their thoughts drive the narrative as the season flows from autumn into winter and from winter into spring.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231006030000 +0000" stop="20231006040000 +0000">
+    <title>REVIEW MON 02 OCT</title>
+    <sub-title>Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231006040000 +0000" stop="20231006050000 +0000">
+    <title>THE CATCH-UP SHOW EP08</title>
+    <sub-title>The Catch-Up Show is your chance to relive the 'best bits' from across the Premier League week with a compilation of all PLP content and programming.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231006050000 +0000" stop="20231006053000 +0000">
+    <title>THE BIG INTERVIEW EP09: NICK POPE</title>
+    <sub-title>Having been released by Ipswich Town at a young age, Nick Pope went to college for 3 years and looked set to have a career away from football, until a chance at Charlton meant his life would take a different path. Former Newcastle goalkeeper, Shay Given chats with Pope as they look through images of his time at the lower league clubs that shaped him into the Newcastle number 1 he is today. We also get a behind the scenes look at what it’s like to get a goalkeeper’s point of view of facing shots from the Newcastle squad.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231006053000 +0000" stop="20231006060000 +0000">
+    <title>PL REWIND EP08: TOT v WIG 09/10</title>
+    <sub-title>Jermain Defoe joins Steve Bower to re-live a memorable day at White Hart Lane from November 2009 where he scored 5 goals in a 9-1 win against Wigan.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231006060000 +0000" stop="20231006063000 +0000">
+    <title>PL REWIND EP28: MCI v ARS 09/10</title>
+    <sub-title>PL Rewind delves back into the Premier League archive to showcase some memorable matches with players and managers who were key to that game. Talking us through behind-the-scenes stories and major on-pitch moments in true 'directors-commentary' style. With guests Shaun Wright-Phillips and Shay Given.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231006063000 +0000" stop="20231006070000 +0000">
+    <title>PL STORIES EP17: DAVID SEAMAN</title>
+    <sub-title>After the early heartbreak of getting released from his boyhood club Leeds United, David Seaman faced an uphill battle to make it to the top of the game. From humble beginnings in Rotherham, to Double Double’s for Arsenal, this is his unlikely story told by those who know him best.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231006070000 +0000" stop="20231006080000 +0000">
+    <title>PL GOATS EP02: THE CHAMPIONS</title>
+    <sub-title>Will Perry is joined by Premier League winners Owen Hargreaves and Peter Schmeichel to discuss the best title-winning teams in the Premier League era. Expect insightful anecdotes, interesting archive and lively debate across a packed hour-long programme.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231006080000 +0000" stop="20231006083000 +0000">
+    <title>PL STORIES EP18: (Subbed) CASEMIRO</title>
+    <sub-title>Before winning five Champions League titles at Real Madrid and securing a move to Manchester United, this Premier League footballer was honing his skills in the suburbs of Sao Paulo. Helping his single mother care for his family while chasing a dream to make it to the heights of world football, this is the story of Brazilian international, Casemiro.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231006083000 +0000" stop="20231006090000 +0000">
+    <title>THE BIG INTERVIEW EP09: NICK POPE</title>
+    <sub-title>Having been released by Ipswich Town at a young age, Nick Pope went to college for 3 years and looked set to have a career away from football, until a chance at Charlton meant his life would take a different path. Former Newcastle goalkeeper, Shay Given chats with Pope as they look through images of his time at the lower league clubs that shaped him into the Newcastle number 1 he is today. We also get a behind the scenes look at what it’s like to get a goalkeeper’s point of view of facing shots from the Newcastle squad.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231006090000 +0000" stop="20231006093000 +0000">
+    <title>NETBUSTERS EP07</title>
+    <sub-title>Relive the best action from the Premier League with this fast-paced ISO angle highlights show, featuring every game and every goal from each matchround.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231006093000 +0000" stop="20231006100000 +0000">
+    <title>FANTASY SHOW FRI 06 OCT</title>
+    <sub-title>Saka or Salah? Foden or Fernandes? Wilson or Watkins? Picking your Fantasy team is never easy but this season the Fantasy Show is on hand to help you with those big decisions. Fantasy experts will crunch the numbers and give their opinion on which Premier League stars you should be selecting ahead of each FPL Gameweek.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231006100000 +0000" stop="20231006110000 +0000">
+    <title>THE CATCH-UP SHOW EP08</title>
+    <sub-title>The Catch-Up Show is your chance to relive the 'best bits' from across the Premier League week with a compilation of all PLP content and programming.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231006110000 +0000" stop="20231006120000 +0000">
+    <title>WELCOME TO THE WEEKEND FRI 06 OCT</title>
+    <sub-title>Light-hearted, inclusive and entertaining, Welcome to the Weekend is the show that kicks off the Premier League weekend. We will focus on the football but also on the lifestyle topics that footballers and fans love - whether it’s food and family, music and movies, or fashion and gaming. The On-Screen Team will bring chemistry, energy and a load of fun.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231006120000 +0000" stop="20231006130000 +0000">
+    <title>PL STORIES EP54: CHAMPIONS STORY</title>
+    <sub-title>The Champions Story follows the journey of Arsenal and Manchester City. Back in August Mikel Arteta's Arsenal were outsiders for the title, Pep Guardiola's City began the season as red hot favourites. Driven by the passion and love of their respective fans their thoughts drive the narrative as the season flows from autumn into winter and from winter into spring.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231006130000 +0000" stop="20231006140000 +0000">
+    <title>PL GOATS EP02: THE CHAMPIONS</title>
+    <sub-title>Will Perry is joined by Premier League winners Owen Hargreaves and Peter Schmeichel to discuss the best title-winning teams in the Premier League era. Expect insightful anecdotes, interesting archive and lively debate across a packed hour-long programme.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231006140000 +0000" stop="20231006143000 +0000">
+    <title>FANTASY SHOW FRI 06 OCT</title>
+    <sub-title>Saka or Salah? Foden or Fernandes? Wilson or Watkins? Picking your Fantasy team is never easy but this season the Fantasy Show is on hand to help you with those big decisions. Fantasy experts will crunch the numbers and give their opinion on which Premier League stars you should be selecting ahead of each FPL Gameweek.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231006143000 +0000" stop="20231006153000 +0000">
+    <title>FANZONE FRI 06 OCT</title>
+    <sub-title>This is the show that puts international fans at the heart of the Premier League conversation. A phone-in for the digital generation, fans from around the world join our studio discussion via camera phones and weblinks to have their say about their teams and their favourite players.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231006153000 +0000" stop="20231006160000 +0000">
+    <title>PREVIEW EP08</title>
+    <sub-title>A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231006160000 +0000" stop="20231006170000 +0000">
+    <title>WELCOME TO THE WEEKEND FRI 06 OCT</title>
+    <sub-title>Light-hearted, inclusive and entertaining, Welcome to the Weekend is the show that kicks off the Premier League weekend. We will focus on the football but also on the lifestyle topics that footballers and fans love - whether it’s food and family, music and movies, or fashion and gaming. The On-Screen Team will bring chemistry, energy and a load of fun.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231006170000 +0000" stop="20231006180000 +0000">
+    <title>TEAM TALKS FRI 06 OCT</title>
+    <sub-title>Punditry, pressers and predictions ahead of the PL weekend. Our studio team tackle all the major talking points and we hear from the headline acts as the players and the managers have their say ahead of the action.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231006180000 +0000" stop="20231006183000 +0000">
+    <title>FANTASY SHOW FRI 06 OCT</title>
+    <sub-title>Saka or Salah? Foden or Fernandes? Wilson or Watkins? Picking your Fantasy team is never easy but this season the Fantasy Show is on hand to help you with those big decisions. Fantasy experts will crunch the numbers and give their opinion on which Premier League stars you should be selecting ahead of each FPL Gameweek.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231006183000 +0000" stop="20231006190000 +0000">
+    <title>THE BIG INTERVIEW EP09: NICK POPE</title>
+    <sub-title>Having been released by Ipswich Town at a young age, Nick Pope went to college for 3 years and looked set to have a career away from football, until a chance at Charlton meant his life would take a different path. Former Newcastle goalkeeper, Shay Given chats with Pope as they look through images of his time at the lower league clubs that shaped him into the Newcastle number 1 he is today. We also get a behind the scenes look at what it’s like to get a goalkeeper’s point of view of facing shots from the Newcastle squad.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231006190000 +0000" stop="20231006200000 +0000">
+    <title>FANZONE FRI 06 OCT</title>
+    <sub-title>This is the show that puts international fans at the heart of the Premier League conversation. A phone-in for the digital generation, fans from around the world join our studio discussion via camera phones and weblinks to have their say about their teams and their favourite players.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231006200000 +0000" stop="20231006203000 +0000">
+    <title>PREVIEW EP08</title>
+    <sub-title>A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231006203000 +0000" stop="20231006213000 +0000">
+    <title>WELCOME TO THE WEEKEND FRI 06 OCT</title>
+    <sub-title>Light-hearted, inclusive and entertaining, Welcome to the Weekend is the show that kicks off the Premier League weekend. We will focus on the football but also on the lifestyle topics that footballers and fans love - whether it’s food and family, music and movies, or fashion and gaming. The On-Screen Team will bring chemistry, energy and a load of fun.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231006213000 +0000" stop="20231006223000 +0000">
+    <title>PL STORIES EP54: CHAMPIONS STORY</title>
+    <sub-title>The Champions Story follows the journey of Arsenal and Manchester City. Back in August Mikel Arteta's Arsenal were outsiders for the title, Pep Guardiola's City began the season as red hot favourites. Driven by the passion and love of their respective fans their thoughts drive the narrative as the season flows from autumn into winter and from winter into spring.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231006223000 +0000" stop="20231006233000 +0000">
+    <title>TEAM TALKS FRI 06 OCT</title>
+    <sub-title>Punditry, pressers and predictions ahead of the PL weekend. Our studio team tackle all the major talking points and we hear from the headline acts as the players and the managers have their say ahead of the action.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231006233000 +0000" stop="20231007000000 +0000">
+    <title>FANTASY SHOW FRI 06 OCT</title>
+    <sub-title>Saka or Salah? Foden or Fernandes? Wilson or Watkins? Picking your Fantasy team is never easy but this season the Fantasy Show is on hand to help you with those big decisions. Fantasy experts will crunch the numbers and give their opinion on which Premier League stars you should be selecting ahead of each FPL Gameweek.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231007000000 +0000" stop="20231007010000 +0000">
+    <title>FANZONE FRI 06 OCT</title>
+    <sub-title>This is the show that puts international fans at the heart of the Premier League conversation. A phone-in for the digital generation, fans from around the world join our studio discussion via camera phones and weblinks to have their say about their teams and their favourite players.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231007010000 +0000" stop="20231007013000 +0000">
+    <title>PREVIEW EP08</title>
+    <sub-title>A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231007013000 +0000" stop="20231007020000 +0000">
+    <title>PL STORIES EP18: (Subbed) CASEMIRO</title>
+    <sub-title>Before winning five Champions League titles at Real Madrid and securing a move to Manchester United, this Premier League footballer was honing his skills in the suburbs of Sao Paulo. Helping his single mother care for his family while chasing a dream to make it to the heights of world football, this is the story of Brazilian international, Casemiro.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231007020000 +0000" stop="20231007030000 +0000">
+    <title>WELCOME TO THE WEEKEND FRI 06 OCT</title>
+    <sub-title>Light-hearted, inclusive and entertaining, Welcome to the Weekend is the show that kicks off the Premier League weekend. We will focus on the football but also on the lifestyle topics that footballers and fans love - whether it’s food and family, music and movies, or fashion and gaming. The On-Screen Team will bring chemistry, energy and a load of fun.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231007030000 +0000" stop="20231007033000 +0000">
+    <title>THE BIG INTERVIEW EP09: NICK POPE</title>
+    <sub-title>Having been released by Ipswich Town at a young age, Nick Pope went to college for 3 years and looked set to have a career away from football, until a chance at Charlton meant his life would take a different path. Former Newcastle goalkeeper, Shay Given chats with Pope as they look through images of his time at the lower league clubs that shaped him into the Newcastle number 1 he is today. We also get a behind the scenes look at what it’s like to get a goalkeeper’s point of view of facing shots from the Newcastle squad.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231007033000 +0000" stop="20231007040000 +0000">
+    <title>FANTASY SHOW FRI 06 OCT</title>
+    <sub-title>Saka or Salah? Foden or Fernandes? Wilson or Watkins? Picking your Fantasy team is never easy but this season the Fantasy Show is on hand to help you with those big decisions. Fantasy experts will crunch the numbers and give their opinion on which Premier League stars you should be selecting ahead of each FPL Gameweek.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231007040000 +0000" stop="20231007050000 +0000">
+    <title>TEAM TALKS FRI 06 OCT</title>
+    <sub-title>Punditry, pressers and predictions ahead of the PL weekend. Our studio team tackle all the major talking points and we hear from the headline acts as the players and the managers have their say ahead of the action.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231007050000 +0000" stop="20231007060000 +0000">
+    <title>FANZONE FRI 06 OCT</title>
+    <sub-title>This is the show that puts international fans at the heart of the Premier League conversation. A phone-in for the digital generation, fans from around the world join our studio discussion via camera phones and weblinks to have their say about their teams and their favourite players.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231007060000 +0000" stop="20231007063000 +0000">
+    <title>PREVIEW EP08</title>
+    <sub-title>A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231007063000 +0000" stop="20231007070000 +0000">
+    <title>PL STORIES EP11: (Subbed) ERLING HAALAND</title>
+    <sub-title>He’s only been at Manchester City for one year, but striker Erling Haaland has already sent records tumbling in the Premier League. We join the 23-year-old in his native Norway to reflect on his blockbuster season and catch up with his father and former Man City player Alfie to show how the youngster is coping as footballs hottest property!</sub-title>
+  </programme>
+  <programme channel="os11" start="20231007070000 +0000" stop="20231007080000 +0000">
+    <title>TEAM TALKS FRI 06 OCT</title>
+    <sub-title>Punditry, pressers and predictions ahead of the PL weekend. Our studio team tackle all the major talking points and we hear from the headline acts as the players and the managers have their say ahead of the action.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231007080000 +0000" stop="20231007090000 +0000">
+    <title>WELCOME TO THE WEEKEND FRI 06 OCT</title>
+    <sub-title>Light-hearted, inclusive and entertaining, Welcome to the Weekend is the show that kicks off the Premier League weekend. We will focus on the football but also on the lifestyle topics that footballers and fans love - whether it’s food and family, music and movies, or fashion and gaming. The On-Screen Team will bring chemistry, energy and a load of fun.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231007090000 +0000" stop="20231007093000 +0000">
+    <title>FANTASY SHOW FRI 06 OCT</title>
+    <sub-title>Saka or Salah? Foden or Fernandes? Wilson or Watkins? Picking your Fantasy team is never easy but this season the Fantasy Show is on hand to help you with those big decisions. Fantasy experts will crunch the numbers and give their opinion on which Premier League stars you should be selecting ahead of each FPL Gameweek.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231007093000 +0000" stop="20231007100000 +0000">
+    <title>PL STORIES EP18: (Subbed) CASEMIRO</title>
+    <sub-title>Before winning five Champions League titles at Real Madrid and securing a move to Manchester United, this Premier League footballer was honing his skills in the suburbs of Sao Paulo. Helping his single mother care for his family while chasing a dream to make it to the heights of world football, this is the story of Brazilian international, Casemiro.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231007100000 +0000" stop="20231007103000 +0000">
+    <title>PREVIEW EP08</title>
+    <sub-title>A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231007103000 +0000" stop="20231007190000 +0000">
+    <title>MATCHDAY LIVE Luton Town v Tottenham Hotspur / Manchester United v Brentford (Goal Rush) / Crystal Palace v Nottingham Forest</title>
+    <sub-title>Live match action from the latest match round of the Premier League, with insight, analysis, and reaction from our expert panel of studio guests.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231007190000 +0000" stop="20231007200000 +0000">
+    <title>MATCHDAY LIVE EXTRA SAT 07 OCT</title>
+    <sub-title>A complete review of all the day’s Premier League football, with highlights and studio discussion. Matchday Live Extra broadcasts immediately after Matchday Live on Saturday.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231007200000 +0000" stop="20231007203000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Luton Town v Tottenham Hotspur</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231007203000 +0000" stop="20231007210000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Manchester United v Brentford</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231007210000 +0000" stop="20231007213000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Burnley v Chelsea</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231007213000 +0000" stop="20231007220000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Fulham v Sheffield United</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231007220000 +0000" stop="20231007223000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Everton v Bournemouth</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231007223000 +0000" stop="20231007230000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Crystal Palace v Nottingham Forest</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231007230000 +0000" stop="20231008000000 +0000">
+    <title>MATCHDAY LIVE EXTRA SAT 07 OCT</title>
+    <sub-title>A complete review of all the day’s Premier League football, with highlights and studio discussion. Matchday Live Extra broadcasts immediately after Matchday Live on Saturday.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231008000000 +0000" stop="20231008003000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Luton Town v Tottenham Hotspur</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231008003000 +0000" stop="20231008010000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Manchester United v Brentford</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231008010000 +0000" stop="20231008013000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Burnley v Chelsea</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231008013000 +0000" stop="20231008020000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Fulham v Sheffield United</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231008020000 +0000" stop="20231008023000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Everton v Bournemouth</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231008023000 +0000" stop="20231008030000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Crystal Palace v Nottingham Forest</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231008030000 +0000" stop="20231008040000 +0000">
+    <title>MATCHDAY LIVE EXTRA SAT 07 OCT</title>
+    <sub-title>A complete review of all the day’s Premier League football, with highlights and studio discussion. Matchday Live Extra broadcasts immediately after Matchday Live on Saturday.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231008040000 +0000" stop="20231008043000 +0000">
+    <title>CLASSIC MATCH 13/14 MNC v ARS</title>
+    <sub-title>We delve into the Premier League archive to bring you a Classic Match from the 2013/2014 season.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231008043000 +0000" stop="20231008050000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Luton Town v Tottenham Hotspur</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231008050000 +0000" stop="20231008053000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Manchester United v Brentford</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231008053000 +0000" stop="20231008060000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Burnley v Chelsea</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231008060000 +0000" stop="20231008063000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Fulham v Sheffield United</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231008063000 +0000" stop="20231008070000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Everton v Bournemouth</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231008070000 +0000" stop="20231008073000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Crystal Palace v Nottingham Forest</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231008073000 +0000" stop="20231008083000 +0000">
+    <title>MATCHDAY LIVE EXTRA SAT 07 OCT</title>
+    <sub-title>A complete review of all the day’s Premier League football, with highlights and studio discussion. Matchday Live Extra broadcasts immediately after Matchday Live on Saturday.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231008083000 +0000" stop="20231008090000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Luton Town v Tottenham Hotspur</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231008090000 +0000" stop="20231008093000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Manchester United v Brentford</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231008093000 +0000" stop="20231008100000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Burnley v Chelsea</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231008100000 +0000" stop="20231008103000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Fulham v Sheffield United</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231008103000 +0000" stop="20231008110000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Everton v Bournemouth</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231008110000 +0000" stop="20231008113000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Crystal Palace v Nottingham Forest</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231008113000 +0000" stop="20231008120000 +0000">
+    <title>THE BIG INTERVIEW EP09: NICK POPE</title>
+    <sub-title>Having been released by Ipswich Town at a young age, Nick Pope went to college for 3 years and looked set to have a career away from football, until a chance at Charlton meant his life would take a different path. Former Newcastle goalkeeper, Shay Given chats with Pope as they look through images of his time at the lower league clubs that shaped him into the Newcastle number 1 he is today. We also get a behind the scenes look at what it’s like to get a goalkeeper’s point of view of facing shots from the Newcastle squad.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231008120000 +0000" stop="20231008183000 +0000">
+    <title>MATCHDAY LIVE Brighton &amp; Hove Albion v Liverpool / Arsenal v Manchester City</title>
+    <sub-title>Live match action from the latest match round of the Premier League, with insight, analysis, and reaction from our expert panel of studio guests.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231008183000 +0000" stop="20231008193000 +0000">
+    <title>PL GOATS EP02: THE CHAMPIONS</title>
+    <sub-title>Will Perry is joined by Premier League winners Owen Hargreaves and Peter Schmeichel to discuss the best title-winning teams in the Premier League era. Expect insightful anecdotes, interesting archive and lively debate across a packed hour-long programme.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231008193000 +0000" stop="20231008210000 +0000">
+    <title>THE WEEKEND WRAP SUN 08 OCT</title>
+    <sub-title>The Weekend Wrap features comprehensive match highlights, the best post-match reaction and expert analysis from a high-class team of pundits.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231008210000 +0000" stop="20231008213000 +0000">
+    <title>PL STORIES EP18: (Subbed) CASEMIRO</title>
+    <sub-title>Before winning five Champions League titles at Real Madrid and securing a move to Manchester United, this Premier League footballer was honing his skills in the suburbs of Sao Paulo. Helping his single mother care for his family while chasing a dream to make it to the heights of world football, this is the story of Brazilian international, Casemiro.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231008213000 +0000" stop="20231008220000 +0000">
+    <title>THE BIG INTERVIEW EP09: NICK POPE</title>
+    <sub-title>Having been released by Ipswich Town at a young age, Nick Pope went to college for 3 years and looked set to have a career away from football, until a chance at Charlton meant his life would take a different path. Former Newcastle goalkeeper, Shay Given chats with Pope as they look through images of his time at the lower league clubs that shaped him into the Newcastle number 1 he is today. We also get a behind the scenes look at what it’s like to get a goalkeeper’s point of view of facing shots from the Newcastle squad.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231008220000 +0000" stop="20231008230000 +0000">
+    <title>REVIEW SUN 08 OCT</title>
+    <sub-title>Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231008230000 +0000" stop="20231008233000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Brighton &amp; Hove Albion v Liverpool</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231008233000 +0000" stop="20231009000000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 West Ham United v Newcastle United</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231009000000 +0000" stop="20231009003000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Wolverhampton Wanderers v Aston Villa</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231009003000 +0000" stop="20231009010000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Arsenal v Manchester City</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231009010000 +0000" stop="20231009023000 +0000">
+    <title>THE WEEKEND WRAP SUN 08 OCT</title>
+    <sub-title>The Weekend Wrap features comprehensive match highlights, the best post-match reaction and expert analysis from a high-class team of pundits.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231009023000 +0000" stop="20231009030000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Manchester United v Brentford</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231009030000 +0000" stop="20231009033000 +0000">
+    <title>PL STORIES EP18: (Subbed) CASEMIRO</title>
+    <sub-title>Before winning five Champions League titles at Real Madrid and securing a move to Manchester United, this Premier League footballer was honing his skills in the suburbs of Sao Paulo. Helping his single mother care for his family while chasing a dream to make it to the heights of world football, this is the story of Brazilian international, Casemiro.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231009033000 +0000" stop="20231009040000 +0000">
+    <title>THE BIG INTERVIEW EP09: NICK POPE</title>
+    <sub-title>Having been released by Ipswich Town at a young age, Nick Pope went to college for 3 years and looked set to have a career away from football, until a chance at Charlton meant his life would take a different path. Former Newcastle goalkeeper, Shay Given chats with Pope as they look through images of his time at the lower league clubs that shaped him into the Newcastle number 1 he is today. We also get a behind the scenes look at what it’s like to get a goalkeeper’s point of view of facing shots from the Newcastle squad.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231009040000 +0000" stop="20231009043000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Wolverhampton Wanderers v Aston Villa</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231009043000 +0000" stop="20231009050000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 West Ham United v Newcastle United</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231009050000 +0000" stop="20231009053000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Brighton &amp; Hove Albion v Liverpool</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231009053000 +0000" stop="20231009060000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Arsenal v Manchester City</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231009060000 +0000" stop="20231009070000 +0000">
+    <title>REVIEW SUN 08 OCT</title>
+    <sub-title>Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231009070000 +0000" stop="20231009073000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Luton Town v Tottenham Hotspur</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231009073000 +0000" stop="20231009090000 +0000">
+    <title>THE WEEKEND WRAP SUN 08 OCT</title>
+    <sub-title>The Weekend Wrap features comprehensive match highlights, the best post-match reaction and expert analysis from a high-class team of pundits.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231009090000 +0000" stop="20231009093000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Everton v Bournemouth</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231009093000 +0000" stop="20231009100000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Crystal Palace v Nottingham Forest</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231009100000 +0000" stop="20231009103000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Brighton &amp; Hove Albion v Liverpool</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231009103000 +0000" stop="20231009110000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 West Ham United v Newcastle United</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231009110000 +0000" stop="20231009113000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Wolverhampton Wanderers v Aston Villa</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231009113000 +0000" stop="20231009123000 +0000">
+    <title>REVIEW SUN 08 OCT</title>
+    <sub-title>Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231009123000 +0000" stop="20231009130000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Arsenal v Manchester City</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231009130000 +0000" stop="20231009140000 +0000">
+    <title>KELLY &amp; WRIGHTY MON 09 OCT</title>
+    <sub-title>Weekly chat show hosted by Kelly Cates and Ian Wright. Alongside their studio guests, they take a more in-depth look at the headlines that follow the football each weekend and explore issues and topics away from the pitch.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231009140000 +0000" stop="20231009143000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Brighton &amp; Hove Albion v Liverpool</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231009143000 +0000" stop="20231009160000 +0000">
+    <title>THE WEEKEND WRAP SUN 08 OCT</title>
+    <sub-title>The Weekend Wrap features comprehensive match highlights, the best post-match reaction and expert analysis from a high-class team of pundits.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231009160000 +0000" stop="20231009170000 +0000">
+    <title>GENERATION xG MON 09 OCT</title>
+    <sub-title>A deep dive into the tactical trends and statistical insights of modern football with input from players, managers and data experts from the 'fanalyst' community. This programme will analyse the on-field action in forensic detail and give hard core Premier League fans a new insight into what is happening on the pitch and why.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231009170000 +0000" stop="20231009173000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 West Ham United v Newcastle United</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231009173000 +0000" stop="20231009180000 +0000">
+    <title>NETBUSTERS EP08</title>
+    <sub-title>Relive the best action from the Premier League with this fast-paced ISO angle highlights show, featuring every game and every goal from each matchround.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231009180000 +0000" stop="20231009190000 +0000">
+    <title>KELLY &amp; WRIGHTY MON 09 OCT</title>
+    <sub-title>Weekly chat show hosted by Kelly Cates and Ian Wright. Alongside their studio guests, they take a more in-depth look at the headlines that follow the football each weekend and explore issues and topics away from the pitch.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231009190000 +0000" stop="20231009200000 +0000">
+    <title>FANZONE MON 09 OCT</title>
+    <sub-title>This is the show that puts international fans at the heart of the Premier League conversation. A phone-in for the digital generation, fans from around the world join our studio discussion via camera phones and weblinks to have their say about their teams and their favourite players.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231009200000 +0000" stop="20231009210000 +0000">
+    <title>REVIEW SUN 08 OCT</title>
+    <sub-title>Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231009210000 +0000" stop="20231009213000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Arsenal v Manchester City</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231009213000 +0000" stop="20231009220000 +0000">
+    <title>NETBUSTERS EP08</title>
+    <sub-title>Relive the best action from the Premier League with this fast-paced ISO angle highlights show, featuring every game and every goal from each matchround.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231009220000 +0000" stop="20231009230000 +0000">
+    <title>GENERATION xG MON 09 OCT</title>
+    <sub-title>A deep dive into the tactical trends and statistical insights of modern football with input from players, managers and data experts from the 'fanalyst' community. This programme will analyse the on-field action in forensic detail and give hard core Premier League fans a new insight into what is happening on the pitch and why.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231009230000 +0000" stop="20231010000000 +0000">
+    <title>FANZONE MON 09 OCT</title>
+    <sub-title>This is the show that puts international fans at the heart of the Premier League conversation. A phone-in for the digital generation, fans from around the world join our studio discussion via camera phones and weblinks to have their say about their teams and their favourite players.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231010000000 +0000" stop="20231010003000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Burnley v Chelsea</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231010003000 +0000" stop="20231010010000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Crystal Palace v Nottingham Forest</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231010010000 +0000" stop="20231010020000 +0000">
+    <title>KELLY &amp; WRIGHTY MON 09 OCT</title>
+    <sub-title>Weekly chat show hosted by Kelly Cates and Ian Wright. Alongside their studio guests, they take a more in-depth look at the headlines that follow the football each weekend and explore issues and topics away from the pitch.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231010020000 +0000" stop="20231010023000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Arsenal v Manchester City</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231010023000 +0000" stop="20231010030000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Wolverhampton Wanderers v Aston Villa</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231010030000 +0000" stop="20231010040000 +0000">
+    <title>GENERATION xG MON 09 OCT</title>
+    <sub-title>A deep dive into the tactical trends and statistical insights of modern football with input from players, managers and data experts from the 'fanalyst' community. This programme will analyse the on-field action in forensic detail and give hard core Premier League fans a new insight into what is happening on the pitch and why.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231010040000 +0000" stop="20231010043000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Fulham v Sheffield United</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231010043000 +0000" stop="20231010053000 +0000">
+    <title>FANZONE MON 09 OCT</title>
+    <sub-title>This is the show that puts international fans at the heart of the Premier League conversation. A phone-in for the digital generation, fans from around the world join our studio discussion via camera phones and weblinks to have their say about their teams and their favourite players.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231010053000 +0000" stop="20231010060000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Manchester United v Brentford</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231010060000 +0000" stop="20231010070000 +0000">
+    <title>KELLY &amp; WRIGHTY MON 09 OCT</title>
+    <sub-title>Weekly chat show hosted by Kelly Cates and Ian Wright. Alongside their studio guests, they take a more in-depth look at the headlines that follow the football each weekend and explore issues and topics away from the pitch.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231010070000 +0000" stop="20231010073000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Arsenal v Manchester City</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231010073000 +0000" stop="20231010080000 +0000">
+    <title>NETBUSTERS EP08</title>
+    <sub-title>Relive the best action from the Premier League with this fast-paced ISO angle highlights show, featuring every game and every goal from each matchround.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231010080000 +0000" stop="20231010090000 +0000">
+    <title>PL MOMENTS EP04: KEVIN PHILLIPS' GREATEST GOALSCORERS</title>
+    <sub-title>PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231010090000 +0000" stop="20231010093000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Brighton &amp; Hove Albion v Liverpool</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231010093000 +0000" stop="20231010103000 +0000">
+    <title>FANZONE MON 09 OCT</title>
+    <sub-title>This is the show that puts international fans at the heart of the Premier League conversation. A phone-in for the digital generation, fans from around the world join our studio discussion via camera phones and weblinks to have their say about their teams and their favourite players.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231010103000 +0000" stop="20231010110000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Burnley v Chelsea</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231010110000 +0000" stop="20231010113000 +0000">
+    <title>PL STORIES EP14: A NEW ERA IN GOOD KOMPANY</title>
+    <sub-title>We sit down with Burnley co-owner and NFL star J.J. Watt, his wife Kealia along with manager Vincent Kompany to talk all things Burnley – why they all got involved in the project and what the future holds for the Clarets as they enter an exciting new chapter in their footballing story.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231010113000 +0000" stop="20231010123000 +0000">
+    <title>GENERATION xG MON 09 OCT</title>
+    <sub-title>A deep dive into the tactical trends and statistical insights of modern football with input from players, managers and data experts from the 'fanalyst' community. This programme will analyse the on-field action in forensic detail and give hard core Premier League fans a new insight into what is happening on the pitch and why.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231010123000 +0000" stop="20231010130000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 West Ham United v Newcastle United</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231010130000 +0000" stop="20231010133000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Everton v Bournemouth</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231010133000 +0000" stop="20231010140000 +0000">
+    <title>NETBUSTERS EP08</title>
+    <sub-title>Relive the best action from the Premier League with this fast-paced ISO angle highlights show, featuring every game and every goal from each matchround.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231010140000 +0000" stop="20231010143000 +0000">
+    <title>PL REWIND EP09: WIM 98/99</title>
+    <sub-title>On the latest instalment of PL Rewind former Wimbledon stars Marcus Gayle and Efan Ekoku join Steve Bower to look back at two famous wins from the 1998/99 season, against West Ham and Arsenal.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231010143000 +0000" stop="20231010153000 +0000">
+    <title>PL MOMENTS EP04: KEVIN PHILLIPS' GREATEST GOALSCORERS</title>
+    <sub-title>PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231010153000 +0000" stop="20231010163000 +0000">
+    <title>REVIEW SUN 08 OCT</title>
+    <sub-title>Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231010163000 +0000" stop="20231010173000 +0000">
+    <title>FANZONE MON 09 OCT</title>
+    <sub-title>This is the show that puts international fans at the heart of the Premier League conversation. A phone-in for the digital generation, fans from around the world join our studio discussion via camera phones and weblinks to have their say about their teams and their favourite players.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231010173000 +0000" stop="20231010180000 +0000">
+    <title>NETBUSTERS EP08</title>
+    <sub-title>Relive the best action from the Premier League with this fast-paced ISO angle highlights show, featuring every game and every goal from each matchround.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231010180000 +0000" stop="20231010183000 +0000">
+    <title>MATCH OFFICIALS MIC'D UP TUE 10 OCT</title>
+    <sub-title>Match Officials Mic’d Up is back with more exclusive audio from the Premier League’s match officials – including from the VAR booth. Michael Owen is joined once again by PGMOL’s Chief Refereeing Officer, Howard Webb, as they examine and discuss some of the most talked about incidents and decisions from Matchweeks 5-8.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231010183000 +0000" stop="20231010190000 +0000">
+    <title>PL STORIES EP39: A REFEREEING LEGACY</title>
+    <sub-title>We step inside the life of a one of a kind South-Asian refereeing family. Jarnail Singh, alongside his son’s Sunny Singh Gill and Bhupinder Singh Gill, have made history officiating in the EFL and Premier League. They share the journey behind their success and the sacrifices it takes to make it to the top.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231010190000 +0000" stop="20231010193000 +0000">
+    <title>PL REWIND EP09: WIM 98/99</title>
+    <sub-title>On the latest instalment of PL Rewind former Wimbledon stars Marcus Gayle and Efan Ekoku join Steve Bower to look back at two famous wins from the 1998/99 season, against West Ham and Arsenal.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231010193000 +0000" stop="20231010200000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Arsenal v Manchester City</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231010200000 +0000" stop="20231010210000 +0000">
+    <title>KELLY &amp; WRIGHTY MON 09 OCT</title>
+    <sub-title>Weekly chat show hosted by Kelly Cates and Ian Wright. Alongside their studio guests, they take a more in-depth look at the headlines that follow the football each weekend and explore issues and topics away from the pitch.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231010210000 +0000" stop="20231010213000 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Wolverhampton Wanderers v Aston Villa</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231010213000 +0000" stop="20231010223000 +0000">
+    <title>REVIEW SUN 08 OCT</title>
+    <sub-title>Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231010223000 +0000" stop="20231010230000 +0000">
+    <title>NETBUSTERS EP08</title>
+    <sub-title>Relive the best action from the Premier League with this fast-paced ISO angle highlights show, featuring every game and every goal from each matchround.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231010230000 +0000" stop="20231011000000 +0000">
+    <title>PL MOMENTS EP04: KEVIN PHILLIPS' GREATEST GOALSCORERS</title>
+    <sub-title>PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231011000000 +0000" stop="20231011002600 +0000">
+    <title>PL REWIND EP09: WIM 98/99</title>
+    <sub-title>On the latest instalment of PL Rewind former Wimbledon stars Marcus Gayle and Efan Ekoku join Steve Bower to look back at two famous wins from the 1998/99 season, against West Ham and Arsenal.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231011003000 +0000" stop="20231011012200 +0000">
+    <title>GENERATION xG MON 09 OCT</title>
+    <sub-title>A deep dive into the tactical trends and statistical insights of modern football with input from players, managers and data experts from the 'fanalyst' community. This programme will analyse the on-field action in forensic detail and give hard core Premier League fans a new insight into what is happening on the pitch and why.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231011013000 +0000" stop="20231011015600 +0000">
+    <title>MATCH OFFICIALS MIC'D UP TUE 10 OCT</title>
+    <sub-title>Match Officials Mic’d Up is back with more exclusive audio from the Premier League’s match officials – including from the VAR booth. Michael Owen is joined once again by PGMOL’s Chief Refereeing Officer, Howard Webb, as they examine and discuss some of the most talked about incidents and decisions from Matchweeks 5-8.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231011020000 +0000" stop="20231011022600 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 West Ham United v Newcastle United</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231011023000 +0000" stop="20231011032200 +0000">
+    <title>REVIEW SUN 08 OCT</title>
+    <sub-title>Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231011033000 +0000" stop="20231011042200 +0000">
+    <title>PL GOATS EP02: THE CHAMPIONS</title>
+    <sub-title>Will Perry is joined by Premier League winners Owen Hargreaves and Peter Schmeichel to discuss the best title-winning teams in the Premier League era. Expect insightful anecdotes, interesting archive and lively debate across a packed hour-long programme.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231011043000 +0000" stop="20231011045600 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Arsenal v Manchester City</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231011050000 +0000" stop="20231011055200 +0000">
+    <title>KELLY &amp; WRIGHTY MON 09 OCT</title>
+    <sub-title>Weekly chat show hosted by Kelly Cates and Ian Wright. Alongside their studio guests, they take a more in-depth look at the headlines that follow the football each weekend and explore issues and topics away from the pitch.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231011060000 +0000" stop="20231011065200 +0000">
+    <title>PL MOMENTS EP04: KEVIN PHILLIPS' GREATEST GOALSCORERS</title>
+    <sub-title>PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231011070000 +0000" stop="20231011072600 +0000">
+    <title>PL REWIND EP09: WIM 98/99</title>
+    <sub-title>On the latest instalment of PL Rewind former Wimbledon stars Marcus Gayle and Efan Ekoku join Steve Bower to look back at two famous wins from the 1998/99 season, against West Ham and Arsenal.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231011073000 +0000" stop="20231011075600 +0000">
+    <title>MATCH OFFICIALS MIC'D UP TUE 10 OCT</title>
+    <sub-title>Match Officials Mic’d Up is back with more exclusive audio from the Premier League’s match officials – including from the VAR booth. Michael Owen is joined once again by PGMOL’s Chief Refereeing Officer, Howard Webb, as they examine and discuss some of the most talked about incidents and decisions from Matchweeks 5-8.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231011080000 +0000" stop="20231011085200 +0000">
+    <title>GENERATION xG MON 09 OCT</title>
+    <sub-title>A deep dive into the tactical trends and statistical insights of modern football with input from players, managers and data experts from the 'fanalyst' community. This programme will analyse the on-field action in forensic detail and give hard core Premier League fans a new insight into what is happening on the pitch and why.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231011090000 +0000" stop="20231011092600 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Manchester United v Brentford</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231011093000 +0000" stop="20231011095600 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Arsenal v Manchester City</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231011100000 +0000" stop="20231011105200 +0000">
+    <title>KELLY &amp; WRIGHTY MON 09 OCT</title>
+    <sub-title>Weekly chat show hosted by Kelly Cates and Ian Wright. Alongside their studio guests, they take a more in-depth look at the headlines that follow the football each weekend and explore issues and topics away from the pitch.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231011110000 +0000" stop="20231011112600 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Crystal Palace v Nottingham Forest</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231011113000 +0000" stop="20231011115600 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Fulham v Sheffield United</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231011120000 +0000" stop="20231011122600 +0000">
+    <title>PL REWIND EP09: WIM 98/99</title>
+    <sub-title>On the latest instalment of PL Rewind former Wimbledon stars Marcus Gayle and Efan Ekoku join Steve Bower to look back at two famous wins from the 1998/99 season, against West Ham and Arsenal.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231011123000 +0000" stop="20231011125600 +0000">
+    <title>MATCH OFFICIALS MIC'D UP TUE 10 OCT</title>
+    <sub-title>Match Officials Mic’d Up is back with more exclusive audio from the Premier League’s match officials – including from the VAR booth. Michael Owen is joined once again by PGMOL’s Chief Refereeing Officer, Howard Webb, as they examine and discuss some of the most talked about incidents and decisions from Matchweeks 5-8.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231011130000 +0000" stop="20231011135200 +0000">
+    <title>REVIEW SUN 08 OCT</title>
+    <sub-title>Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231011140000 +0000" stop="20231011145200 +0000">
+    <title>THE CATCH-UP SHOW EP09</title>
+    <sub-title>The Catch-Up Show is your chance to relive the 'best bits' from across the Premier League week with a compilation of all PLP content and programming.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231011150000 +0000" stop="20231011155200 +0000">
+    <title>PL MOMENTS EP03: RAY PARLOUR</title>
+    <sub-title>Ray Parlour joins Will Perry in the changing room to reveal his 10 favourite Premier League moments. A must-watch for any Arsenal fan and football fan alike, packed full of stories about the club's greatest players, and of course that Invincible winning season.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231011160000 +0000" stop="20231011165200 +0000">
+    <title>PL GOATS EP02: THE CHAMPIONS</title>
+    <sub-title>Will Perry is joined by Premier League winners Owen Hargreaves and Peter Schmeichel to discuss the best title-winning teams in the Premier League era. Expect insightful anecdotes, interesting archive and lively debate across a packed hour-long programme.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231011170000 +0000" stop="20231011172600 +0000">
+    <title>PL STORIES EP19: (Subbed) DIRK KUYT</title>
+    <sub-title>A cult hero at Liverpool, Dirk Kuyt reached the pinnacle of the sport as he played in both a Champions League and World Cup final. Now back in his native Netherlands, Dirk is joined by lifelong friends as they show us round his boyhood club and reflect on his humble beginnings that lead all the way to the top.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231011173000 +0000" stop="20231011175600 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Brighton &amp; Hove Albion v Liverpool</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231011180000 +0000" stop="20231011185200 +0000">
+    <title>PL MOMENTS EP04: KEVIN PHILLIPS' GREATEST GOALSCORERS</title>
+    <sub-title>PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231011190000 +0000" stop="20231011195200 +0000">
+    <title>THE CATCH-UP SHOW EP09</title>
+    <sub-title>The Catch-Up Show is your chance to relive the 'best bits' from across the Premier League week with a compilation of all PLP content and programming.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231011200000 +0000" stop="20231011202600 +0000">
+    <title>NETBUSTERS EP08</title>
+    <sub-title>Relive the best action from the Premier League with this fast-paced ISO angle highlights show, featuring every game and every goal from each matchround.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231011203000 +0000" stop="20231011212200 +0000">
+    <title>GENERATION xG MON 09 OCT</title>
+    <sub-title>A deep dive into the tactical trends and statistical insights of modern football with input from players, managers and data experts from the 'fanalyst' community. This programme will analyse the on-field action in forensic detail and give hard core Premier League fans a new insight into what is happening on the pitch and why.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231011213000 +0000" stop="20231011215600 +0000">
+    <title>MATCH OFFICIALS MIC'D UP TUE 10 OCT</title>
+    <sub-title>Match Officials Mic’d Up is back with more exclusive audio from the Premier League’s match officials – including from the VAR booth. Michael Owen is joined once again by PGMOL’s Chief Refereeing Officer, Howard Webb, as they examine and discuss some of the most talked about incidents and decisions from Matchweeks 5-8.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231011220000 +0000" stop="20231011225200 +0000">
+    <title>KELLY &amp; WRIGHTY MON 09 OCT</title>
+    <sub-title>Weekly chat show hosted by Kelly Cates and Ian Wright. Alongside their studio guests, they take a more in-depth look at the headlines that follow the football each weekend and explore issues and topics away from the pitch.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231011230000 +0000" stop="20231011232600 +0000">
+    <title>PL STORIES EP19: (Subbed) DIRK KUYT</title>
+    <sub-title>A cult hero at Liverpool, Dirk Kuyt reached the pinnacle of the sport as he played in both a Champions League and World Cup final. Now back in his native Netherlands, Dirk is joined by lifelong friends as they show us round his boyhood club and reflect on his humble beginnings that lead all the way to the top.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231011233000 +0000" stop="20231011235600 +0000">
+    <title>PL REWIND EP09: WIM 98/99</title>
+    <sub-title>On the latest instalment of PL Rewind former Wimbledon stars Marcus Gayle and Efan Ekoku join Steve Bower to look back at two famous wins from the 1998/99 season, against West Ham and Arsenal.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231012000000 +0000" stop="20231012005200 +0000">
+    <title>THE CATCH-UP SHOW EP09</title>
+    <sub-title>The Catch-Up Show is your chance to relive the 'best bits' from across the Premier League week with a compilation of all PLP content and programming.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231012010000 +0000" stop="20231012015200 +0000">
+    <title>PL MOMENTS EP04: KEVIN PHILLIPS' GREATEST GOALSCORERS</title>
+    <sub-title>PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231012020000 +0000" stop="20231012025200 +0000">
+    <title>REVIEW OF THE SEASON 2022/2023 (MNC)</title>
+    <sub-title>A review of all the best goals, action and drama from Premier League seasons past.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231012030000 +0000" stop="20231012035200 +0000">
+    <title>PL STORIES EP54: CHAMPIONS STORY</title>
+    <sub-title>The Champions Story follows the journey of Arsenal and Manchester City. Back in August Mikel Arteta's Arsenal were outsiders for the title, Pep Guardiola's City began the season as red hot favourites. Driven by the passion and love of their respective fans their thoughts drive the narrative as the season flows from autumn into winter and from winter into spring.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231012040000 +0000" stop="20231012042600 +0000">
+    <title>PL STORIES EP19: (Subbed) DIRK KUYT</title>
+    <sub-title>A cult hero at Liverpool, Dirk Kuyt reached the pinnacle of the sport as he played in both a Champions League and World Cup final. Now back in his native Netherlands, Dirk is joined by lifelong friends as they show us round his boyhood club and reflect on his humble beginnings that lead all the way to the top.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231012043000 +0000" stop="20231012045600 +0000">
+    <title>MATCH OFFICIALS MIC'D UP TUE 10 OCT</title>
+    <sub-title>Match Officials Mic’d Up is back with more exclusive audio from the Premier League’s match officials – including from the VAR booth. Michael Owen is joined once again by PGMOL’s Chief Refereeing Officer, Howard Webb, as they examine and discuss some of the most talked about incidents and decisions from Matchweeks 5-8.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231012050000 +0000" stop="20231012055200 +0000">
+    <title>GENERATION xG MON 09 OCT</title>
+    <sub-title>A deep dive into the tactical trends and statistical insights of modern football with input from players, managers and data experts from the 'fanalyst' community. This programme will analyse the on-field action in forensic detail and give hard core Premier League fans a new insight into what is happening on the pitch and why.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231012060000 +0000" stop="20231012065200 +0000">
+    <title>THE CATCH-UP SHOW EP09</title>
+    <sub-title>The Catch-Up Show is your chance to relive the 'best bits' from across the Premier League week with a compilation of all PLP content and programming.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231012070000 +0000" stop="20231012072600 +0000">
+    <title>NETBUSTERS EP08</title>
+    <sub-title>Relive the best action from the Premier League with this fast-paced ISO angle highlights show, featuring every game and every goal from each matchround.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231012073000 +0000" stop="20231012075600 +0000">
+    <title>PL STORIES EP07: BRAD FRIEDEL</title>
+    <sub-title>Arguably the greatest American goalkeeper of all time, Brad Friedel made an incredible 450 appearances in the Premier League playing for Tottenham, Aston Villa, Blackburn and Liverpool. We sit down with the 52-year-old to recount his incredible journey to the top of English football.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231012080000 +0000" stop="20231012085200 +0000">
+    <title>1-TO-11 EP01: PAUL ROBINSON</title>
+    <sub-title>Will Perry is joined in the changing room by former Spurs and England goalkeeper Paul Robinson, as he reveals the greatest 1-to-11 he played with and against throughout his Premier League career.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231012090000 +0000" stop="20231012095200 +0000">
+    <title>PL MOMENTS EP04: KEVIN PHILLIPS' GREATEST GOALSCORERS</title>
+    <sub-title>PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231012100000 +0000" stop="20231012105200 +0000">
+    <title>REVIEW SUN 08 OCT</title>
+    <sub-title>Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231012110000 +0000" stop="20231012115200 +0000">
+    <title>THE CATCH-UP SHOW EP09</title>
+    <sub-title>The Catch-Up Show is your chance to relive the 'best bits' from across the Premier League week with a compilation of all PLP content and programming.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231012120000 +0000" stop="20231012122600 +0000">
+    <title>PL STORIES EP19: (Subbed) DIRK KUYT</title>
+    <sub-title>A cult hero at Liverpool, Dirk Kuyt reached the pinnacle of the sport as he played in both a Champions League and World Cup final. Now back in his native Netherlands, Dirk is joined by lifelong friends as they show us round his boyhood club and reflect on his humble beginnings that lead all the way to the top.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231012123000 +0000" stop="20231012125600 +0000">
+    <title>THE BIG INTERVIEW EP10: MATHEUS CUNHA</title>
+    <sub-title>Travelling over 2000 miles to pursue his dream of becoming a professional footballer when he was just 14 years-old, Matheus Cunha’s journey took him from Brazil to Switzerland, Germany and then Spain before signing for Wolverhampton Wanderers. Touted as, “the new Thierry Henry” as a teenager, Cunha sits down with The Big Interview to talk through those initial pressures and his hopes for the future at Wolves.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231012130000 +0000" stop="20231012135200 +0000">
+    <title>GENERATION xG MON 09 OCT</title>
+    <sub-title>A deep dive into the tactical trends and statistical insights of modern football with input from players, managers and data experts from the 'fanalyst' community. This programme will analyse the on-field action in forensic detail and give hard core Premier League fans a new insight into what is happening on the pitch and why.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231012140000 +0000" stop="20231012142600 +0000">
+    <title>MATCH OFFICIALS MIC'D UP TUE 10 OCT</title>
+    <sub-title>Match Officials Mic’d Up is back with more exclusive audio from the Premier League’s match officials – including from the VAR booth. Michael Owen is joined once again by PGMOL’s Chief Refereeing Officer, Howard Webb, as they examine and discuss some of the most talked about incidents and decisions from Matchweeks 5-8.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231012143000 +0000" stop="20231012145600 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Manchester United v Brentford</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231012150000 +0000" stop="20231012152600 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW08 Luton Town v Tottenham Hotspur</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231012153000 +0000" stop="20231012155600 +0000">
+    <title>NETBUSTERS EP08</title>
+    <sub-title>Relive the best action from the Premier League with this fast-paced ISO angle highlights show, featuring every game and every goal from each matchround.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231012160000 +0000" stop="20231012165200 +0000">
+    <title>PL MOMENTS EP04: KEVIN PHILLIPS' GREATEST GOALSCORERS</title>
+    <sub-title>PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231012170000 +0000" stop="20231012172600 +0000">
+    <title>PL REWIND EP09: WIM 98/99</title>
+    <sub-title>On the latest instalment of PL Rewind former Wimbledon stars Marcus Gayle and Efan Ekoku join Steve Bower to look back at two famous wins from the 1998/99 season, against West Ham and Arsenal.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231012173000 +0000" stop="20231012175600 +0000">
+    <title>PL REWIND EP08: TOT v WIG 09/10</title>
+    <sub-title>Jermain Defoe joins Steve Bower to re-live a memorable day at White Hart Lane from November 2009 where he scored 5 goals in a 9-1 win against Wigan.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231012180000 +0000" stop="20231012182600 +0000">
+    <title>THE BIG INTERVIEW EP08: (Subbed) HEUNG-MIN SON</title>
+    <sub-title>Having helped the Premier League’s popularity grow in South Korea, former Manchester United midfielder, Ji-Sung Park is shown around Tottenham’s training ground by fellow countryman, Heung-Min Son. For this week’s Big Interview, the two friends talk about their journey into the Premier League as Son explains the difficulties he faced in his early years and how both his and Park’s influence has expanded Premier League football even bigger in South Korea.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231012183000 +0000" stop="20231012185600 +0000">
+    <title>THE BIG INTERVIEW EP10: MATHEUS CUNHA</title>
+    <sub-title>Travelling over 2000 miles to pursue his dream of becoming a professional footballer when he was just 14 years-old, Matheus Cunha’s journey took him from Brazil to Switzerland, Germany and then Spain before signing for Wolverhampton Wanderers. Touted as, “the new Thierry Henry” as a teenager, Cunha sits down with The Big Interview to talk through those initial pressures and his hopes for the future at Wolves.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231012190000 +0000" stop="20231012192600 +0000">
+    <title>PL STORIES EP19: (Subbed) DIRK KUYT</title>
+    <sub-title>A cult hero at Liverpool, Dirk Kuyt reached the pinnacle of the sport as he played in both a Champions League and World Cup final. Now back in his native Netherlands, Dirk is joined by lifelong friends as they show us round his boyhood club and reflect on his humble beginnings that lead all the way to the top.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231012193000 +0000" stop="20231012202200 +0000">
+    <title>REVIEW SUN 08 OCT</title>
+    <sub-title>Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231012203000 +0000" stop="20231012212200 +0000">
+    <title>THE CATCH-UP SHOW EP09</title>
+    <sub-title>The Catch-Up Show is your chance to relive the 'best bits' from across the Premier League week with a compilation of all PLP content and programming.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231012213000 +0000" stop="20231012215600 +0000">
+    <title>PL STORIES EP14: A NEW ERA IN GOOD KOMPANY</title>
+    <sub-title>We sit down with Burnley co-owner and NFL star J.J. Watt, his wife Kealia along with manager Vincent Kompany to talk all things Burnley – why they all got involved in the project and what the future holds for the Clarets as they enter an exciting new chapter in their footballing story.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231012220000 +0000" stop="20231012225200 +0000">
+    <title>PL GOATS EP02: THE CHAMPIONS</title>
+    <sub-title>Will Perry is joined by Premier League winners Owen Hargreaves and Peter Schmeichel to discuss the best title-winning teams in the Premier League era. Expect insightful anecdotes, interesting archive and lively debate across a packed hour-long programme.</sub-title>
+  </programme>
+  <programme channel="os11" start="20231012230000 +0000" stop="20231012235200 +0000">
+    <title>PL STORIES EP54: CHAMPIONS STORY</title>
+    <sub-title>The Champions Story follows the journey of Arsenal and Manchester City. Back in August Mikel Arteta's Arsenal were outsiders for the title, Pep Guardiola's City began the season as red hot favourites. Driven by the passion and love of their respective fans their thoughts drive the narrative as the season flows from autumn into winter and from winter into spring.</sub-title>
+  </programme>
+</tv>
