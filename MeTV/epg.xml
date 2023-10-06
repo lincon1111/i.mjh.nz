@@ -3,108 +3,6 @@
     <display-name>MeTV</display-name>
     <icon src="https://new.mjh.nz/.images/metv.png"/>
   </channel>
-  <programme channel="metv" start="20231006050500 +0000" stop="20231006053500 +0000">
-    <title>Alfred Hitchcock Presents</title>
-    <sub-title>The Equalizer</sub-title>
-    <episode-num system="onscreen">S03E19</episode-num>
-    <desc>Eldon Marsh sets out to confront the man who stole his wife from him.</desc>
-  </programme>
-  <programme channel="metv" start="20231006053500 +0000" stop="20231006060500 +0000">
-    <title>Alfred Hitchcock Presents</title>
-    <sub-title>On The Nose</sub-title>
-    <episode-num system="onscreen">S03E20</episode-num>
-    <desc>A woman has problems staying away from the race track and it threatens her marriage.</desc>
-  </programme>
-  <programme channel="metv" start="20231006060500 +0000" stop="20231006070500 +0000">
-    <title>Mannix</title>
-    <sub-title>Deadfall: Part 1</sub-title>
-    <episode-num system="onscreen">S01E18</episode-num>
-    <desc>Intertect is accused of stealing plans and a formula to create a laser ray, forcing Mannix and Lew Wickersham into a deadly feud.</desc>
-  </programme>
-  <programme channel="metv" start="20231006070500 +0000" stop="20231006080500 +0000">
-    <title>Cannon</title>
-    <sub-title>Voice From The Grave</sub-title>
-    <episode-num system="onscreen">S04E03</episode-num>
-    <desc>"Reverend" Will can heal the sick by the power of faith. Or can he? Either way, his "powers" won't keep a witness to murder from coming forward, and that means... another murder.</desc>
-  </programme>
-  <programme channel="metv" start="20231006080500 +0000" stop="20231006090000 +0000">
-    <title>Barnaby Jones</title>
-    <sub-title>Perchance To Kill</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>An affair leads to an accidental murder.</desc>
-  </programme>
-  <programme channel="metv" start="20231006090000 +0000" stop="20231006093000 +0000">
-    <title>Highway Patrol</title>
-    <sub-title>Reckless Driving</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Tragedy results when an impatient traveling salesman speeds recklessly.</desc>
-  </programme>
-  <programme channel="metv" start="20231006093000 +0000" stop="20231006100000 +0000">
-    <title>Dragnet</title>
-    <sub-title>The Fur Job</sub-title>
-    <desc>"Gannon goes undercover as a buyer in order to trap fur thieves"</desc>
-  </programme>
-  <programme channel="metv" start="20231006100000 +0000" stop="20231006103000 +0000">
-    <title>Dragnet</title>
-    <sub-title>The Jade Story</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>More than $200,000 worth of imperial jade is reported stolen. Friday and Gannon determine the burglary was an inside job.</desc>
-  </programme>
-  <programme channel="metv" start="20231006103000 +0000" stop="20231006110000 +0000">
-    <title>My Three Sons</title>
-    <sub-title>The Leopard's Spots</sub-title>
-    <episode-num system="onscreen">S05E35</episode-num>
-    <desc>Sally has her hands full when her glamorous cousin comes to visit after being expelled from three colleges.</desc>
-  </programme>
-  <programme channel="metv" start="20231006110000 +0000" stop="20231006120000 +0000">
-    <title>Toon In With Me</title>
-    <sub-title>Cereal Truths</sub-title>
-    <desc>"Cereal, cartoons and the best vintage cereal box toys."</desc>
-  </programme>
-  <programme channel="metv" start="20231006120000 +0000" stop="20231006123000 +0000">
-    <title>Leave It to Beaver</title>
-    <sub-title>Lumpy's Car Trouble</sub-title>
-    <episode-num system="onscreen">S05E26</episode-num>
-    <desc>Ward allows his car to be driven by Lumpy, who must get Eddie, Wally and Beaver to a sporting event in a neighboring town. However, on the way back, Lumpy disobeys Ward's orders and takes a shortcut home.</desc>
-  </programme>
-  <programme channel="metv" start="20231006123000 +0000" stop="20231006130000 +0000">
-    <title>Leave It to Beaver</title>
-    <sub-title>Beaver, The Baby-sitter</sub-title>
-    <desc>"When Wally has a previous engagement and is unable to babysit, Beaver fills in and quickly finds himself the object of a 10-year old's affection."</desc>
-  </programme>
-  <programme channel="metv" start="20231006130000 +0000" stop="20231006140000 +0000">
-    <title>Perry Mason</title>
-    <sub-title>The Case Of The Watery Witness</sub-title>
-    <episode-num system="onscreen">S03E02</episode-num>
-    <desc>Lorna Thomas is a has-been actress who once gave up her baby for adoption and lived to regret it. George Clark discovers that his wife might be Lorna's long-lost daughter and begins to see dollar signs.</desc>
-  </programme>
-  <programme channel="metv" start="20231006140000 +0000" stop="20231006150000 +0000">
-    <title>Matlock</title>
-    <sub-title>Brennan  (s8, ep)</sub-title>
-    <desc>Matlock vies with a formidable district attorney while defending a client accused of killing a city councilwoman, discovering a secret hiding in the man's past that is affecting his judgment in the case.</desc>
-  </programme>
-  <programme channel="metv" start="20231006150000 +0000" stop="20231006160000 +0000">
-    <title>In the Heat of the Night</title>
-    <sub-title>Liar's Poker</sub-title>
-    <episode-num system="onscreen">S05E04</episode-num>
-    <desc>A game of high stakes poker ends in murder.</desc>
-  </programme>
-  <programme channel="metv" start="20231006160000 +0000" stop="20231006170000 +0000">
-    <title>The Waltons</title>
-    <sub-title>The Big Brother</sub-title>
-    <episode-num system="onscreen">S04E20</episode-num>
-    <desc>John-Boy sees a young innocent looking girl who appears to be traveling alone</desc>
-  </programme>
-  <programme channel="metv" start="20231006170000 +0000" stop="20231006173000 +0000">
-    <title>Gunsmoke</title>
-    <sub-title>The Coward</sub-title>
-    <desc>"Gambler Ed Eby has a grudge against the Marshall and starts talking about how "big" someone would be if they were to kill Matt."</desc>
-  </programme>
-  <programme channel="metv" start="20231006173000 +0000" stop="20231006180000 +0000">
-    <title>Gunsmoke</title>
-    <sub-title>The F.u.</sub-title>
-    <desc>"When Onie Becker is shot down on the streets of Dodge after quarreling with Al Clovis in a poker game, everyone thinks Al Clovis committed the shooting. The plot thickens after Matt and Chester pursue Clovis on a train headed out of Dodge."</desc>
-  </programme>
   <programme channel="metv" start="20231006180000 +0000" stop="20231006190000 +0000">
     <title>Bonanza</title>
     <sub-title>The Strange One</sub-title>
@@ -1318,5 +1216,221 @@
     <sub-title>Desert Town</sub-title>
     <episode-num system="onscreen">S01E07</episode-num>
     <desc>Dan Matthews investigates when a small town wants him to leave.</desc>
+  </programme>
+  <programme channel="metv" start="20231012093000 +0000" stop="20231012100000 +0000">
+    <title>Dragnet</title>
+    <sub-title>The Big Bullet</sub-title>
+    <episode-num system="onscreen">S01E17</episode-num>
+    <desc>A dead man has been found in a locked room, along with a gun that could not have been the murder weapon.</desc>
+  </programme>
+  <programme channel="metv" start="20231012100000 +0000" stop="20231012103000 +0000">
+    <title>Dragnet</title>
+    <sub-title>The Grenade</sub-title>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <desc>A surly teenager throws acid on the back of another student and later crashes a party armed with a live hand grenade.</desc>
+  </programme>
+  <programme channel="metv" start="20231012103000 +0000" stop="20231012110000 +0000">
+    <title>My Three Sons</title>
+    <sub-title>Robbie And The Chorus Girl</sub-title>
+    <episode-num system="onscreen">S06E04</episode-num>
+    <desc>Uncle Charley is upset when he learns that Robbie is dating a flashy chorus girl, but Steve refuses to worry because he trusts his son's common sense.</desc>
+  </programme>
+  <programme channel="metv" start="20231012110000 +0000" stop="20231012120000 +0000">
+    <title>Toon In With Me</title>
+    <sub-title>Martial Mellow</sub-title>
+    <desc>"Bill and Toony take a look back at the Kung Fu craze of the 1970s with a surprise visit from a martial arts master."</desc>
+  </programme>
+  <programme channel="metv" start="20231012120000 +0000" stop="20231012123000 +0000">
+    <title>Leave It to Beaver</title>
+    <sub-title>One Of The Boys</sub-title>
+    <episode-num system="onscreen">S05E34</episode-num>
+    <desc>Eddie and Wally finally get a chance to join the most exclusive social club in school, the Barons. However, after hanging out with the Barons on a Friday night, Eddie and Wally realize they don't want to be in this club because the guys really aren't who everybody thinks they are.</desc>
+  </programme>
+  <programme channel="metv" start="20231012123000 +0000" stop="20231012130000 +0000">
+    <title>Leave It to Beaver</title>
+    <sub-title>Sweatshirt Monsters</sub-title>
+    <episode-num system="onscreen">S05E35</episode-num>
+    <desc>Beaver, Richard, Whitey and Alan each buy sweatshirts that have monster faces on the front of them. They like them so much they each decide to wear them to school the next day. However, each one finds that their parents forbid them from wearing such hideous sweatshirts to school. However, Beaver manages to sneak out of the house with his on.</desc>
+  </programme>
+  <programme channel="metv" start="20231012130000 +0000" stop="20231012140000 +0000">
+    <title>Perry Mason</title>
+    <sub-title>The Case Of The Reckless Rockhound</sub-title>
+    <episode-num system="onscreen">S03E10</episode-num>
+    <desc>When a businessman responsible for decimating a local mining business returns to town, it is not long before he is found murdered.</desc>
+  </programme>
+  <programme channel="metv" start="20231012140000 +0000" stop="20231012150000 +0000">
+    <title>Matlock</title>
+    <sub-title>The Victim  (s8, ep)</sub-title>
+    <desc>Matlock tries to prove that someone other than his client had a motive in a murder case. His best bet? The victim's paraplegic husband.</desc>
+  </programme>
+  <programme channel="metv" start="20231012150000 +0000" stop="20231012160000 +0000">
+    <title>In the Heat of the Night</title>
+    <sub-title>Sweet, Sweet Blues</sub-title>
+    <episode-num system="onscreen">S05E08</episode-num>
+    <desc>The lyrics to a blues song recall a murder that happened 50 years earlier. The victim - Sweet's grandfather. And the only people left with the answers are the bluesman who wrote the song and a retired sheriff.</desc>
+  </programme>
+  <programme channel="metv" start="20231012160000 +0000" stop="20231012170000 +0000">
+    <title>The Waltons</title>
+    <sub-title>The Fledgling</sub-title>
+    <episode-num system="onscreen">S04E24</episode-num>
+    <desc>John-Boy wants to buy a printing press to start his own newspaper</desc>
+  </programme>
+  <programme channel="metv" start="20231012170000 +0000" stop="20231012173000 +0000">
+    <title>Gunsmoke</title>
+    <sub-title>The Choice</sub-title>
+    <desc>"Andy Hill comes to Dodge looking for a job. Matt finds out he's wanted for robbery but decides to take a chance on him."</desc>
+  </programme>
+  <programme channel="metv" start="20231012173000 +0000" stop="20231012180000 +0000">
+    <title>Gunsmoke</title>
+    <sub-title>There Never Was A Horse</sub-title>
+    <desc>"Gunman Kin Creed comes to Dodge and tries everything to get Matt into a gunfight."</desc>
+  </programme>
+  <programme channel="metv" start="20231012180000 +0000" stop="20231012190000 +0000">
+    <title>Bonanza</title>
+    <sub-title>All Ye His Saints</sub-title>
+    <episode-num system="onscreen">S07E14</episode-num>
+    <desc>After his father becomes seriously ill, a young boy decides to climb a mountain and seek God's help.</desc>
+  </programme>
+  <programme channel="metv" start="20231012190000 +0000" stop="20231012193000 +0000">
+    <title>The Rifleman</title>
+    <sub-title>Gunfire</sub-title>
+    <episode-num system="onscreen">S04E16</episode-num>
+    <desc>Micah has an infamous outlaw, Charlie Gordo, in his jail waiting for the U.S. marshal from Denver to take Gordo to the Yuma prison for hanging. With the arrival of the stage, Micah finds that the lawman has been killed, and he has to look to his friends to defend the jail from Gordo's gang.</desc>
+  </programme>
+  <programme channel="metv" start="20231012193000 +0000" stop="20231012200000 +0000">
+    <title>The Rifleman</title>
+    <sub-title>The Quiet Fear</sub-title>
+    <episode-num system="onscreen">S04E17</episode-num>
+    <desc>Lucas' old Army pal settles in North Fork with his deaf daughter.</desc>
+  </programme>
+  <programme channel="metv" start="20231012200000 +0000" stop="20231012210000 +0000">
+    <title>Wagon Train</title>
+    <sub-title>Around The Horn</sub-title>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <desc>Planning to sail to Boston, the Major, Hawks and Charlie are instead shanghaied to New Orleans where they meet a Captain who has different ideas on raising his child and running a ship.</desc>
+  </programme>
+  <programme channel="metv" start="20231012210000 +0000" stop="20231012213000 +0000">
+    <title>Adam-12</title>
+    <sub-title>Log 16 -- Child In Danger</sub-title>
+    <episode-num system="onscreen">S03E22</episode-num>
+    <desc>Malloy and Reed are called to a tavern robbery in progress, and then are jolted by a severe domestic abuse situation they are powerless to stop. In the meantime, they lose track of a naive college girl who has just been carjacked by a convicted rapist.</desc>
+  </programme>
+  <programme channel="metv" start="20231012213000 +0000" stop="20231012220000 +0000">
+    <title>Adam-12</title>
+    <sub-title>Log 56 -- Vice Versa</sub-title>
+    <episode-num system="onscreen">S03E23</episode-num>
+    <desc>Because Malloy has allowed his driver's license to expire, Reed has to do the driving on today's busy patrol. They search for an ice cream truck driver who's been trying to sell marijuana to children, get an unexpected reaction from a bank robber, help a man who's had his house completely emptied by his neighbors, deal with a woman who shoots her husband dead and find a live baby in a trashcan.</desc>
+  </programme>
+  <programme channel="metv" start="20231012220000 +0000" stop="20231012223000 +0000">
+    <title>M*A*S*H</title>
+    <sub-title>That Darn Kid</sub-title>
+    <episode-num system="onscreen">S10E21</episode-num>
+    <desc>Klinger buys a goat, with the intention of getting rich by selling its milk. Then the goat eats the 4077th's $22,340 payroll, leaving paymaster Hawkeye holding the bag. Meanwhile, Charles also thinks he can make a killing when he sees an ancient vase.</desc>
+  </programme>
+  <programme channel="metv" start="20231012223000 +0000" stop="20231012230000 +0000">
+    <title>M*A*S*H</title>
+    <sub-title>Hey, Look Me Over</sub-title>
+    <episode-num system="onscreen">S11E01</episode-num>
+    <desc>Margaret and her nursing staff are about to be inspected by Col. Bucholz. Meanwhile, Kellye is offended that Hawkeye is attracted to nurses besides her.</desc>
+  </programme>
+  <programme channel="metv" start="20231012230000 +0000" stop="20231012233000 +0000">
+    <title>M*A*S*H</title>
+    <sub-title>Foreign Affairs</sub-title>
+    <episode-num system="onscreen">S11E03</episode-num>
+    <desc>The Army tries to get a North Korean pilot to defect, and Charles gets a rude shock when he falls for a French nurse with a Bohemian past.</desc>
+  </programme>
+  <programme channel="metv" start="20231012233000 +0000" stop="20231013000000 +0000">
+    <title>M*A*S*H</title>
+    <sub-title>The Joker Is Wild</sub-title>
+    <episode-num system="onscreen">S11E04</episode-num>
+    <desc>Tired of reminders about Trapper John's skill as a practical joker, B.J. bets Hawkeye he can prank everyone present.</desc>
+  </programme>
+  <programme channel="metv" start="20231013000000 +0000" stop="20231013003000 +0000">
+    <title>The Andy Griffith Show</title>
+    <sub-title>The Loaded Goat</sub-title>
+    <episode-num system="onscreen">S03E18</episode-num>
+    <desc>An escaped goat eats a case of dynamite that was going to be used for blasting and puts Mayberry in danger—especially when Otis Campbell gets drunk.</desc>
+  </programme>
+  <programme channel="metv" start="20231013003000 +0000" stop="20231013010000 +0000">
+    <title>The Andy Griffith Show</title>
+    <sub-title>Class Reunion</sub-title>
+    <episode-num system="onscreen">S03E19</episode-num>
+    <desc>Andy meets up with his high school sweetheart at their reunion and it appears they could be rekindling their relationship. But do they want the same things, and did they ever?</desc>
+  </programme>
+  <programme channel="metv" start="20231013010000 +0000" stop="20231013013000 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>Something For The Queen</sub-title>
+    <episode-num system="onscreen">S07E02</episode-num>
+    <desc>The Clampetts, Drysdale and Jane are heading to their castle in England. Their plane ride isn’t the easiest, especially for Drysdale and another passenger. Jethro smuggles Elly’s turkey, buzzard, on board, and Drysdale is attacked by it in the bathroom, as well as another man who has the misfortune of being seated near the clan.</desc>
+  </programme>
+  <programme channel="metv" start="20231013013000 +0000" stop="20231013020000 +0000">
+    <title>Green Acres</title>
+    <sub-title>A Tale Of A Tail</sub-title>
+    <episode-num system="onscreen">S05E04</episode-num>
+    <desc>"Noted pig lawyer" Oliver, Lisa and Eb arrive in Chicago to prove Arnold's the rightful heir to a $20,000,000 fortune. While Arnold is given the royal treatment by the hotel staff, the Douglases are treated as persona non grata. The red carpet is rolled up for them all once Arnold's tail predicts snow--in July!</desc>
+  </programme>
+  <programme channel="metv" start="20231013020000 +0000" stop="20231013023000 +0000">
+    <title>Hogan's Heroes</title>
+    <sub-title>The Great Impersonation</sub-title>
+    <episode-num system="onscreen">S01E21</episode-num>
+    <desc>Hogan gets Schultz to portray Klink in order to free three of his men whom the Gestapo has captured.</desc>
+  </programme>
+  <programme channel="metv" start="20231013023000 +0000" stop="20231013030000 +0000">
+    <title>Hogan's Heroes</title>
+    <sub-title>The Pizza Parlor</sub-title>
+    <episode-num system="onscreen">S01E22</episode-num>
+    <desc>To get a Italian officer to defect, Hogan and the gang use pizza to tempt him.</desc>
+  </programme>
+  <programme channel="metv" start="20231013030000 +0000" stop="20231013033000 +0000">
+    <title>The Carol Burnett Show</title>
+    <sub-title>Guests Larry Hovis And Barrie Chase</sub-title>
+    <desc>"Guests Larry Hovis and Barrie Chase. Originally aired on 03/24/69."</desc>
+  </programme>
+  <programme channel="metv" start="20231013033000 +0000" stop="20231013043500 +0000">
+    <title>Perry Mason</title>
+    <sub-title>The Case Of The Silent Six</sub-title>
+    <episode-num system="onscreen">S09E11</episode-num>
+    <desc>Police Sergeant Dave Wolfe warns Joe Oliver to stay away from his kid sister, Susan. Now Susan's been beaten up in her apartment, Oliver has been shot to death and Dave is being charged with murder.</desc>
+  </programme>
+  <programme channel="metv" start="20231013043500 +0000" stop="20231013050500 +0000">
+    <title>The Twilight Zone</title>
+    <sub-title>Dead Man's Shoes</sub-title>
+    <episode-num system="onscreen">S03E18</episode-num>
+    <desc>A vagrant steps into a murdered gangster's expensive shoes and is taken over by the dead man's ghost, who vows to remain on Earth to seek revenge against his killer.</desc>
+  </programme>
+  <programme channel="metv" start="20231013050500 +0000" stop="20231013053500 +0000">
+    <title>Alfred Hitchcock Presents</title>
+    <sub-title>Fatal Figures</sub-title>
+    <desc>"A bookkeeper decides to come out of anonymity by committing a crime."</desc>
+  </programme>
+  <programme channel="metv" start="20231013053500 +0000" stop="20231013060500 +0000">
+    <title>Alfred Hitchcock Presents</title>
+    <sub-title>Death Sentence</sub-title>
+    <episode-num system="onscreen">S03E30</episode-num>
+    <desc>When a woman finds a bomb in her car, it convinces her that her husband loves her.</desc>
+  </programme>
+  <programme channel="metv" start="20231013060500 +0000" stop="20231013070500 +0000">
+    <title>Mannix</title>
+    <sub-title>Eight To Five, Its A Miracle</sub-title>
+    <episode-num system="onscreen">S01E22</episode-num>
+    <desc>Mannix is hired to investigate an alleged miracle that has been occurring on the land of a crime boss.</desc>
+  </programme>
+  <programme channel="metv" start="20231013070500 +0000" stop="20231013080500 +0000">
+    <title>Cannon</title>
+    <sub-title>A Killing In The Family</sub-title>
+    <episode-num system="onscreen">S04E08</episode-num>
+    <desc>A former prostitute aids Cannon in an investigation involving mobsters.</desc>
+  </programme>
+  <programme channel="metv" start="20231013080500 +0000" stop="20231013090000 +0000">
+    <title>Barnaby Jones</title>
+    <sub-title>Murder Go Round</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <desc>It's one killing after another as Barnaby investigates a hit-and-run accident while wealthy townspeople plot his murder.</desc>
+  </programme>
+  <programme channel="metv" start="20231013090000 +0000" stop="20231013093000 +0000">
+    <title>Highway Patrol</title>
+    <sub-title>Radioactive</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>Dan Mathews and his officers race against time to find a stolen oil indicator device that contains potentially lethal radioactive pellets.</desc>
   </programme>
 </tv>
