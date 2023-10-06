@@ -7,10 +7,6 @@
     <display-name>Comedy Dynamics</display-name>
     <icon src="https://i.mjh.nz/Stirr/.images/bcca7d0749.png"/>
   </channel>
-  <channel id="externallinearfeed-05-21-2019-05-21-2019">
-    <display-name>COMET</display-name>
-    <icon src="https://i.mjh.nz/Stirr/.images/df2f520ff0.png"/>
-  </channel>
   <channel id="externallinearfeed-01-15-2020-201540715-01-15-2020">
     <display-name>CHARGE </display-name>
     <icon src="https://i.mjh.nz/Stirr/.images/8b4d0a3429.png"/>
@@ -18,6 +14,10 @@
   <channel id="externallinearfeed-04-27-2020-04-27-2020">
     <display-name>The Bob Ross Channel</display-name>
     <icon src="https://i.mjh.nz/Stirr/.images/e5621c9062.png"/>
+  </channel>
+  <channel id="externallinearfeed-05-21-2019-05-21-2019">
+    <display-name>COMET</display-name>
+    <icon src="https://i.mjh.nz/Stirr/.images/df2f520ff0.png"/>
   </channel>
   <channel id="externallinearfeed-05-22-2019-05-22-2019">
     <display-name>TBD</display-name>
@@ -39,13 +39,13 @@
     <display-name>Film Detective</display-name>
     <icon src="https://i.mjh.nz/Stirr/.images/ed0c97d7e8.png"/>
   </channel>
-  <channel id="externallinearfeed-03-22-2019-03-22-2019">
-    <display-name>Law &amp; Crime </display-name>
-    <icon src="https://i.mjh.nz/Stirr/.images/ae83f6d0a7.png"/>
-  </channel>
   <channel id="nasatv-gracenote-external-01-09-2019">
     <display-name>NASATV</display-name>
     <icon src="https://i.mjh.nz/Stirr/.images/22eb0947e0.png"/>
+  </channel>
+  <channel id="externallinearfeed-03-22-2019-03-22-2019">
+    <display-name>Law &amp; Crime </display-name>
+    <icon src="https://i.mjh.nz/Stirr/.images/ae83f6d0a7.png"/>
   </channel>
   <channel id="its-showtime-at-the-apollo-03-12-2021">
     <display-name>It's Showtime at the Apollo</display-name>
@@ -55,13 +55,13 @@
     <display-name>So...Real</display-name>
     <icon src="https://i.mjh.nz/Stirr/.images/9d37cac4a9.png"/>
   </channel>
-  <channel id="externallinearfeed-06-26-2020-193305392-06-26-2020">
-    <display-name>Midnight Pulp</display-name>
-    <icon src="https://i.mjh.nz/Stirr/.images/d65f1a518c.png"/>
-  </channel>
   <channel id="externallinearfeed-10-21-2019-10-21-2019">
     <display-name>Electric Now</display-name>
     <icon src="https://i.mjh.nz/Stirr/.images/5a48b55fc8.png"/>
+  </channel>
+  <channel id="externallinearfeed-06-26-2020-193305392-06-26-2020">
+    <display-name>Midnight Pulp</display-name>
+    <icon src="https://i.mjh.nz/Stirr/.images/d65f1a518c.png"/>
   </channel>
   <channel id="externallinearfeed-07-01-2020-07-01-2020">
     <display-name>RetroCrush</display-name>
@@ -75,6 +75,10 @@
     <display-name>Revry</display-name>
     <icon src="https://i.mjh.nz/Stirr/.images/4ec53af79e.png"/>
   </channel>
+  <channel id="horse-shopping-channel-01-05-2021-232155211">
+    <display-name>Horse Shopping Channel</display-name>
+    <icon src="https://i.mjh.nz/Stirr/.images/f104398b83.png"/>
+  </channel>
   <channel id="externallinearfeed-01-28-2021-184530260-01-28-2021">
     <display-name>Dove</display-name>
     <icon src="https://i.mjh.nz/Stirr/.images/9570ec6ab7.png"/>
@@ -83,17 +87,13 @@
     <display-name>The Country Network</display-name>
     <icon src="https://i.mjh.nz/Stirr/.images/65f68946eb.png"/>
   </channel>
-  <channel id="horse-shopping-channel-01-05-2021-232155211">
-    <display-name>Horse Shopping Channel</display-name>
-    <icon src="https://i.mjh.nz/Stirr/.images/f104398b83.png"/>
+  <channel id="externallinearfeed-02-13-2020-02-13-2020">
+    <display-name>Popstar! TV</display-name>
+    <icon src="https://i.mjh.nz/Stirr/.images/0dafe8df23.png"/>
   </channel>
   <channel id="externallinearfeed-11-06-2019-184659187-11-06-2019">
     <display-name>Ambiance</display-name>
     <icon src="https://i.mjh.nz/Stirr/.images/7f9d6b864b.png"/>
-  </channel>
-  <channel id="externallinearfeed-02-13-2020-02-13-2020">
-    <display-name>Popstar! TV</display-name>
-    <icon src="https://i.mjh.nz/Stirr/.images/0dafe8df23.png"/>
   </channel>
   <channel id="externallinearfeed-05-26-2020-05-26-2020">
     <display-name>QVC</display-name>
@@ -123,30 +123,6 @@
     <display-name>SOAR</display-name>
     <icon src="https://i.mjh.nz/Stirr/.images/19086698bc.png"/>
   </channel>
-  <programme channel="dco" start="20231006163000 +0000" stop="20231006170000 +0000">
-    <title>Wow, I Never Knew That</title>
-    <desc>How a Jersey Shore boardwalk inspired the game Monopoly. Plus, the origin of the phrase, "In Like Flynn'.</desc>
-  </programme>
-  <programme channel="dco" start="20231006170000 +0000" stop="20231006173000 +0000">
-    <title>Whose Line Is It Anyway?</title>
-    <desc>Greg Proops, Josie Lawrence, Tony Slattery and Mike McShane feature in this comedy improvisation show.</desc>
-  </programme>
-  <programme channel="dco" start="20231006173000 +0000" stop="20231006180000 +0000">
-    <title>Whose Line Is It Anyway?</title>
-    <desc>Archie Hahn, Josie Lawrence, Tony Slattery and John Sessions feature in this comedy improvisation show.</desc>
-  </programme>
-  <programme channel="dco" start="20231006180000 +0000" stop="20231006183000 +0000">
-    <title>Whose Line Is It Anyway?</title>
-    <desc>Ron West, Griff Rhys-Jones, Paul Merton and John Sessions feature in this comedy improvisation show.</desc>
-  </programme>
-  <programme channel="dco" start="20231006183000 +0000" stop="20231006190000 +0000">
-    <title>Whose Line Is It Anyway?</title>
-    <desc>Greg Proops, Josie Lawrence, Paul Rider and Mike McShane feature in this comedy improvisation show.</desc>
-  </programme>
-  <programme channel="dco" start="20231006190000 +0000" stop="20231006193000 +0000">
-    <title>Whose Line Is It Anyway?</title>
-    <desc>Ryan Stiles, Sandi Toksvig, Tony Slattery and Mike McShane feature in this comedy improvisation show.</desc>
-  </programme>
   <programme channel="dco" start="20231006193000 +0000" stop="20231006200000 +0000">
     <title>Whose Line Is It Anyway?</title>
     <desc>Greg Proops, Josie Lawrence, Paul Merton, Sandi Toksvig, Tony Slattery and Mike McShane feature in this show.</desc>
@@ -293,9 +269,26 @@
     <desc>Alvin helps Elizabeth fix the curtains. Bulldog comes to visit.
 </desc>
   </programme>
-  <programme channel="externallinearfeed-08-01-2019-08-01-2019" start="20231006130000 +0000" stop="20231006170000 +0000">
-    <title>SIGN OFF</title>
-    <desc>Sign off.</desc>
+  <programme channel="dco" start="20231007163000 +0000" stop="20231007170000 +0000">
+    <title>Life With Elizabeth</title>
+    <desc>Leaving notes causes trouble. Elizabeth gets seasick. 
+</desc>
+  </programme>
+  <programme channel="dco" start="20231007170000 +0000" stop="20231007173000 +0000">
+    <title>The Lucy Show</title>
+    <desc>An ill-fated trip puts Lucy on a plane with Mr. Mooney.</desc>
+  </programme>
+  <programme channel="dco" start="20231007173000 +0000" stop="20231007180000 +0000">
+    <title>The Lucy Show</title>
+    <desc>Lucy takes in a librarian for a roommate in an attempt to save money.</desc>
+  </programme>
+  <programme channel="dco" start="20231007180000 +0000" stop="20231007190000 +0000">
+    <title>The Art of the Heist</title>
+    <desc>It was perhaps the biggest art heist ever. countless amounts of the finest European art seized by the Nazis.</desc>
+  </programme>
+  <programme channel="dco" start="20231007190000 +0000" stop="20231007200000 +0000">
+    <title>The Art of the Heist</title>
+    <desc>A devious plan to smuggle precious Egyptian antiquities that fooled customs officers for years.</desc>
   </programme>
   <programme channel="externallinearfeed-08-01-2019-08-01-2019" start="20231006170000 +0000" stop="20231006210000 +0000">
     <title>SIGN OFF</title>
@@ -321,153 +314,9 @@
     <title>SIGN OFF</title>
     <desc>Sign off.</desc>
   </programme>
-  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231006160000 +0000" stop="20231006170000 +0000">
-    <title>Stargate SG-1</title>
-    <desc>Mitchell and Carter must protect a village from occupation by Ori soldiers.</desc>
-  </programme>
-  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231006170000 +0000" stop="20231006180000 +0000">
-    <title>Stargate SG-1</title>
-    <desc>An experiment gone awry leaves Carter trapped in a parallel reality under martial law.</desc>
-  </programme>
-  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231006180000 +0000" stop="20231006190000 +0000">
-    <title>Stargate SG-1</title>
-    <desc>Daniel Jackson asks SG-1 to help him in a plan that might be a trap; the team must save Jackson's life and try to end the war with the Ori.</desc>
-  </programme>
-  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231006190000 +0000" stop="20231006200000 +0000">
-    <title>Grimm</title>
-    <desc>Nick and Hank investigate when a dangerous suspect leaves a trail of wesen in her wake; Adalind forms a dangerous alliance.</desc>
-  </programme>
-  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231006200000 +0000" stop="20231006210000 +0000">
-    <title>Grimm</title>
-    <desc>When Nick brings Trubel on a ride along with Hank, they end up investigating the murder of a young woman; Adalind is hopeful after making a discovery.</desc>
-  </programme>
-  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231006210000 +0000" stop="20231006220000 +0000">
-    <title>Grimm</title>
-    <desc>Nick and Hank learn the victims of the homicide they are investigating were from a special section of the Verrat; Renard grows suspicious of Adalind's behavior.</desc>
-  </programme>
-  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231006220000 +0000" stop="20231006230000 +0000">
-    <title>Buffy the Vampire Slayer</title>
-    <desc>When a student is found mutilated in the woods, Buffy suspects Angel, who has returned after 100 years of infernal torture.</desc>
-  </programme>
-  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231006230000 +0000" stop="20231007000000 +0000">
-    <title>Buffy the Vampire Slayer</title>
-    <desc>Cordelia's apparent lock on the Homecoming Queen title inspires Buffy to show her up; Mr. Trick brings together a band of dangerous killers.</desc>
-  </programme>
-  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007000000 +0000" stop="20231007010000 +0000">
-    <title>Buffy the Vampire Slayer</title>
-    <desc>Buffy must take on Mr. Trick again when he causes all the adults in town to act like teenagers; Buffy tries to keep Angel a secret.</desc>
-  </programme>
-  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007010000 +0000" stop="20231007020000 +0000">
-    <title>The X-Files</title>
-    <desc>Agents Mulder, Scully, Doggett and Reyes investigate a killer's connection to the murder of Doggett's son.</desc>
-  </programme>
-  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007020000 +0000" stop="20231007030000 +0000">
-    <title>The X-Files</title>
-    <desc>Agents Mulder and Doggett work together to investigate bizarre deaths on an oil rig in the Gulf of Mexico.</desc>
-  </programme>
-  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007030000 +0000" stop="20231007040000 +0000">
-    <title>The X-Files</title>
-    <desc>Scully and Mulder rush to the rescue after Doggett and a new FBI agent get in trouble while pursuing a deadly reptilian creature.</desc>
-  </programme>
-  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007040000 +0000" stop="20231007050000 +0000">
-    <title>Grimm</title>
-    <desc>Nick and Hank discover a murder may be part of a series of revenge killings involving a military cover-up; Rosalee reunites with her mother and sister.</desc>
-  </programme>
-  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007050000 +0000" stop="20231007060000 +0000">
-    <title>Grimm</title>
-    <desc>Nick and Hank investigate a cop killer who scalps his victims; Juliette tries to get in touch with Nick's mom; Adalind discovers she's closer to giving birth than she thought; Monroe's parents arrive early.</desc>
-  </programme>
-  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007060000 +0000" stop="20231007070000 +0000">
-    <title>The Outer Limits</title>
-    <desc>A billionaire's ambitious dreams of power are fueled by a graduate student's accidental discovery of time travel.</desc>
-  </programme>
-  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007070000 +0000" stop="20231007073000 +0000">
-    <title>Car accident? Free Legal Consultation.</title>
-    <desc>Legal professionals standing by to answer your questions.</desc>
-  </programme>
-  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007073000 +0000" stop="20231007080000 +0000">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007080000 +0000" stop="20231007083000 +0000">
-    <title>Shark MatrixTM Plus 2-in-1 Robot Vacuum &amp; Mop</title>
-    <desc>Experience hands-free cleaning with Shark MatrixTM Plus 2-in-1 Robot Vacuum &amp; Mop! Matrix Clean precision grid cleaning leaves no spots and the Sonic MoppingTM feature scrubs 100x times per minute removing stuck on stains. Unlock the secret to a spotless home with Shark MatrixTM Plus 2-in-1 Robot.</desc>
-  </programme>
-  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007083000 +0000" stop="20231007090000 +0000">
-    <title>Ninja Woodfire Outdoor Grill</title>
-    <desc>Meet the Shark Ninja Wood Fire Grill, with Master Grill, BBQ Smoke, and Air Fry outdoor capabilities. Powered by electricity and flavored by real burning wood pellets, Woodfire Technology allows you to easily create rich flavor you can see and taste.</desc>
-  </programme>
-  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007090000 +0000" stop="20231007093000 +0000">
-    <title>Amazing Closet Makeovers! 70% more space!</title>
-    <desc>Up to 70% more closet space in seconds with Ruby Space Triangles!</desc>
-  </programme>
-  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007093000 +0000" stop="20231007100000 +0000">
-    <title>Coin Collecting with Mike Mezack</title>
-    <desc>Learn about the wonderful world of numismatics with your host Mike Mezack and get the opportunity to build your own collection with some of the best deals around!</desc>
-  </programme>
-  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007100000 +0000" stop="20231007103000 +0000">
-    <title>Powerful Cleaning with Shark Stratos</title>
-    <desc>Meet the Shark Stratos Upright Vacuum with features like the DuoClean PowerFins HairPro, Extended Reach and detachable pod for hard to reach areas, and odor neutralizing technology, you'll be cleaning like a pro in no time!</desc>
-  </programme>
-  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007103000 +0000" stop="20231007110000 +0000">
-    <title>Shark CarpetXpertTM with StainStrikerTM 2-in-1 deep carpet cleaner with built-in spot &amp; stain remover</title>
-    <desc>Shark CarpetXpert with StainStriker, 2-in-1 deep carpet and upholstery cleaner with a handheld spot &amp; stain eliminator, combines Shark's powerful suction &amp; deep-cleaning innovation to deliver unbeatable deep carpet cleaning &amp; tough stain elimination.</desc>
-  </programme>
-  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007110000 +0000" stop="20231007113000 +0000">
-    <title>Adult 65+ Health Matters: Insights from Dr. Roberts</title>
-    <desc>At Oak Street Health, our doctors take the time to get to know you and your needs. We can help you get the most out of your Medicare coverage, set up mail-order prescriptions, and coordinate healthcare &amp; social services. VISITOAKSTREETHEALTH.COM.</desc>
-  </programme>
-  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007113000 +0000" stop="20231007120000 +0000">
-    <title>H2O X5 - Super Powerful 5-In-1 Multi-Use Steam Cleaner</title>
-    <desc>Kills 99% of Bacteria, Viruses, and Germs with Steam! The 5-in-1 Lightweight, Fast, Powerful, And Completely Chemical Free Steam Cleaner! Lift and remove dirt and stains all around the home!</desc>
-  </programme>
-  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007120000 +0000" stop="20231007123000 +0000">
-    <title>Car Repair Secrets!</title>
-    <desc>Save thousands on car repairs.</desc>
-  </programme>
-  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007123000 +0000" stop="20231007130000 +0000">
-    <title>Powerful Cleaning with Shark Stratos</title>
-    <desc>Meet the Shark Stratos Upright Vacuum with features like the DuoClean PowerFins HairPro, Extended Reach and detachable pod for hard to reach areas, and odor neutralizing technology, you'll be cleaning like a pro in no time!</desc>
-  </programme>
-  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007130000 +0000" stop="20231007133000 +0000">
-    <title>Rare Silver Coins</title>
-    <desc>Add the stunning Set of 25 1878 San Francisco to 1921 Philadelphia Morgan Silver Dollars graded in Mint State 63 condition to your collection. Out of all Morgan Silver Dollars produced by the US Mint, only 1.7% have survived in Mint State condition!</desc>
-  </programme>
-  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007133000 +0000" stop="20231007140000 +0000">
-    <title>Rare Silver Coins</title>
-    <desc>Add the stunning Set of 25 1878 San Francisco to 1921 Philadelphia Morgan Silver Dollars graded in Mint State 63 condition to your collection. Out of all Morgan Silver Dollars produced by the US Mint, only 1.7% have survived in Mint State condition!</desc>
-  </programme>
-  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007140000 +0000" stop="20231007143000 +0000">
-    <title>Ninja Combi Multicooker Oven Air Fryer and So Much More</title>
-    <desc>Discover the new way to cook entire meals perfectly in 15 min with Ninja Combi All-In-One Multicooker, Oven &amp; Air Fryer! Never boil water for rice/pasta, defrost proteins or do piles of dishes again. 14-in-1, it's the only appliance you'll ever need.</desc>
-  </programme>
-  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007143000 +0000" stop="20231007150000 +0000">
-    <title>Total Gym with Chuck &amp; Dakota Norris</title>
-    <desc>Get in the best shape of your life with the Total Gym 30 Day Risk-Free Trial Offer.</desc>
-  </programme>
-  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007150000 +0000" stop="20231007153000 +0000">
-    <title>Tales From the Darkside</title>
-    <desc>Horrible incidents plague a young couple in their newly acquired brownstone.</desc>
-  </programme>
-  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007153000 +0000" stop="20231007160000 +0000">
-    <title>Tales From the Darkside</title>
-    <desc>After years of boycotting Halloween, an elderly man (Roy Poole) is tormented by a persistent little trick-or-treater who's out to teach him a lesson.</desc>
-  </programme>
-  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007160000 +0000" stop="20231007163000 +0000">
-    <title>Tales From the Darkside</title>
-    <desc>A bizarre inventor (Phil Roth) helps a pop composer (Michael Warren) who is suffering from a mental block.</desc>
-  </programme>
-  <programme channel="externallinearfeed-01-15-2020-201540715-01-15-2020" start="20231006160000 +0000" stop="20231006170000 +0000">
-    <title>Without a Trace</title>
-    <desc>When Martin witnesses the abduction of a 10-year-old boy, his guilt for not stopping the crime affects the investigation.</desc>
-  </programme>
-  <programme channel="externallinearfeed-01-15-2020-201540715-01-15-2020" start="20231006170000 +0000" stop="20231006180000 +0000">
-    <title>Without a Trace</title>
-    <desc>When a successful real-estate agent is murdered, the police suspect he may have been the victim of foul play or of his association with low-life James "The Tooth" Fusco (Jon Polito).</desc>
-  </programme>
-  <programme channel="externallinearfeed-01-15-2020-201540715-01-15-2020" start="20231006180000 +0000" stop="20231006190000 +0000">
-    <title>Without a Trace</title>
-    <desc>When a member of a church choir suddenly goes missing, detectives investigate and soon discover that she has been trying to hide an unusual secret.</desc>
+  <programme channel="externallinearfeed-08-01-2019-08-01-2019" start="20231007170000 +0000" stop="20231007210000 +0000">
+    <title>SIGN OFF</title>
+    <desc>Sign off.</desc>
   </programme>
   <programme channel="externallinearfeed-01-15-2020-201540715-01-15-2020" start="20231006190000 +0000" stop="20231006200000 +0000">
     <title>CSI: NY</title>
@@ -593,25 +442,13 @@
     <title>Without a Trace</title>
     <desc>The team focuses on finding a young psychic, despite very few leads; Vivian tries to put up a brave front for her family and colleagues while dealing with her health problem.</desc>
   </programme>
-  <programme channel="externallinearfeed-04-27-2020-04-27-2020" start="20231006162000 +0000" stop="20231006165500 +0000">
-    <title>The Joy of Painting with Bob Ross</title>
-    <desc>Beneath a soft purple mountain range, an abundance of trees and bushes envelop a secret little lake.</desc>
+  <programme channel="externallinearfeed-01-15-2020-201540715-01-15-2020" start="20231007170000 +0000" stop="20231007190000 +0000">
+    <title>Killing Season</title>
+    <desc>A U.S. veteran (Robert De Niro) and a former Serbian soldier (John Travolta) play cat-and-mouse games in the remote wilderness.</desc>
   </programme>
-  <programme channel="externallinearfeed-04-27-2020-04-27-2020" start="20231006165500 +0000" stop="20231006173000 +0000">
-    <title>The Joy of Painting with Bob Ross</title>
-    <desc>Bob paints a lone cabin.</desc>
-  </programme>
-  <programme channel="externallinearfeed-04-27-2020-04-27-2020" start="20231006173000 +0000" stop="20231006180500 +0000">
-    <title>The Joy of Painting with Bob Ross</title>
-    <desc>A lake and some tall trees pay homage to a commanding mountain in the background, as a cabin stands nearby.</desc>
-  </programme>
-  <programme channel="externallinearfeed-04-27-2020-04-27-2020" start="20231006180500 +0000" stop="20231006184000 +0000">
-    <title>The Joy of Painting with Bob Ross</title>
-    <desc>Bob paints a golden field of sparse pines and other greenery inside the unique shape of a tapered rectangle with cut-in corners.</desc>
-  </programme>
-  <programme channel="externallinearfeed-04-27-2020-04-27-2020" start="20231006184000 +0000" stop="20231006191500 +0000">
-    <title>The Joy of Painting with Bob Ross</title>
-    <desc>A path of cacti and rocks leads right up to a bold sun setting in a dramatic red sky.</desc>
+  <programme channel="externallinearfeed-01-15-2020-201540715-01-15-2020" start="20231007190000 +0000" stop="20231007210000 +0000">
+    <title>Stolen</title>
+    <desc>A former thief (Nicolas Cage) has just 12 hours to come up with $10 million after his former partner (Josh Lucas) kidnaps his daughter and locks her in a cab.</desc>
   </programme>
   <programme channel="externallinearfeed-04-27-2020-04-27-2020" start="20231006191500 +0000" stop="20231006195000 +0000">
     <title>The Joy of Painting with Bob Ross</title>
@@ -761,25 +598,173 @@
     <title>The Joy of Painting with Bob Ross</title>
     <desc>Bob captures summer's beauty.</desc>
   </programme>
-  <programme channel="externallinearfeed-05-22-2019-05-22-2019" start="20231006163000 +0000" stop="20231006170000 +0000">
-    <title>Best of the Week</title>
-    <desc>A showcase of viral videos.</desc>
+  <programme channel="externallinearfeed-04-27-2020-04-27-2020" start="20231007165500 +0000" stop="20231007173000 +0000">
+    <title>The Joy of Painting with Bob Ross</title>
+    <desc>A fence guards an old house.</desc>
   </programme>
-  <programme channel="externallinearfeed-05-22-2019-05-22-2019" start="20231006170000 +0000" stop="20231006173000 +0000">
-    <title>FailFactory</title>
-    <desc>Sea creature, reptile, amphibian and insect fails.</desc>
+  <programme channel="externallinearfeed-04-27-2020-04-27-2020" start="20231007173000 +0000" stop="20231007180500 +0000">
+    <title>The Joy of Painting with Bob Ross</title>
+    <desc>Bob paints a peaceful mountain scene.</desc>
   </programme>
-  <programme channel="externallinearfeed-05-22-2019-05-22-2019" start="20231006173000 +0000" stop="20231006180000 +0000">
-    <title>FailFactory</title>
-    <desc>Hard hats are needed for these fails that include construction, city life, shopping and more.</desc>
+  <programme channel="externallinearfeed-04-27-2020-04-27-2020" start="20231007180500 +0000" stop="20231007184000 +0000">
+    <title>The Joy of Painting with Bob Ross</title>
+    <desc>Cottony clouds envelop green hills.</desc>
   </programme>
-  <programme channel="externallinearfeed-05-22-2019-05-22-2019" start="20231006180000 +0000" stop="20231006183000 +0000">
-    <title>FailFactory</title>
-    <desc>People who didn't get an A in driver's education.</desc>
+  <programme channel="externallinearfeed-04-27-2020-04-27-2020" start="20231007184000 +0000" stop="20231007191500 +0000">
+    <title>The Joy of Painting with Bob Ross</title>
+    <desc>Glowing red peaks loom over a lazy stream.</desc>
   </programme>
-  <programme channel="externallinearfeed-05-22-2019-05-22-2019" start="20231006183000 +0000" stop="20231006190000 +0000">
-    <title>FailFactory</title>
-    <desc>For athletic lovers only.</desc>
+  <programme channel="externallinearfeed-04-27-2020-04-27-2020" start="20231007191500 +0000" stop="20231007195000 +0000">
+    <title>The Joy of Painting with Bob Ross</title>
+    <desc>Bob paints a difficult seascape.</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231006190000 +0000" stop="20231006200000 +0000">
+    <title>Grimm</title>
+    <desc>Nick and Hank investigate when a dangerous suspect leaves a trail of wesen in her wake; Adalind forms a dangerous alliance.</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231006200000 +0000" stop="20231006210000 +0000">
+    <title>Grimm</title>
+    <desc>When Nick brings Trubel on a ride along with Hank, they end up investigating the murder of a young woman; Adalind is hopeful after making a discovery.</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231006210000 +0000" stop="20231006220000 +0000">
+    <title>Grimm</title>
+    <desc>Nick and Hank learn the victims of the homicide they are investigating were from a special section of the Verrat; Renard grows suspicious of Adalind's behavior.</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231006220000 +0000" stop="20231006230000 +0000">
+    <title>Buffy the Vampire Slayer</title>
+    <desc>When a student is found mutilated in the woods, Buffy suspects Angel, who has returned after 100 years of infernal torture.</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231006230000 +0000" stop="20231007000000 +0000">
+    <title>Buffy the Vampire Slayer</title>
+    <desc>Cordelia's apparent lock on the Homecoming Queen title inspires Buffy to show her up; Mr. Trick brings together a band of dangerous killers.</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007000000 +0000" stop="20231007010000 +0000">
+    <title>Buffy the Vampire Slayer</title>
+    <desc>Buffy must take on Mr. Trick again when he causes all the adults in town to act like teenagers; Buffy tries to keep Angel a secret.</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007010000 +0000" stop="20231007020000 +0000">
+    <title>The X-Files</title>
+    <desc>Agents Mulder, Scully, Doggett and Reyes investigate a killer's connection to the murder of Doggett's son.</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007020000 +0000" stop="20231007030000 +0000">
+    <title>The X-Files</title>
+    <desc>Agents Mulder and Doggett work together to investigate bizarre deaths on an oil rig in the Gulf of Mexico.</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007030000 +0000" stop="20231007040000 +0000">
+    <title>The X-Files</title>
+    <desc>Scully and Mulder rush to the rescue after Doggett and a new FBI agent get in trouble while pursuing a deadly reptilian creature.</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007040000 +0000" stop="20231007050000 +0000">
+    <title>Grimm</title>
+    <desc>Nick and Hank discover a murder may be part of a series of revenge killings involving a military cover-up; Rosalee reunites with her mother and sister.</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007050000 +0000" stop="20231007060000 +0000">
+    <title>Grimm</title>
+    <desc>Nick and Hank investigate a cop killer who scalps his victims; Juliette tries to get in touch with Nick's mom; Adalind discovers she's closer to giving birth than she thought; Monroe's parents arrive early.</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007060000 +0000" stop="20231007070000 +0000">
+    <title>The Outer Limits</title>
+    <desc>A billionaire's ambitious dreams of power are fueled by a graduate student's accidental discovery of time travel.</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007070000 +0000" stop="20231007073000 +0000">
+    <title>Car accident? Free Legal Consultation.</title>
+    <desc>Legal professionals standing by to answer your questions.</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007073000 +0000" stop="20231007080000 +0000">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007080000 +0000" stop="20231007083000 +0000">
+    <title>Shark MatrixTM Plus 2-in-1 Robot Vacuum &amp; Mop</title>
+    <desc>Experience hands-free cleaning with Shark MatrixTM Plus 2-in-1 Robot Vacuum &amp; Mop! Matrix Clean precision grid cleaning leaves no spots and the Sonic MoppingTM feature scrubs 100x times per minute removing stuck on stains. Unlock the secret to a spotless home with Shark MatrixTM Plus 2-in-1 Robot.</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007083000 +0000" stop="20231007090000 +0000">
+    <title>Ninja Woodfire Outdoor Grill</title>
+    <desc>Meet the Shark Ninja Wood Fire Grill, with Master Grill, BBQ Smoke, and Air Fry outdoor capabilities. Powered by electricity and flavored by real burning wood pellets, Woodfire Technology allows you to easily create rich flavor you can see and taste.</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007090000 +0000" stop="20231007093000 +0000">
+    <title>Amazing Closet Makeovers! 70% more space!</title>
+    <desc>Up to 70% more closet space in seconds with Ruby Space Triangles!</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007093000 +0000" stop="20231007100000 +0000">
+    <title>Coin Collecting with Mike Mezack</title>
+    <desc>Learn about the wonderful world of numismatics with your host Mike Mezack and get the opportunity to build your own collection with some of the best deals around!</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007100000 +0000" stop="20231007103000 +0000">
+    <title>Powerful Cleaning with Shark Stratos</title>
+    <desc>Meet the Shark Stratos Upright Vacuum with features like the DuoClean PowerFins HairPro, Extended Reach and detachable pod for hard to reach areas, and odor neutralizing technology, you'll be cleaning like a pro in no time!</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007103000 +0000" stop="20231007110000 +0000">
+    <title>Shark CarpetXpertTM with StainStrikerTM 2-in-1 deep carpet cleaner with built-in spot &amp; stain remover</title>
+    <desc>Shark CarpetXpert with StainStriker, 2-in-1 deep carpet and upholstery cleaner with a handheld spot &amp; stain eliminator, combines Shark's powerful suction &amp; deep-cleaning innovation to deliver unbeatable deep carpet cleaning &amp; tough stain elimination.</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007110000 +0000" stop="20231007113000 +0000">
+    <title>Adult 65+ Health Matters: Insights from Dr. Roberts</title>
+    <desc>At Oak Street Health, our doctors take the time to get to know you and your needs. We can help you get the most out of your Medicare coverage, set up mail-order prescriptions, and coordinate healthcare &amp; social services. VISITOAKSTREETHEALTH.COM.</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007113000 +0000" stop="20231007120000 +0000">
+    <title>H2O X5 - Super Powerful 5-In-1 Multi-Use Steam Cleaner</title>
+    <desc>Kills 99% of Bacteria, Viruses, and Germs with Steam! The 5-in-1 Lightweight, Fast, Powerful, And Completely Chemical Free Steam Cleaner! Lift and remove dirt and stains all around the home!</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007120000 +0000" stop="20231007123000 +0000">
+    <title>Car Repair Secrets!</title>
+    <desc>Save thousands on car repairs.</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007123000 +0000" stop="20231007130000 +0000">
+    <title>Powerful Cleaning with Shark Stratos</title>
+    <desc>Meet the Shark Stratos Upright Vacuum with features like the DuoClean PowerFins HairPro, Extended Reach and detachable pod for hard to reach areas, and odor neutralizing technology, you'll be cleaning like a pro in no time!</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007130000 +0000" stop="20231007133000 +0000">
+    <title>Rare Silver Coins</title>
+    <desc>Add the stunning Set of 25 1878 San Francisco to 1921 Philadelphia Morgan Silver Dollars graded in Mint State 63 condition to your collection. Out of all Morgan Silver Dollars produced by the US Mint, only 1.7% have survived in Mint State condition!</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007133000 +0000" stop="20231007140000 +0000">
+    <title>Rare Silver Coins</title>
+    <desc>Add the stunning Set of 25 1878 San Francisco to 1921 Philadelphia Morgan Silver Dollars graded in Mint State 63 condition to your collection. Out of all Morgan Silver Dollars produced by the US Mint, only 1.7% have survived in Mint State condition!</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007140000 +0000" stop="20231007143000 +0000">
+    <title>Ninja Combi Multicooker Oven Air Fryer and So Much More</title>
+    <desc>Discover the new way to cook entire meals perfectly in 15 min with Ninja Combi All-In-One Multicooker, Oven &amp; Air Fryer! Never boil water for rice/pasta, defrost proteins or do piles of dishes again. 14-in-1, it's the only appliance you'll ever need.</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007143000 +0000" stop="20231007150000 +0000">
+    <title>Total Gym with Chuck &amp; Dakota Norris</title>
+    <desc>Get in the best shape of your life with the Total Gym 30 Day Risk-Free Trial Offer.</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007150000 +0000" stop="20231007153000 +0000">
+    <title>Tales From the Darkside</title>
+    <desc>Horrible incidents plague a young couple in their newly acquired brownstone.</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007153000 +0000" stop="20231007160000 +0000">
+    <title>Tales From the Darkside</title>
+    <desc>After years of boycotting Halloween, an elderly man (Roy Poole) is tormented by a persistent little trick-or-treater who's out to teach him a lesson.</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007160000 +0000" stop="20231007163000 +0000">
+    <title>Tales From the Darkside</title>
+    <desc>A bizarre inventor (Phil Roth) helps a pop composer (Michael Warren) who is suffering from a mental block.</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007163000 +0000" stop="20231007170000 +0000">
+    <title>Tales From the Darkside</title>
+    <desc>A radio talk show host (Jerry Stiller) has reason to worry when he receives a string of eerie phone calls.</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007170000 +0000" stop="20231007173000 +0000">
+    <title>Tales From the Darkside</title>
+    <desc>With an unusual audience in mind, a mysterious investor revives a television series that was axed 20 years ago. Guest star: Darren McGavin.</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007173000 +0000" stop="20231007180000 +0000">
+    <title>Tales From the Darkside</title>
+    <desc>Two bickering occultists (Phyllis Diller, Lawrence Tierney) could be $50,000 richer -- that is, if they can work together and successfully exorcise a possessed girl.</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007180000 +0000" stop="20231007183000 +0000">
+    <title>Tales From the Darkside</title>
+    <desc>A 7-year-old girl's teddy bear is anything but cuddly when it starts to take on an eerie life of its own.</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007183000 +0000" stop="20231007190000 +0000">
+    <title>Tales From the Darkside</title>
+    <desc>Susan Strasberg stars as a woman who is able to anticipate some very strange occurrences.</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-21-2019-05-21-2019" start="20231007190000 +0000" stop="20231007200000 +0000">
+    <title>Grimm</title>
+    <desc>Nick realizes a series of child abductions that he is investigating bear a striking resemblance to the Hispanic legend of "La Llorona."</desc>
   </programme>
   <programme channel="externallinearfeed-05-22-2019-05-22-2019" start="20231006190000 +0000" stop="20231006200000 +0000">
     <title>Wipeout</title>
@@ -901,13 +886,25 @@
     <title>World's Dumbest ...</title>
     <desc>Dumb drivers; a man at a gas pump doesn't notice his car rolling away right behind him; a bus driver busy sending text messages rear-ends a car; newlyweds are jailed on drunken driving charges on their wedding night.</desc>
   </programme>
-  <programme channel="externallinearfeed-05-20-2019-05-20-2019" start="20231006153500 +0000" stop="20231006171700 +0000">
-    <title>Brittown</title>
-    <desc>Meatball, a master mechanic, spends several months racing, playing gigs and turning an old motor into a road-ready screamer.</desc>
+  <programme channel="externallinearfeed-05-22-2019-05-22-2019" start="20231007170000 +0000" stop="20231007173000 +0000">
+    <title>World's Dumbest ...</title>
+    <desc>Dangerous drivers are recognized in the "Dummy" nominations.</desc>
   </programme>
-  <programme channel="externallinearfeed-05-20-2019-05-20-2019" start="20231006171700 +0000" stop="20231006182600 +0000">
-    <title>Bridge the Gap to Pine Ridge</title>
-    <desc>Host Chris Bashinelli explores the culture of the Oglala Lakota Native Americans at Pine Ridge Indian Reservation in South Dakota.</desc>
+  <programme channel="externallinearfeed-05-22-2019-05-22-2019" start="20231007173000 +0000" stop="20231007180000 +0000">
+    <title>World's Dumbest ...</title>
+    <desc>Moronic motorists' antics are caught on tape.</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-22-2019-05-22-2019" start="20231007180000 +0000" stop="20231007183000 +0000">
+    <title>World's Dumbest ...</title>
+    <desc>The world's dumbest drivers.</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-22-2019-05-22-2019" start="20231007183000 +0000" stop="20231007190000 +0000">
+    <title>World's Dumbest ...</title>
+    <desc>Angry girlfriend tries to run over boy; biker crashes seconds into his first lesson; driver double parks on top of another car.</desc>
+  </programme>
+  <programme channel="externallinearfeed-05-22-2019-05-22-2019" start="20231007190000 +0000" stop="20231007193000 +0000">
+    <title>World's Dumbest ...</title>
+    <desc>20 of the world's dumbest drivers.</desc>
   </programme>
   <programme channel="externallinearfeed-05-20-2019-05-20-2019" start="20231006182600 +0000" stop="20231006201300 +0000">
     <title>Hero of the Day</title>
@@ -965,13 +962,13 @@
     <title>Brittown</title>
     <desc>Meatball, a master mechanic, spends several months racing, playing gigs and turning an old motor into a road-ready screamer.</desc>
   </programme>
-  <programme channel="externallinearfeed-02-09-2022-02-09-2022" start="20231006155415 +0000" stop="20231006173524 +0000">
-    <title>When We Were Kings</title>
-    <desc>Award winning documentary about the 1974 heavyweight title "Rumble in the Jungle" between Foreman and Ali.</desc>
+  <programme channel="externallinearfeed-05-20-2019-05-20-2019" start="20231007171700 +0000" stop="20231007182600 +0000">
+    <title>Bridge the Gap to Pine Ridge</title>
+    <desc>Host Chris Bashinelli explores the culture of the Oglala Lakota Native Americans at Pine Ridge Indian Reservation in South Dakota.</desc>
   </programme>
-  <programme channel="externallinearfeed-02-09-2022-02-09-2022" start="20231006173524 +0000" stop="20231006191316 +0000">
-    <title>Born Strong</title>
-    <desc>The four strongest men on the planet compete for the crown.</desc>
+  <programme channel="externallinearfeed-05-20-2019-05-20-2019" start="20231007182600 +0000" stop="20231007201300 +0000">
+    <title>Hero of the Day</title>
+    <desc>Mark Chambers, a former professional football star, agrees to be the subject of a documentary.</desc>
   </programme>
   <programme channel="externallinearfeed-02-09-2022-02-09-2022" start="20231006191316 +0000" stop="20231006201218 +0000">
     <title>Mike Tyson: Fists of Iron</title>
@@ -1033,13 +1030,13 @@
     <title>The Resurrection Of Jake The Snake</title>
     <desc>A fallen pro wrestling superstar battles past demons to reclaim his life and family that has given up on him.</desc>
   </programme>
-  <programme channel="externallinearfeed-12-15-2021-12-15-2021" start="20231006152228 +0000" stop="20231006171524 +0000">
-    <title>Day of the Animals</title>
-    <desc>The depletion of the earth&amp;#39;s ozone layer causes animals above the altitude of 5000 feet to run amok, which is unfortunate for a group of hikers dropped off by helicopter just before the quarantine.</desc>
+  <programme channel="externallinearfeed-02-09-2022-02-09-2022" start="20231007175929 +0000" stop="20231007191005 +0000">
+    <title>Muhammad Ali: The Greatest</title>
+    <desc>The people who knew him best relive legendary fights and explore the life of boxing's greatest symbol, Ali.</desc>
   </programme>
-  <programme channel="externallinearfeed-12-15-2021-12-15-2021" start="20231006171524 +0000" stop="20231006190000 +0000">
-    <title>Grizzly</title>
-    <desc>An 18-foot killer grizzly terrorizes a state park, leaving it up to a park ranger to stop the slaughter. The most dangerous jaws on land, Grizzly was the highest-grossing independent film of 1976.</desc>
+  <programme channel="externallinearfeed-02-09-2022-02-09-2022" start="20231007191005 +0000" stop="20231007204001 +0000">
+    <title>Ali's Comeback</title>
+    <desc>The epic return of the greatest athlete of his time from the shadows of the boxing ring onto the world stage.</desc>
   </programme>
   <programme channel="externallinearfeed-12-15-2021-12-15-2021" start="20231006190000 +0000" stop="20231006205838 +0000">
     <title>Tunnels</title>
@@ -1129,13 +1126,13 @@
     <title>In the Deep Woods</title>
     <desc>Joanna mourns the loss of her friend, the victim of a grisly serial killer who targets successful young women. He dumps their bodies in the deep woods and leaves the police befuddled.</desc>
   </programme>
-  <programme channel="externallinearfeed-07-18-2019-07-18-2019" start="20231006160100 +0000" stop="20231006171100 +0000">
-    <title>Rawhide</title>
-    <desc>Baseball great Lou Gehrig retires and decides to buy a ranch in the small Western town of Rawhide with his sister, Peggy (Evalyn Knapp). Upon arrival, Lou and Peggy are pressured by Ed Saunders (Arthur Loft) to join the protection association he runs. Lou refuses when he learns that ranchers can't make supply purchases unless they join with Saunders. When their ranch is attacked in retaliation and foreman Pop Mason (Si Jenks) is wounded, Lou and Peggy organize against Saunders.</desc>
+  <programme channel="externallinearfeed-12-15-2021-12-15-2021" start="20231007171807 +0000" stop="20231007191623 +0000">
+    <title>Blood on Her Hands</title>
+    <desc>Isabelle Collins seduces her lover Richard Davis into killing her husband. Richard is promptly arrested for the murder, and Isabelle conspires with his lawyer to frame Richard for the murder.</desc>
   </programme>
-  <programme channel="externallinearfeed-07-18-2019-07-18-2019" start="20231006171100 +0000" stop="20231006181200 +0000">
-    <title>The Dawn Rider</title>
-    <desc>John Mason (John Wayne) suffers a cruel homecoming when he witnesses his father's murder as he rides into town. Incensed, he chases after the killers, but he suffers a gunshot wound that cuts his pursuit short. Alice Gordon (Marion Burns) sees to his injury, and Mason is taken by her kindness and beauty. But things turn sour when her beau, Ben (Reed Howes), becomes jealous. After Mason discovers the men who killed his father, his plan for a duel is sabotaged by Ben, who has been manipulated.</desc>
+  <programme channel="externallinearfeed-12-15-2021-12-15-2021" start="20231007191623 +0000" stop="20231007210000 +0000">
+    <title>The Cold Heart of a Killer</title>
+    <desc>Jessie Arnold enters the Iditarod to win the prize money to save her home. Along the way, other competitors are dying and Jessie suspects someone is bumping off the competition.</desc>
   </programme>
   <programme channel="externallinearfeed-07-18-2019-07-18-2019" start="20231006181200 +0000" stop="20231006193100 +0000">
     <title>Black King</title>
@@ -1237,17 +1234,133 @@
     <title>The Little Rascals</title>
     <desc>(1934) Big kids don't want Scotty and Spanky on their camping trip.</desc>
   </programme>
-  <programme channel="externallinearfeed-03-22-2019-03-22-2019" start="20231006160000 +0000" stop="20231006170000 +0000">
-    <title>'Take Care of Maya' Trial</title>
-    <desc>Family claims a report of child abuse from Johns Hopkins All Children's Hospital led to mom dying by suicide.</desc>
+  <programme channel="externallinearfeed-07-18-2019-07-18-2019" start="20231007163800 +0000" stop="20231007170300 +0000">
+    <title>The Little Rascals</title>
+    <desc>The Rascals attempt to break into their classroom; the Gangs rendition of Romeo and Juliet.</desc>
   </programme>
-  <programme channel="externallinearfeed-03-22-2019-03-22-2019" start="20231006170000 +0000" stop="20231006180000 +0000">
-    <title>'Take Care of Maya' Trial</title>
-    <desc>Family claims a report of child abuse from Johns Hopkins All Children's Hospital led to mom dying by suicide.</desc>
+  <programme channel="externallinearfeed-07-18-2019-07-18-2019" start="20231007170300 +0000" stop="20231007181000 +0000">
+    <title>Ridin' On</title>
+    <desc>A cowboy (Tom Tyler) helps the daughter (Geraine Greer) of his father's (John Elliott) rival (Earl Dwire).</desc>
   </programme>
-  <programme channel="externallinearfeed-03-22-2019-03-22-2019" start="20231006180000 +0000" stop="20231006190000 +0000">
-    <title>'Take Care of Maya' Trial</title>
-    <desc>Family claims a report of child abuse from Johns Hopkins All Children's Hospital led to mom dying by suicide.</desc>
+  <programme channel="externallinearfeed-07-18-2019-07-18-2019" start="20231007181000 +0000" stop="20231007192600 +0000">
+    <title>The Return of Casey Jones</title>
+    <desc>A man (George "Gabby" Hayes) shares his railroad wisdom with a young engineer.</desc>
+  </programme>
+  <programme channel="externallinearfeed-07-18-2019-07-18-2019" start="20231007192600 +0000" stop="20231007205400 +0000">
+    <title>Killer Diller</title>
+    <desc>Performers (King Cole Trio, Dusty Fletcher, Butterfly McQueen) appear in an all-black revue.</desc>
+  </programme>
+  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231006193000 +0000" stop="20231006203000 +0000">
+    <title>Von Karman Lecture Series: The Universe of Very Cold: The James Webb Space Telescope, MIRI, and the Cryocooler</title>
+    <desc>The James Webb Space Telescope (JWST) takes incredible images using infrared light. The optics and science instruments must be incredibly cold,especially JWSTs Mid-Infrared Instrument (MIRI),which needs to be at a temperature of less than 7 kelvins.</desc>
+  </programme>
+  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231006203000 +0000" stop="20231006210000 +0000">
+    <title>Down to Earth</title>
+    <desc>Season 2: Conversations.</desc>
+  </programme>
+  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231006210000 +0000" stop="20231006223000 +0000">
+    <title>NASA in Silicon Valley Live</title>
+    <desc></desc>
+  </programme>
+  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231006223000 +0000" stop="20231006230000 +0000">
+    <title>75 Years of Armstrong: Airborne Science</title>
+    <desc>NASA Armstrong's flight research center is honoring 75 years of advancing technology and science through flight.</desc>
+  </programme>
+  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231006230000 +0000" stop="20231007000000 +0000">
+    <title>Ask an Astrobiologist</title>
+    <desc></desc>
+  </programme>
+  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007000000 +0000" stop="20231007020000 +0000">
+    <title>Moonwalk One</title>
+    <desc></desc>
+  </programme>
+  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007020000 +0000" stop="20231007023000 +0000">
+    <title>Down to Earth</title>
+    <desc>Season 2: Conversations.</desc>
+  </programme>
+  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007023000 +0000" stop="20231007030000 +0000">
+    <title>75 Years of Armstrong: Airborne Science</title>
+    <desc>NASA Armstrong's flight research center is honoring 75 years of advancing technology and science through flight.</desc>
+  </programme>
+  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007030000 +0000" stop="20231007040000 +0000">
+    <title>Ask an Astrobiologist</title>
+    <desc></desc>
+  </programme>
+  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007040000 +0000" stop="20231007043000 +0000">
+    <title>Down to Earth</title>
+    <desc>Season 2: Conversations.</desc>
+  </programme>
+  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007043000 +0000" stop="20231007050000 +0000">
+    <title>75 Years of Armstrong: Airborne Science</title>
+    <desc>NASA Armstrong's flight research center is honoring 75 years of advancing technology and science through flight.</desc>
+  </programme>
+  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007050000 +0000" stop="20231007060000 +0000">
+    <title>Ask an Astrobiologist</title>
+    <desc></desc>
+  </programme>
+  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007060000 +0000" stop="20231007080000 +0000">
+    <title>Moonwalk One</title>
+    <desc></desc>
+  </programme>
+  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007080000 +0000" stop="20231007083000 +0000">
+    <title>NASA Explorers</title>
+    <desc>These are the explorers of space. They are the people who will get humanity to the Moon, collect moon rocks, deliver them to Earth safely and ensure that humanity can study them for years to come.</desc>
+  </programme>
+  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007083000 +0000" stop="20231007090000 +0000">
+    <title>Down to Earth</title>
+    <desc>Season 2: Conversations.</desc>
+  </programme>
+  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007090000 +0000" stop="20231007093000 +0000">
+    <title>STEMonstrations</title>
+    <desc>STEM demonstration on the space station.</desc>
+  </programme>
+  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007093000 +0000" stop="20231007103000 +0000">
+    <title>Von Karman Lecture Series: ThSunRISE: Opening a New Window on the Sun</title>
+    <desc>NASA's Sun Radio Interferometer Space Experiment, or SunRISE, will send a fleet of six toaster sized SmallSats into orbit around Earth to work together as a radio telescope studying the Sun. SunRISE will help scientists better understand .</desc>
+  </programme>
+  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007103000 +0000" stop="20231007113000 +0000">
+    <title>Moon 101 Series</title>
+    <desc></desc>
+  </programme>
+  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007113000 +0000" stop="20231007120000 +0000">
+    <title>NASA's Advanced Air Mobility Playbook</title>
+    <desc>NASA's vision for advanced air mobility (AAM) is to map out a safe, accessible and affordable new air transportation system alongside industry partners and the FAA.</desc>
+  </programme>
+  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007120000 +0000" stop="20231007130000 +0000">
+    <title>A Conversation Between Tom Cruise and Victor Glover About the Body in Space</title>
+    <desc>At the World Extreme Medicine conference in 2021, Tom Cruise speaks to NASA astronaut Victor Glover, who returned from a mission at the International Space Station.</desc>
+  </programme>
+  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007130000 +0000" stop="20231007133000 +0000">
+    <title>Down to Earth</title>
+    <desc>Season 2: Conversations.</desc>
+  </programme>
+  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007133000 +0000" stop="20231007140000 +0000">
+    <title>STEMonstrations</title>
+    <desc>STEM demonstration on the space station.</desc>
+  </programme>
+  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007140000 +0000" stop="20231007153000 +0000">
+    <title>NASA in Silicon Valley Live - How to Get an Internship at NASA</title>
+    <desc></desc>
+  </programme>
+  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007153000 +0000" stop="20231007160000 +0000">
+    <title>NASA's The Quiet Crew</title>
+    <desc></desc>
+  </programme>
+  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007160000 +0000" stop="20231007163000 +0000">
+    <title>Down to Earth</title>
+    <desc>Season 2: Conversations.</desc>
+  </programme>
+  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007163000 +0000" stop="20231007170000 +0000">
+    <title>75 Years of Armstrong: Airborne Science</title>
+    <desc>NASA Armstrong's flight research center is honoring 75 years of advancing technology and science through flight.</desc>
+  </programme>
+  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007170000 +0000" stop="20231007180000 +0000">
+    <title>Ask an Astrobiologist</title>
+    <desc></desc>
+  </programme>
+  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007180000 +0000" stop="20231007200000 +0000">
+    <title>Moonwalk One</title>
+    <desc></desc>
   </programme>
   <programme channel="externallinearfeed-03-22-2019-03-22-2019" start="20231006190000 +0000" stop="20231006200000 +0000">
     <title>'Take Care of Maya' Trial</title>
@@ -1397,129 +1510,17 @@
     <title>'Take Care of Maya' Trial</title>
     <desc>Family claims a report of child abuse from Johns Hopkins All Children's Hospital led to mom dying by suicide.</desc>
   </programme>
-  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231006163000 +0000" stop="20231006183000 +0000">
-    <title>Moonwalk One</title>
-    <desc></desc>
+  <programme channel="externallinearfeed-03-22-2019-03-22-2019" start="20231007170000 +0000" stop="20231007180000 +0000">
+    <title>'Take Care of Maya' Trial</title>
+    <desc>Family claims a report of child abuse from Johns Hopkins All Children's Hospital led to mom dying by suicide.</desc>
   </programme>
-  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231006183000 +0000" stop="20231006190000 +0000">
-    <title>Down to Earth</title>
-    <desc>Season 2: Conversations.</desc>
+  <programme channel="externallinearfeed-03-22-2019-03-22-2019" start="20231007180000 +0000" stop="20231007190000 +0000">
+    <title>'Take Care of Maya' Trial</title>
+    <desc>Family claims a report of child abuse from Johns Hopkins All Children's Hospital led to mom dying by suicide.</desc>
   </programme>
-  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231006190000 +0000" stop="20231006193000 +0000">
-    <title>75 Years of Armstrong: Airborne Science</title>
-    <desc>NASA Armstrong's flight research center is honoring 75 years of advancing technology and science through flight.</desc>
-  </programme>
-  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231006193000 +0000" stop="20231006203000 +0000">
-    <title>Von Karman Lecture Series: The Universe of Very Cold: The James Webb Space Telescope, MIRI, and the Cryocooler</title>
-    <desc>The James Webb Space Telescope (JWST) takes incredible images using infrared light. The optics and science instruments must be incredibly cold,especially JWSTs Mid-Infrared Instrument (MIRI),which needs to be at a temperature of less than 7 kelvins.</desc>
-  </programme>
-  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231006203000 +0000" stop="20231006210000 +0000">
-    <title>Down to Earth</title>
-    <desc>Season 2: Conversations.</desc>
-  </programme>
-  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231006210000 +0000" stop="20231006223000 +0000">
-    <title>NASA in Silicon Valley Live</title>
-    <desc></desc>
-  </programme>
-  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231006223000 +0000" stop="20231006230000 +0000">
-    <title>75 Years of Armstrong: Airborne Science</title>
-    <desc>NASA Armstrong's flight research center is honoring 75 years of advancing technology and science through flight.</desc>
-  </programme>
-  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231006230000 +0000" stop="20231007000000 +0000">
-    <title>Ask an Astrobiologist</title>
-    <desc></desc>
-  </programme>
-  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007000000 +0000" stop="20231007020000 +0000">
-    <title>Moonwalk One</title>
-    <desc></desc>
-  </programme>
-  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007020000 +0000" stop="20231007023000 +0000">
-    <title>Down to Earth</title>
-    <desc>Season 2: Conversations.</desc>
-  </programme>
-  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007023000 +0000" stop="20231007030000 +0000">
-    <title>75 Years of Armstrong: Airborne Science</title>
-    <desc>NASA Armstrong's flight research center is honoring 75 years of advancing technology and science through flight.</desc>
-  </programme>
-  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007030000 +0000" stop="20231007040000 +0000">
-    <title>Ask an Astrobiologist</title>
-    <desc></desc>
-  </programme>
-  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007040000 +0000" stop="20231007043000 +0000">
-    <title>Down to Earth</title>
-    <desc>Season 2: Conversations.</desc>
-  </programme>
-  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007043000 +0000" stop="20231007050000 +0000">
-    <title>75 Years of Armstrong: Airborne Science</title>
-    <desc>NASA Armstrong's flight research center is honoring 75 years of advancing technology and science through flight.</desc>
-  </programme>
-  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007050000 +0000" stop="20231007060000 +0000">
-    <title>Ask an Astrobiologist</title>
-    <desc></desc>
-  </programme>
-  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007060000 +0000" stop="20231007080000 +0000">
-    <title>Moonwalk One</title>
-    <desc></desc>
-  </programme>
-  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007080000 +0000" stop="20231007083000 +0000">
-    <title>NASA Explorers</title>
-    <desc>These are the explorers of space. They are the people who will get humanity to the Moon, collect moon rocks, deliver them to Earth safely and ensure that humanity can study them for years to come.</desc>
-  </programme>
-  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007083000 +0000" stop="20231007090000 +0000">
-    <title>Down to Earth</title>
-    <desc>Season 2: Conversations.</desc>
-  </programme>
-  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007090000 +0000" stop="20231007093000 +0000">
-    <title>STEMonstrations</title>
-    <desc>STEM demonstration on the space station.</desc>
-  </programme>
-  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007093000 +0000" stop="20231007103000 +0000">
-    <title>Von Karman Lecture Series: ThSunRISE: Opening a New Window on the Sun</title>
-    <desc>NASA's Sun Radio Interferometer Space Experiment, or SunRISE, will send a fleet of six toaster sized SmallSats into orbit around Earth to work together as a radio telescope studying the Sun. SunRISE will help scientists better understand .</desc>
-  </programme>
-  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007103000 +0000" stop="20231007113000 +0000">
-    <title>Moon 101 Series</title>
-    <desc></desc>
-  </programme>
-  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007113000 +0000" stop="20231007120000 +0000">
-    <title>NASA's Advanced Air Mobility Playbook</title>
-    <desc>NASA's vision for advanced air mobility (AAM) is to map out a safe, accessible and affordable new air transportation system alongside industry partners and the FAA.</desc>
-  </programme>
-  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007120000 +0000" stop="20231007130000 +0000">
-    <title>A Conversation Between Tom Cruise and Victor Glover About the Body in Space</title>
-    <desc>At the World Extreme Medicine conference in 2021, Tom Cruise speaks to NASA astronaut Victor Glover, who returned from a mission at the International Space Station.</desc>
-  </programme>
-  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007130000 +0000" stop="20231007133000 +0000">
-    <title>Down to Earth</title>
-    <desc>Season 2: Conversations.</desc>
-  </programme>
-  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007133000 +0000" stop="20231007140000 +0000">
-    <title>STEMonstrations</title>
-    <desc>STEM demonstration on the space station.</desc>
-  </programme>
-  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007140000 +0000" stop="20231007153000 +0000">
-    <title>NASA in Silicon Valley Live - How to Get an Internship at NASA</title>
-    <desc></desc>
-  </programme>
-  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007153000 +0000" stop="20231007160000 +0000">
-    <title>NASA's The Quiet Crew</title>
-    <desc></desc>
-  </programme>
-  <programme channel="nasatv-gracenote-external-01-09-2019" start="20231007160000 +0000" stop="20231007163000 +0000">
-    <title>Down to Earth</title>
-    <desc>Season 2: Conversations.</desc>
-  </programme>
-  <programme channel="its-showtime-at-the-apollo-03-12-2021" start="20231006160000 +0000" stop="20231006170000 +0000">
-    <title>It's Showtime at the Apollo</title>
-    <desc>This 1991 episode of It's Showtime at the Apollo features Run-D.M.C., LeVert, Rude Boys featuring Gerald Levert, and comedian James Stephens III.</desc>
-  </programme>
-  <programme channel="its-showtime-at-the-apollo-03-12-2021" start="20231006170000 +0000" stop="20231006180000 +0000">
-    <title>It's Showtime at the Apollo</title>
-    <desc>En Vogue, Take 6, and comedian Lenny Varnedoe guest performs in this 1991 episode of It's Showtime at the Apollo. </desc>
-  </programme>
-  <programme channel="its-showtime-at-the-apollo-03-12-2021" start="20231006180000 +0000" stop="20231006190000 +0000">
-    <title>It's Showtime at the Apollo</title>
-    <desc> LL Cool J, Sybil, and comedians Lenny Varnedoe and Kim Coles guest in this 1990 episode of It's Showtime at the Apollo. </desc>
+  <programme channel="externallinearfeed-03-22-2019-03-22-2019" start="20231007190000 +0000" stop="20231007200000 +0000">
+    <title>'Take Care of Maya' Trial</title>
+    <desc>Family claims a report of child abuse from Johns Hopkins All Children's Hospital led to mom dying by suicide.</desc>
   </programme>
   <programme channel="its-showtime-at-the-apollo-03-12-2021" start="20231006190000 +0000" stop="20231006200000 +0000">
     <title>It's Showtime at the Apollo</title>
@@ -1614,17 +1615,17 @@
     <title>It's Showtime at the Apollo</title>
     <desc>Stephen Bishop guest hosts It's Showtime at the Apollo in 1987 with performers including Company B, Meli'sa Morgan, Kashif, and comedian George Wallace.</desc>
   </programme>
-  <programme channel="externallinearfeed-08-18-2020-08-18-2020" start="20231006155000 +0000" stop="20231006165000 +0000">
-    <title>Gordon Behind Bars</title>
-    <desc>Gordon must find a business willing to buy his prison-made products in order to keep the business alive.</desc>
+  <programme channel="its-showtime-at-the-apollo-03-12-2021" start="20231007170000 +0000" stop="20231007180000 +0000">
+    <title>It's Showtime at the Apollo</title>
+    <desc>Ray Parker Jr. guest hosts It's Showtime at the Apollo in 1987 with performers including Force MDs, Shanice Wilson, Richard Belzer, and Terry Hodges.</desc>
   </programme>
-  <programme channel="externallinearfeed-08-18-2020-08-18-2020" start="20231006165000 +0000" stop="20231006174700 +0000">
-    <title>Helicopter ER</title>
-    <desc>Dispatcher Paul Holmes scrambles both helicopters to attend a motorcycle accident involving two bikes; a child is injured; a difficult rescue is launched to retrieve a walker, plunged down a ravine; a cycling mum's lost memory surprises her son.</desc>
+  <programme channel="its-showtime-at-the-apollo-03-12-2021" start="20231007180000 +0000" stop="20231007190000 +0000">
+    <title>It's Showtime at the Apollo</title>
+    <desc>Freddie Jackson guest hosts It's Showtime at the Apollo in 1987 with performers including Expose, Whodini, John White, and Phyllis Stickney.</desc>
   </programme>
-  <programme channel="externallinearfeed-08-18-2020-08-18-2020" start="20231006174700 +0000" stop="20231006184400 +0000">
-    <title>Helicopter ER</title>
-    <desc>Dispatcher Paul Holmes scrambles both helicopters to attend a motorcycle accident involving two bikes; a child is injured; a difficult rescue is launched to retrieve a walker, plunged down a ravine; a cycling mum's lost memory surprises her son.</desc>
+  <programme channel="its-showtime-at-the-apollo-03-12-2021" start="20231007190000 +0000" stop="20231007200000 +0000">
+    <title>It's Showtime at the Apollo</title>
+    <desc>Natalie Cole guest hosts It's Showtime at the Apollo in 1987 with performers including Freddie Jackson, Stacy Lattisaw, Run-D.M.C., Til Tuesday, and comedian John Kassir.</desc>
   </programme>
   <programme channel="externallinearfeed-08-18-2020-08-18-2020" start="20231006184400 +0000" stop="20231006194100 +0000">
     <title>Helicopter ER</title>
@@ -1726,77 +1727,17 @@
     <title>22 Kids and Counting</title>
     <desc>Sue is about to give birth to their 22nd child as the nation goes into lockdown; they endure month after month of home schooling on top of the cooking, cleaning and bored children.</desc>
   </programme>
-  <programme channel="externallinearfeed-06-26-2020-193305392-06-26-2020" start="20231006160100 +0000" stop="20231006173300 +0000">
-    <title>In the Line of Duty III</title>
-    <desc>Nakamura and his soul mate pull off a jewelry heist in Japan.</desc>
+  <programme channel="externallinearfeed-08-18-2020-08-18-2020" start="20231007165300 +0000" stop="20231007175100 +0000">
+    <title>22 Kids and Counting</title>
+    <desc>After months off it's back to school for the Radford kids; Noel adopts a radical approach to device addiction and takes the older kids on an adventure; Sue gets some quiet time at home with the little ones.</desc>
   </programme>
-  <programme channel="externallinearfeed-06-26-2020-193305392-06-26-2020" start="20231006173300 +0000" stop="20231006192600 +0000">
-    <title>Danger God</title>
-    <desc>Gary Kent was the king of B movies in the '60s and '70s, but he's tackled even larger real-life challenges.</desc>
+  <programme channel="externallinearfeed-08-18-2020-08-18-2020" start="20231007175100 +0000" stop="20231007184800 +0000">
+    <title>22 Kids and Counting</title>
+    <desc>There's another baby on the way, but it's not Sue's; it's 18-year-old daughter Millie's.</desc>
   </programme>
-  <programme channel="externallinearfeed-06-26-2020-193305392-06-26-2020" start="20231006192600 +0000" stop="20231006205800 +0000">
-    <title>Gamera vs. Guiron</title>
-    <desc>Flying turtle Gamera spins to the far side of the sun and meets a pointy-headed monster and women who like brains.</desc>
-  </programme>
-  <programme channel="externallinearfeed-06-26-2020-193305392-06-26-2020" start="20231006205800 +0000" stop="20231006223800 +0000">
-    <title>Murder Story</title>
-    <desc>An aspiring novelist (Alexis Desinof), his girlfriend and his literary mentor (Christopher Lee) lift a plot from the news in Amsterdam.</desc>
-  </programme>
-  <programme channel="externallinearfeed-06-26-2020-193305392-06-26-2020" start="20231006223800 +0000" stop="20231007002100 +0000">
-    <title>Castle of the Living Dead</title>
-    <desc>A mysterious count who has discovered a liquid that petrifies living things becomes a victim of his own evil discovery.</desc>
-  </programme>
-  <programme channel="externallinearfeed-06-26-2020-193305392-06-26-2020" start="20231007002100 +0000" stop="20231007021900 +0000">
-    <title>Magic</title>
-    <desc>Corky (Anthony Hopkins), a failed magician, adopts a new ventriloquist act with an abrasive dummy named Fats, and suddenly finds himself lined up for a television show. When the unbalanced Corky fears he won't pass the required mental exam, he runs away with Fats to his hometown, where he meets an old love from high school, Peggy (Ann-Margret). Corky persuades Peggy to leave her loveless marriage -- but Fats, who seems to be taking on a mind of his own, doesn't approve of the relationship.</desc>
-  </programme>
-  <programme channel="externallinearfeed-06-26-2020-193305392-06-26-2020" start="20231007021900 +0000" stop="20231007040000 +0000">
-    <title>The Stepfather</title>
-    <desc>Jerry Blake (Terry O'Quinn) is a family man, but he happens to have a series of families, with each one on the receiving end of his murderous ways. When Jerry sets his sights on a lovely widow named Susan (Shelley Hack) and her headstrong daughter, Stephanie (Jill Schoelen), it appears that his brutal pattern of killings will continue. However, Stephanie begins to suspect that there's something wrong with the seemingly well-adjusted Jerry, and a violent confrontation is inevitable.</desc>
-  </programme>
-  <programme channel="externallinearfeed-06-26-2020-193305392-06-26-2020" start="20231007040000 +0000" stop="20231007055500 +0000">
-    <title>Hell Night</title>
-    <desc>Fraternity and sorority pledges ignore rumors and spend the night in a mansion haunted by victims of a family massacre.</desc>
-  </programme>
-  <programme channel="externallinearfeed-06-26-2020-193305392-06-26-2020" start="20231007055500 +0000" stop="20231007073800 +0000">
-    <title>Day 13</title>
-    <desc>A young man investigates a mysterious neighborhood house that holds dark secrets.</desc>
-  </programme>
-  <programme channel="externallinearfeed-06-26-2020-193305392-06-26-2020" start="20231007073800 +0000" stop="20231007091700 +0000">
-    <title>RiffTrax: The House on Sorority Row</title>
-    <desc>Mike, Kevin and Bill riff a cult classic with a nonsensical plot, coeds who threaten murder over a canceled party and a clown-loving killer.</desc>
-  </programme>
-  <programme channel="externallinearfeed-06-26-2020-193305392-06-26-2020" start="20231007091700 +0000" stop="20231007105600 +0000">
-    <title>The Crush</title>
-    <desc>Writer Nick Eliot (Cary Elwes) moves to a new city for a magazine job and rents a room in the house of Cliff (Kurtwood Smith) and Liv Forrester (Gwynyth Walsh), whose 14-year-old daughter, Adrian (Alicia Silverstone), instantly makes her attraction to Nick clear. While Nick romances photographer Amy Maddik (Jennifer Rubin) at work, he has trouble fending off Adrian's advances. As her obsession with Nick grows, Adrian becomes angry at being rejected and starts attacking his property and friends.</desc>
-  </programme>
-  <programme channel="externallinearfeed-06-26-2020-193305392-06-26-2020" start="20231007105600 +0000" stop="20231007124900 +0000">
-    <title>Road Games</title>
-    <desc>An Australian trucker (Stacy Keach) picks up a hitchhiking heiress (Jamie Lee Curtis) and the trail of a killer in a green van.</desc>
-  </programme>
-  <programme channel="externallinearfeed-06-26-2020-193305392-06-26-2020" start="20231007124900 +0000" stop="20231007145100 +0000">
-    <title>Patrick</title>
-    <desc>A comatose patient, the subject of a scientist's (Charles Dance) cruel experiments, uses his psychic powers to bring an innocent nurse (Sharni Vinson) under his control.</desc>
-  </programme>
-  <programme channel="externallinearfeed-06-26-2020-193305392-06-26-2020" start="20231007145100 +0000" stop="20231007162900 +0000">
-    <title>The Man With Two Heads</title>
-    <desc>Serum derived from a mass murderer's brain turns good Dr. Jekyll (Denis De Marne) of London into bad Mr. Blood.</desc>
-  </programme>
-  <programme channel="externallinearfeed-06-26-2020-193305392-06-26-2020" start="20231007162900 +0000" stop="20231007170700 +0000">
-    <title>Paranormal Quest</title>
-    <desc>The team uses paranormal investigation techniques to see if a doll is truly a toll of the devil.</desc>
-  </programme>
-  <programme channel="externallinearfeed-10-21-2019-10-21-2019" start="20231006160000 +0000" stop="20231006170000 +0000">
-    <title>The Librarians</title>
-    <desc>After seeing a vision of her own death at the hands of a supernatural assassin, Baird attempts to stop the deadly prophecy from coming true.</desc>
-  </programme>
-  <programme channel="externallinearfeed-10-21-2019-10-21-2019" start="20231006170000 +0000" stop="20231006180000 +0000">
-    <title>Almost Paradise</title>
-    <desc>When Alex takes a job protecting a country singer he idolizes, he quickly learns that one should never meet one's heroes; when the singer is kidnapped, Alex must figure out who is really behind the crime and rescue him before it's too late.</desc>
-  </programme>
-  <programme channel="externallinearfeed-10-21-2019-10-21-2019" start="20231006180000 +0000" stop="20231006190000 +0000">
-    <title>Paradise Found</title>
-    <desc>More interviews and behind-the-scenes content from "Almost Paradise - Breaking Badminton," with hosts Yael Tiegel and Kiyra Lynn featuring interviews with Christian Kane, Samantha Richelle, Art Acua and more.</desc>
+  <programme channel="externallinearfeed-08-18-2020-08-18-2020" start="20231007184800 +0000" stop="20231007194600 +0000">
+    <title>22 Kids and Counting</title>
+    <desc>The Radford kids are growing up.</desc>
   </programme>
   <programme channel="externallinearfeed-10-21-2019-10-21-2019" start="20231006190000 +0000" stop="20231006200000 +0000">
     <title>Leverage</title>
@@ -1878,33 +1819,73 @@
     <title>The Librarian: Quest for the Spear</title>
     <desc>A caretaker (Noah Wyle) beneath a metropolitan library protects magical artifacts from those who would use them to do evil.</desc>
   </programme>
-  <programme channel="externallinearfeed-07-01-2020-07-01-2020" start="20231006162500 +0000" stop="20231006165000 +0000">
-    <title>Yu-Gi-Oh! ZEXAL</title>
-    <desc>The President of the Comic Book Appreciation Club challenges Shark to a duel.</desc>
+  <programme channel="externallinearfeed-10-21-2019-10-21-2019" start="20231007180000 +0000" stop="20231007190000 +0000">
+    <title>The Librarians</title>
+    <desc>After seeing a vision of her own death at the hands of a supernatural assassin, Baird attempts to stop the deadly prophecy from coming true.</desc>
   </programme>
-  <programme channel="externallinearfeed-07-01-2020-07-01-2020" start="20231006165000 +0000" stop="20231006171500 +0000">
-    <title>Yu-Gi-Oh! ZEXAL</title>
-    <desc>Rio catches the eye of a Barian botanist on the first day of school.</desc>
+  <programme channel="externallinearfeed-10-21-2019-10-21-2019" start="20231007190000 +0000" stop="20231007200000 +0000">
+    <title>The Librarians</title>
+    <desc>In order to stop the spread of pure evil, the team must find the Eye of Ra and unravel the mystery of the Bermuda Triangle; Flynn must pass a series of tests.</desc>
   </programme>
-  <programme channel="externallinearfeed-07-01-2020-07-01-2020" start="20231006171500 +0000" stop="20231006174000 +0000">
-    <title>Yu-Gi-Oh! ZEXAL</title>
-    <desc>A new Barian threat falls for Tori.</desc>
+  <programme channel="externallinearfeed-06-26-2020-193305392-06-26-2020" start="20231006192600 +0000" stop="20231006205800 +0000">
+    <title>Gamera vs. Guiron</title>
+    <desc>Flying turtle Gamera spins to the far side of the sun and meets a pointy-headed monster and women who like brains.</desc>
   </programme>
-  <programme channel="externallinearfeed-07-01-2020-07-01-2020" start="20231006174000 +0000" stop="20231006180500 +0000">
-    <title>Yu-Gi-Oh! ZEXAL</title>
-    <desc>Yuma's friends face off in the friendship games.</desc>
+  <programme channel="externallinearfeed-06-26-2020-193305392-06-26-2020" start="20231006205800 +0000" stop="20231006223800 +0000">
+    <title>Murder Story</title>
+    <desc>An aspiring novelist (Alexis Desinof), his girlfriend and his literary mentor (Christopher Lee) lift a plot from the news in Amsterdam.</desc>
   </programme>
-  <programme channel="externallinearfeed-07-01-2020-07-01-2020" start="20231006180500 +0000" stop="20231006183000 +0000">
-    <title>Yu-Gi-Oh! ZEXAL</title>
-    <desc>A dangerous new enemy arrives with a powerful weapon.</desc>
+  <programme channel="externallinearfeed-06-26-2020-193305392-06-26-2020" start="20231006223800 +0000" stop="20231007002100 +0000">
+    <title>Castle of the Living Dead</title>
+    <desc>A mysterious count who has discovered a liquid that petrifies living things becomes a victim of his own evil discovery.</desc>
   </programme>
-  <programme channel="externallinearfeed-07-01-2020-07-01-2020" start="20231006183000 +0000" stop="20231006185500 +0000">
-    <title>Yu-Gi-Oh! ZEXAL</title>
-    <desc>Mizar and Yuma battle; a surprise duelist takes down Mizar.</desc>
+  <programme channel="externallinearfeed-06-26-2020-193305392-06-26-2020" start="20231007002100 +0000" stop="20231007021900 +0000">
+    <title>Magic</title>
+    <desc>Corky (Anthony Hopkins), a failed magician, adopts a new ventriloquist act with an abrasive dummy named Fats, and suddenly finds himself lined up for a television show. When the unbalanced Corky fears he won't pass the required mental exam, he runs away with Fats to his hometown, where he meets an old love from high school, Peggy (Ann-Margret). Corky persuades Peggy to leave her loveless marriage -- but Fats, who seems to be taking on a mind of his own, doesn't approve of the relationship.</desc>
   </programme>
-  <programme channel="externallinearfeed-07-01-2020-07-01-2020" start="20231006185500 +0000" stop="20231006192000 +0000">
-    <title>Yu-Gi-Oh! ZEXAL</title>
-    <desc>Shark steals Yuma's key.</desc>
+  <programme channel="externallinearfeed-06-26-2020-193305392-06-26-2020" start="20231007021900 +0000" stop="20231007040000 +0000">
+    <title>The Stepfather</title>
+    <desc>Jerry Blake (Terry O'Quinn) is a family man, but he happens to have a series of families, with each one on the receiving end of his murderous ways. When Jerry sets his sights on a lovely widow named Susan (Shelley Hack) and her headstrong daughter, Stephanie (Jill Schoelen), it appears that his brutal pattern of killings will continue. However, Stephanie begins to suspect that there's something wrong with the seemingly well-adjusted Jerry, and a violent confrontation is inevitable.</desc>
+  </programme>
+  <programme channel="externallinearfeed-06-26-2020-193305392-06-26-2020" start="20231007040000 +0000" stop="20231007055500 +0000">
+    <title>Hell Night</title>
+    <desc>Fraternity and sorority pledges ignore rumors and spend the night in a mansion haunted by victims of a family massacre.</desc>
+  </programme>
+  <programme channel="externallinearfeed-06-26-2020-193305392-06-26-2020" start="20231007055500 +0000" stop="20231007073800 +0000">
+    <title>Day 13</title>
+    <desc>A young man investigates a mysterious neighborhood house that holds dark secrets.</desc>
+  </programme>
+  <programme channel="externallinearfeed-06-26-2020-193305392-06-26-2020" start="20231007073800 +0000" stop="20231007091700 +0000">
+    <title>RiffTrax: The House on Sorority Row</title>
+    <desc>Mike, Kevin and Bill riff a cult classic with a nonsensical plot, coeds who threaten murder over a canceled party and a clown-loving killer.</desc>
+  </programme>
+  <programme channel="externallinearfeed-06-26-2020-193305392-06-26-2020" start="20231007091700 +0000" stop="20231007105600 +0000">
+    <title>The Crush</title>
+    <desc>Writer Nick Eliot (Cary Elwes) moves to a new city for a magazine job and rents a room in the house of Cliff (Kurtwood Smith) and Liv Forrester (Gwynyth Walsh), whose 14-year-old daughter, Adrian (Alicia Silverstone), instantly makes her attraction to Nick clear. While Nick romances photographer Amy Maddik (Jennifer Rubin) at work, he has trouble fending off Adrian's advances. As her obsession with Nick grows, Adrian becomes angry at being rejected and starts attacking his property and friends.</desc>
+  </programme>
+  <programme channel="externallinearfeed-06-26-2020-193305392-06-26-2020" start="20231007105600 +0000" stop="20231007124900 +0000">
+    <title>Road Games</title>
+    <desc>An Australian trucker (Stacy Keach) picks up a hitchhiking heiress (Jamie Lee Curtis) and the trail of a killer in a green van.</desc>
+  </programme>
+  <programme channel="externallinearfeed-06-26-2020-193305392-06-26-2020" start="20231007124900 +0000" stop="20231007145100 +0000">
+    <title>Patrick</title>
+    <desc>A comatose patient, the subject of a scientist's (Charles Dance) cruel experiments, uses his psychic powers to bring an innocent nurse (Sharni Vinson) under his control.</desc>
+  </programme>
+  <programme channel="externallinearfeed-06-26-2020-193305392-06-26-2020" start="20231007145100 +0000" stop="20231007162900 +0000">
+    <title>The Man With Two Heads</title>
+    <desc>Serum derived from a mass murderer's brain turns good Dr. Jekyll (Denis De Marne) of London into bad Mr. Blood.</desc>
+  </programme>
+  <programme channel="externallinearfeed-06-26-2020-193305392-06-26-2020" start="20231007162900 +0000" stop="20231007170700 +0000">
+    <title>Paranormal Quest</title>
+    <desc>The team journeys into a dark train tunnel to search for paranormal activity.</desc>
+  </programme>
+  <programme channel="externallinearfeed-06-26-2020-193305392-06-26-2020" start="20231007170700 +0000" stop="20231007190300 +0000">
+    <title>The Night Visitor</title>
+    <desc>Wrongly convicted criminal Salem (Max von Sydow) escapes from a mental institution hoping to get revenge on the man who put him there, his brother-in-law Anton (Per Oscarsson). Driven genuinely insane by his time in the institution, Salem plots to commit a series of crimes to frame Anton. Caught up in this murderous scheme is Anton's wife, Salem's sister Ester (Liv Ullmann). The three are thrown together, and the couple must outfox the madman in order to survive.</desc>
+  </programme>
+  <programme channel="externallinearfeed-06-26-2020-193305392-06-26-2020" start="20231007190300 +0000" stop="20231007204600 +0000">
+    <title>Day 13</title>
+    <desc>A young man investigates a mysterious neighborhood house that holds dark secrets.</desc>
   </programme>
   <programme channel="externallinearfeed-07-01-2020-07-01-2020" start="20231006192000 +0000" stop="20231006194500 +0000">
     <title>Ronin Warriors</title>
@@ -2086,17 +2067,13 @@
     <title>Digimon Adventure tri: Reunion</title>
     <desc>After years of inactivity, the DigiDestined regroup with their Digimon to save their world. The years might have changed their characters too much.</desc>
   </programme>
-  <programme channel="externallinearfeed-03-13-2020-03-13-2020" start="20231006160000 +0000" stop="20231006171500 +0000">
-    <title>It's Not Only Football: Friday Night Lights and Beyond</title>
-    <desc>Scott Porter, Zach Gilford &amp; Mae Whitman's summer vacation cruise continues! This episode is all about the zoo, Taylor Swift, &amp; Women's World Cup! From singing with Phil Collins, going to the biggest concert of the year, "Am I the A******?" spoiler situations, their scariest &amp; most embarrassing moments, "Life Lessons with Gilly", being chased by bears, truck cakes, pooping your pants, to Scott's arms... the summer vacation cruise is headed back out to sea. ALL ABOARD!</desc>
+  <programme channel="externallinearfeed-07-01-2020-07-01-2020" start="20231007173000 +0000" stop="20231007190500 +0000">
+    <title>Digimon Adventure tri.: Determination</title>
+    <desc>When another infected Digimon appears and begins to wreak havoc on Odaiba, Mimi and Palmon spring into action. But in their haste to show the world that there are good Digimon, their battle brings about unforeseen consequences.</desc>
   </programme>
-  <programme channel="externallinearfeed-03-13-2020-03-13-2020" start="20231006171500 +0000" stop="20231006181500 +0000">
-    <title>It's Not Only Football: Friday Night Lights and Beyond</title>
-    <desc>Captain Zach Gilford, First Mate Mae Whitman, &amp; Safety Director Scott Porter continue their voyage on the INOF Summer Cruise! This week was all about hummingbirds, gettin' it done, and endings &amp; beginnings! The group plays "Two Truths &amp; a Lie" - filled with stories of hummingbird spas, John Mayer, being held at gunpoint, skydiving, Quentin Tarantino, hit-and-runs, whislin' willy's, geese photography, Prince, beatboxing, Justin Timberlake, Dave Matthews Band, singing the National Anthem, and more!</desc>
-  </programme>
-  <programme channel="externallinearfeed-03-13-2020-03-13-2020" start="20231006181500 +0000" stop="20231006191500 +0000">
-    <title>It's Not Only Football: Friday Night Lights and Beyond</title>
-    <desc>Captain Zach Gilford, First Mate Mae Whitman, &amp; Safety Director Scott Porter are headed out to sea on the INOF Summer Cruise! This week was all about food, reclaiming time as parents, &amp; Zach's son's birthday! Capt. Zach's activities include trashy reality tv, pizza, proper ribs, fuzzy teeth sweaters, shout outs, Uncle Ed, morning routines, all the milks, meditation dishes, #homiesforlife, glass masters, recording audiobooks, and YOUR questions!</desc>
+  <programme channel="externallinearfeed-07-01-2020-07-01-2020" start="20231007190500 +0000" stop="20231007210000 +0000">
+    <title>Digimon Adventure Tri. 3: Confession</title>
+    <desc>Agumon and the other Digimon are kept in Koushiro's office to protect them from infection, but Patamon soon shows signs of infection.</desc>
   </programme>
   <programme channel="externallinearfeed-03-13-2020-03-13-2020" start="20231006191500 +0000" stop="20231006201500 +0000">
     <title>It's Not Only Football: Friday Night Lights and Beyond</title>
@@ -2218,13 +2195,13 @@
     <title>It's Not Only Football: Friday Night Lights and Beyond</title>
     <desc>YOU are the cruise director! We're answering your questions from the comments section; from fantasy football, baby animal internet searches, Mercury (in regular grade), bands you've seen 50 times, travel horror stories, (acid)trips, West African jokes, ghost stories, duck jokes, and more!</desc>
   </programme>
-  <programme channel="externallinearfeed-02-04-2020-02-04-2020" start="20231006160014 +0000" stop="20231006171514 +0000">
-    <title>BIFL</title>
-    <desc>Expectations, different shades of intimacy, &amp;amp;amp;amp; what it really means to love someone.</desc>
+  <programme channel="externallinearfeed-03-13-2020-03-13-2020" start="20231007164500 +0000" stop="20231007180000 +0000">
+    <title>It's Not Only Football: Friday Night Lights and Beyond</title>
+    <desc>Captain Zach Gilford, First Mate Mae Whitman, &amp; Anchor Watcher Scott Porter are headed back out to sea... for their final voyage(for now). It's all about back to school, educators, encounters with fans, jobs prior to acting, Panera harmony, toxic work environments, the best and worst cities, bringing family to sets, craft services, fluffernutters, and more!</desc>
   </programme>
-  <programme channel="externallinearfeed-02-04-2020-02-04-2020" start="20231006171514 +0000" stop="20231006173014 +0000">
-    <title>Candis for President</title>
-    <desc>Transgender actress, Candis (Candis Cayne), sets out to become the President of the United States.</desc>
+  <programme channel="externallinearfeed-03-13-2020-03-13-2020" start="20231007180000 +0000" stop="20231007194500 +0000">
+    <title>The InEVitable</title>
+    <desc>MotorTrend's Ed Loh &amp; Jonny Lieberman chat with Ford Motor Company's Chief Advanced Product Development &amp; Technology Officer - Doug Field! The guys discuss Software Defined Vehicles (SDVs), how software is redefining the automotive industry, and the roadmap to full autonomy!</desc>
   </programme>
   <programme channel="externallinearfeed-02-04-2020-02-04-2020" start="20231006173014 +0000" stop="20231006194014 +0000">
     <title>Cassanova Was A Woman</title>
@@ -2290,217 +2267,13 @@
     <title>Dating My Mother</title>
     <desc>A single mother and her gay son navigate the dizzying world of online dating.</desc>
   </programme>
-  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231006163000 +0000" stop="20231006184500 +0000">
-    <title>A Match Made at Christmas</title>
-    <desc>Holly and Chris couldn't be more opposite, but when Holly's great-aunt reveals the connection she sees in them, it can't be ignored.</desc>
+  <programme channel="externallinearfeed-02-04-2020-02-04-2020" start="20231007164014 +0000" stop="20231007182014 +0000">
+    <title>Gay Mean Girls</title>
+    <desc>Lucy Ching seeks to establish Gay Prom Royalty to impress her best friend Miranda.</desc>
   </programme>
-  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231006184500 +0000" stop="20231006210000 +0000">
-    <title>I'm In Love With A Church Girl</title>
-    <desc>Miles Montego has it all but more importantly, he has a past. Miles is a retired high level drug trafficker who is now completely legitimate.</desc>
-  </programme>
-  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231006210000 +0000" stop="20231006213000 +0000">
-    <title>The Beverly Hillbillies</title>
-    <desc>Granny thinks a man from the IRS is a revenuer and chases him off with her gun.</desc>
-  </programme>
-  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231006213000 +0000" stop="20231006220000 +0000">
-    <title>The Beverly Hillbillies</title>
-    <desc>Leo Durocher wants to sign Jethro as a pitcher on the Dodgers.</desc>
-  </programme>
-  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231006220000 +0000" stop="20231006223000 +0000">
-    <title>The Beverly Hillbillies</title>
-    <desc>Jed falls for a beautiful Beverly Hills matron.</desc>
-  </programme>
-  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231006223000 +0000" stop="20231006230000 +0000">
-    <title>The Beverly Hillbillies</title>
-    <desc>Drysdale comes up for a raise when he lands the Clampett account.</desc>
-  </programme>
-  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231006230000 +0000" stop="20231006233000 +0000">
-    <title>Dragnet</title>
-    <desc>A suicide note but no body.</desc>
-  </programme>
-  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231006233000 +0000" stop="20231007000000 +0000">
-    <title>Dragnet</title>
-    <desc>A man is found dead in a gutter.</desc>
-  </programme>
-  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007000000 +0000" stop="20231007010000 +0000">
-    <title>Bad Man of Deadwood</title>
-    <desc>Roy and Gabby have to establish fair business practices in the town of Deadwood, dominated by entrepreneurs who scare off potential competitors.</desc>
-  </programme>
-  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007010000 +0000" stop="20231007020000 +0000">
-    <title>John Wayne in Cold Vengeance IN COLOR</title>
-    <desc>Just as John travels to visit his father, he witnesses his death and suffers a gun wound.</desc>
-  </programme>
-  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007020000 +0000" stop="20231007030100 +0000">
-    <title>John Wayne in Guns Along The Trail IN COLOR</title>
-    <desc>An undercover agent for the government is sent to round up a gang of counterfeiters operating near the Mexican border.</desc>
-  </programme>
-  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007030100 +0000" stop="20231007033100 +0000">
-    <title>Adventures of Annie Oakley</title>
-    <desc>An aging lawman needs Annie's help.</desc>
-  </programme>
-  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007033100 +0000" stop="20231007040100 +0000">
-    <title>Adventures of Annie Oakley</title>
-    <desc>Annie and Tagg are robbed at the circus.</desc>
-  </programme>
-  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007040100 +0000" stop="20231007043000 +0000">
-    <title>Adventures of Annie Oakley</title>
-    <desc>An ex-con wants to be the woman he loves.</desc>
-  </programme>
-  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007043000 +0000" stop="20231007050000 +0000">
-    <title>Adventures of Annie Oakley</title>
-    <desc>Annie has to protect a man from an angry mob.</desc>
-  </programme>
-  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007050000 +0000" stop="20231007053000 +0000">
-    <title>Petticoat Junction</title>
-    <desc>Bobbie Jo falls for an edgy young  poet.</desc>
-  </programme>
-  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007053000 +0000" stop="20231007060000 +0000">
-    <title>Petticoat Junction</title>
-    <desc>Billie Jo  wants to become an actress.</desc>
-  </programme>
-  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007060000 +0000" stop="20231007063000 +0000">
-    <title>Petticoat Junction</title>
-    <desc>Kate meets with Judge Drucker to see if she can legally prevent Billie Jo from going to Hollywood.</desc>
-  </programme>
-  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007063000 +0000" stop="20231007065900 +0000">
-    <title>Petticoat Junction</title>
-    <desc>A famous movie star stays at the Shady Rest Hotel.</desc>
-  </programme>
-  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007065900 +0000" stop="20231007080000 +0000">
-    <title>Bonanza</title>
-    <desc>Joe befriends a deaf girl.</desc>
-  </programme>
-  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007080000 +0000" stop="20231007085900 +0000">
-    <title>Bonanza</title>
-    <desc>Ben kills a man in self defense.</desc>
-  </programme>
-  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007085900 +0000" stop="20231007093000 +0000">
-    <title>The Lucy Show - Collection 1</title>
-    <desc>Lucy convinces a truck driver to enter a Robert Goulet look-alike contest to earn some money.</desc>
-  </programme>
-  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007093000 +0000" stop="20231007100000 +0000">
-    <title>The Lucy Show - Collection 1</title>
-    <desc>Lucy and Viv decide to trick Harry &amp; Eddie into building a shower in the boys' room.</desc>
-  </programme>
-  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007100000 +0000" stop="20231007103000 +0000">
-    <title>The Lucy Show - Collection 1</title>
-    <desc>Lucy tries to join Viv's Quartet and hires a singing tutor to teach her how to sing.</desc>
-  </programme>
-  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007103000 +0000" stop="20231007110000 +0000">
-    <title>The Lucy Show - Collection 1</title>
-    <desc>George Burns makes Lucy a part of his new nightclub act.</desc>
-  </programme>
-  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007110000 +0000" stop="20231007115500 +0000">
-    <title>Paper Dream</title>
-    <desc>A determined woman goes to great lengths to achieve her childhood dream of becoming a mother.</desc>
-  </programme>
-  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007115500 +0000" stop="20231007140000 +0000">
-    <title>The Ultimate Life</title>
-    <desc>A billionaire with questionable priorities re-examines his life after discovering his grandfather's journal.</desc>
-  </programme>
-  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007140000 +0000" stop="20231007145900 +0000">
-    <title>Sue Thomas: F.B.Eye</title>
-    <desc>Sue is offered an exciting new high-profile job at the FBI  but is torn when she realizes it means leaving her FBI teammates and friends.</desc>
-  </programme>
-  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007145900 +0000" stop="20231007160000 +0000">
-    <title>Sue Thomas: F.B.Eye</title>
-    <desc>Sue's first FBI assignment thrusts her into the high stakes, high-pressure world of investigating an anonymous bomb threat at an oil refinery.</desc>
-  </programme>
-  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007160000 +0000" stop="20231007170000 +0000">
-    <title>Sue Thomas: F.B.Eye</title>
-    <desc>Sue is swept into the maelstrom of a dangerous assignment when the FBI has to protect a visiting dignitary who has been targeted for assassination by.</desc>
-  </programme>
-  <programme channel="externallinearfeed-07-20-2021-07-20-2021" start="20231006160000 +0000" stop="20231006180000 +0000">
-    <title>TCN Lunch Break</title>
-    <desc>Packing up a nice collection of videos fresh for viewers each day.</desc>
-  </programme>
-  <programme channel="externallinearfeed-07-20-2021-07-20-2021" start="20231006180000 +0000" stop="20231006220000 +0000">
-    <title>Video Jukebox</title>
-    <desc>Music videos play continuously for viewers' enjoyment, without the need to put money into a jukebox.</desc>
-  </programme>
-  <programme channel="externallinearfeed-07-20-2021-07-20-2021" start="20231006220000 +0000" stop="20231006230000 +0000">
-    <title>Prime Cuts</title>
-    <desc>Music videos seasoned to perfection.</desc>
-  </programme>
-  <programme channel="externallinearfeed-07-20-2021-07-20-2021" start="20231006230000 +0000" stop="20231007000000 +0000">
-    <title>Video Jukebox</title>
-    <desc>Music videos play continuously for viewers' enjoyment, without the need to put money into a jukebox.</desc>
-  </programme>
-  <programme channel="externallinearfeed-07-20-2021-07-20-2021" start="20231007000000 +0000" stop="20231007020000 +0000">
-    <title>TCN Top 20 Countdown</title>
-    <desc>Counting down the hottest videos in country music.</desc>
-  </programme>
-  <programme channel="externallinearfeed-07-20-2021-07-20-2021" start="20231007020000 +0000" stop="20231007023000 +0000">
-    <title>Nashville Insider</title>
-    <desc>The fast-paced entertainment news series gives viewers a sneak peek at all things country music by going behind the scenes to provide access to fans' favorite artists and country music's hottest events.</desc>
-  </programme>
-  <programme channel="externallinearfeed-07-20-2021-07-20-2021" start="20231007023000 +0000" stop="20231007030000 +0000">
-    <title>Video Jukebox</title>
-    <desc>Music videos play continuously for viewers' enjoyment, without the need to put money into a jukebox.</desc>
-  </programme>
-  <programme channel="externallinearfeed-07-20-2021-07-20-2021" start="20231007030000 +0000" stop="20231007060000 +0000">
-    <title>TCN Latenights</title>
-    <desc>A block of favorite country music videos to help burn the midnight oil.</desc>
-  </programme>
-  <programme channel="externallinearfeed-07-20-2021-07-20-2021" start="20231007060000 +0000" stop="20231007100000 +0000">
-    <title>TCN Early Bird Special</title>
-    <desc>Starting the day off right with this block of favorite country music videos.</desc>
-  </programme>
-  <programme channel="externallinearfeed-07-20-2021-07-20-2021" start="20231007100000 +0000" stop="20231007110000 +0000">
-    <title>Video Jukebox</title>
-    <desc>Music videos play continuously for viewers' enjoyment, without the need to put money into a jukebox.</desc>
-  </programme>
-  <programme channel="externallinearfeed-07-20-2021-07-20-2021" start="20231007110000 +0000" stop="20231007113000 +0000">
-    <title>Animal Rescue</title>
-    <desc>Just about everybody likes animals and doesn't like to see animals who are sick, injured or abused. So "Animal Rescue," a weekly series -- aimed at children and families -- that showcases spectacular rescues of animals, should be very popular. Because people don't like to see an animal's situation get so bad that it requires rescue, the program tries to avoid those situations by instructing children on the proper care of animals, as well as giving safety tips on caring for all types of creatures.</desc>
-  </programme>
-  <programme channel="externallinearfeed-07-20-2021-07-20-2021" start="20231007113000 +0000" stop="20231007120000 +0000">
-    <title>America's Heartland</title>
-    <desc>Much of the food Americans eat is produced by farmers and ranchers in the country's heartland, but many people don't know how it's produced. "America's Heartland" provides information about the people and processes responsible for the availability of food and fuel across the country and around the world. The show's reporters and producers tell stories in topics that include farm families, consumer issues, animal welfare and crop sustainability. Some episodes also take the show abroad to countries such as Egypt and Taiwan to show the impact American agriculture has on the global economy.</desc>
-  </programme>
-  <programme channel="externallinearfeed-07-20-2021-07-20-2021" start="20231007120000 +0000" stop="20231007123000 +0000">
-    <title>Dog Tales</title>
-    <desc>Dogs are said to be man's best friend so is it a surprise that there's a weekly show dedicated to dogs and the people who love them? That's what "Dog Tales" is all about. The show, aimed at teenagers, features information on dogs of all shapes, sizes and breeds while also informing young people on how to properly care for pets. It also provides safety, health and training tips that are useful for different breeds of dogs as well as emphasizing responsible pet ownership and compassion for all living creatures.</desc>
-  </programme>
-  <programme channel="externallinearfeed-07-20-2021-07-20-2021" start="20231007123000 +0000" stop="20231007130000 +0000">
-    <title>Animal Rescue</title>
-    <desc>Just about everybody likes animals and doesn't like to see animals who are sick, injured or abused. So "Animal Rescue," a weekly series -- aimed at children and families -- that showcases spectacular rescues of animals, should be very popular. Because people don't like to see an animal's situation get so bad that it requires rescue, the program tries to avoid those situations by instructing children on the proper care of animals, as well as giving safety tips on caring for all types of creatures.</desc>
-  </programme>
-  <programme channel="externallinearfeed-07-20-2021-07-20-2021" start="20231007130000 +0000" stop="20231007133000 +0000">
-    <title>America's Heartland</title>
-    <desc>Much of the food Americans eat is produced by farmers and ranchers in the country's heartland, but many people don't know how it's produced. "America's Heartland" provides information about the people and processes responsible for the availability of food and fuel across the country and around the world. The show's reporters and producers tell stories in topics that include farm families, consumer issues, animal welfare and crop sustainability. Some episodes also take the show abroad to countries such as Egypt and Taiwan to show the impact American agriculture has on the global economy.</desc>
-  </programme>
-  <programme channel="externallinearfeed-07-20-2021-07-20-2021" start="20231007133000 +0000" stop="20231007140000 +0000">
-    <title>Dog Tales</title>
-    <desc>Dogs are said to be man's best friend so is it a surprise that there's a weekly show dedicated to dogs and the people who love them? That's what "Dog Tales" is all about. The show, aimed at teenagers, features information on dogs of all shapes, sizes and breeds while also informing young people on how to properly care for pets. It also provides safety, health and training tips that are useful for different breeds of dogs as well as emphasizing responsible pet ownership and compassion for all living creatures.</desc>
-  </programme>
-  <programme channel="externallinearfeed-07-20-2021-07-20-2021" start="20231007140000 +0000" stop="20231007180000 +0000">
-    <title>Video Jukebox</title>
-    <desc>Music videos play continuously for viewers' enjoyment, without the need to put money into a jukebox.</desc>
-  </programme>
-  <programme channel="horse-shopping-channel-01-05-2021-232155211" start="20231006163000 +0000" stop="20231006170000 +0000">
-    <title>Ep 3 | Lone Star Auction Horses</title>
-    <desc>A Sorrel Mare and many more top quality horses are auctioned off from Bowie Livestock Sale Barn in Bowie, Texas.</desc>
-  </programme>
-  <programme channel="horse-shopping-channel-01-05-2021-232155211" start="20231006170000 +0000" stop="20231006173000 +0000">
-    <title>STIRR Presents: The Lone Ranger</title>
-    <desc>The Lone Ranger and Tonto are ambushed.</desc>
-  </programme>
-  <programme channel="horse-shopping-channel-01-05-2021-232155211" start="20231006173000 +0000" stop="20231006180000 +0000">
-    <title>STIRR Presents: Annie Oakley</title>
-    <desc>The townspeople are in an uproar when John Boone continues his deceased father's search for treasure.</desc>
-  </programme>
-  <programme channel="horse-shopping-channel-01-05-2021-232155211" start="20231006180000 +0000" stop="20231006183000 +0000">
-    <title>STIRR Presents: The Lone Ranger</title>
-    <desc>The Lone Ranger and Tonto set out after the Cavendish gang.</desc>
-  </programme>
-  <programme channel="horse-shopping-channel-01-05-2021-232155211" start="20231006183000 +0000" stop="20231006190000 +0000">
-    <title>STIRR Presents: Annie Oakley</title>
-    <desc>Annie, Lofty and Tagg attend a friend's wedding and investigate the best man's murder.</desc>
-  </programme>
-  <programme channel="horse-shopping-channel-01-05-2021-232155211" start="20231006190000 +0000" stop="20231006193000 +0000">
-    <title>STIRR Presents: The Lone Ranger</title>
-    <desc>The Lone Ranger helps a young Easterner who inherited a ranch and a crooked foreman.</desc>
+  <programme channel="externallinearfeed-02-04-2020-02-04-2020" start="20231007182014 +0000" stop="20231007200014 +0000">
+    <title>Women and Sometimes Men</title>
+    <desc>Sara goes on a journey filled with laughter, tears, women and sometimes men.</desc>
   </programme>
   <programme channel="horse-shopping-channel-01-05-2021-232155211" start="20231006193000 +0000" stop="20231006200000 +0000">
     <title>STIRR Presents: Annie Oakley</title>
@@ -2646,117 +2419,229 @@
     <title>Ep 3 | Lone Star Auction Horses</title>
     <desc>A Sorrel Mare and many more top quality horses are auctioned off from Bowie Livestock Sale Barn in Bowie, Texas.</desc>
   </programme>
-  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231006155900 +0000" stop="20231006165900 +0000">
-    <title>Calming Mountain Waterfall</title>
-    <desc>Enjoy a fixed-angle 1 hour long nature scene of the beautiful Tangle Falls in Jasper National Park, paired with real stereo nature sounds shot on location. Although it's a static video, there are a lot of dynamic elements.</desc>
+  <programme channel="horse-shopping-channel-01-05-2021-232155211" start="20231007163000 +0000" stop="20231007170000 +0000">
+    <title>Ep 3 | Lone Star Auction Horses</title>
+    <desc>A Sorrel Mare and many more top quality horses are auctioned off from Bowie Livestock Sale Barn in Bowie, Texas.</desc>
   </programme>
-  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231006165900 +0000" stop="20231006175900 +0000">
-    <title>Haast Falls: New Zealand</title>
-    <desc>Haast Pass, the peak home to these roaring falls of melted glacial waters. Mysteriously misty forests, gorgeous nature trails, and local wildlife.</desc>
+  <programme channel="horse-shopping-channel-01-05-2021-232155211" start="20231007170000 +0000" stop="20231007173000 +0000">
+    <title>STIRR Presents: The Lone Ranger</title>
+    <desc>The masked man sets out to rescue a kidnapped rancher.</desc>
   </programme>
-  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231006175900 +0000" stop="20231006185900 +0000">
-    <title>Dolphin Voyage Relaxation</title>
-    <desc>Underwater cinematography, a synergistic blend of audio including underwater nature sounds, and calming ambient music combine to induce relaxtion in the deep blue calming ocean with a pod of friendly dolphins.</desc>
+  <programme channel="horse-shopping-channel-01-05-2021-232155211" start="20231007173000 +0000" stop="20231007180000 +0000">
+    <title>STIRR Presents: Annie Oakley</title>
+    <desc>Annie cuts the tail and mane of Lofty's prize stallion to complete her disguise as a young Navajo girl.</desc>
   </programme>
-  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231006185900 +0000" stop="20231006195900 +0000">
-    <title>Relaxing Orchid Garden</title>
-    <desc>Delicate flowers swaying in the gentle breeze.</desc>
+  <programme channel="horse-shopping-channel-01-05-2021-232155211" start="20231007180000 +0000" stop="20231007183000 +0000">
+    <title>STIRR Presents: The Lone Ranger</title>
+    <desc>The Lone Ranger aids a rancher who is sensitive about his height.</desc>
   </programme>
-  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231006195900 +0000" stop="20231006205900 +0000">
-    <title>Golden Waves Crashing at Sunset</title>
-    <desc>The shores of the iconic Baker Beach in San Francisco with a sunset scene filmed in high definition. Views of the Marin headlands and the Golden Gate bridge.</desc>
+  <programme channel="horse-shopping-channel-01-05-2021-232155211" start="20231007183000 +0000" stop="20231007190000 +0000">
+    <title>STIRR Presents: Annie Oakley</title>
+    <desc>Annie recovers a diamond belt for a champion boxer who expresses his gratitude by fighting a match for charity.</desc>
   </programme>
-  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231006205900 +0000" stop="20231006215900 +0000">
-    <title>Falls Colors: Colorado</title>
+  <programme channel="horse-shopping-channel-01-05-2021-232155211" start="20231007190000 +0000" stop="20231007193000 +0000">
+    <title>STIRR Presents: The Lone Ranger</title>
+    <desc>The Lone Ranger tries to unmask a killer who has assumed the identity of one of his victims.</desc>
+  </programme>
+  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231006184500 +0000" stop="20231006210000 +0000">
+    <title>I'm In Love With A Church Girl</title>
+    <desc>Miles Montego has it all but more importantly, he has a past. Miles is a retired high level drug trafficker who is now completely legitimate.</desc>
+  </programme>
+  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231006210000 +0000" stop="20231006213000 +0000">
+    <title>The Beverly Hillbillies</title>
+    <desc>Granny thinks a man from the IRS is a revenuer and chases him off with her gun.</desc>
+  </programme>
+  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231006213000 +0000" stop="20231006220000 +0000">
+    <title>The Beverly Hillbillies</title>
+    <desc>Leo Durocher wants to sign Jethro as a pitcher on the Dodgers.</desc>
+  </programme>
+  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231006220000 +0000" stop="20231006223000 +0000">
+    <title>The Beverly Hillbillies</title>
+    <desc>Jed falls for a beautiful Beverly Hills matron.</desc>
+  </programme>
+  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231006223000 +0000" stop="20231006230000 +0000">
+    <title>The Beverly Hillbillies</title>
+    <desc>Drysdale comes up for a raise when he lands the Clampett account.</desc>
+  </programme>
+  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231006230000 +0000" stop="20231006233000 +0000">
+    <title>Dragnet</title>
+    <desc>A suicide note but no body.</desc>
+  </programme>
+  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231006233000 +0000" stop="20231007000000 +0000">
+    <title>Dragnet</title>
+    <desc>A man is found dead in a gutter.</desc>
+  </programme>
+  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007000000 +0000" stop="20231007010000 +0000">
+    <title>Bad Man of Deadwood</title>
+    <desc>Roy and Gabby have to establish fair business practices in the town of Deadwood, dominated by entrepreneurs who scare off potential competitors.</desc>
+  </programme>
+  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007010000 +0000" stop="20231007020000 +0000">
+    <title>John Wayne in Cold Vengeance IN COLOR</title>
+    <desc>Just as John travels to visit his father, he witnesses his death and suffers a gun wound.</desc>
+  </programme>
+  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007020000 +0000" stop="20231007030100 +0000">
+    <title>John Wayne in Guns Along The Trail IN COLOR</title>
+    <desc>An undercover agent for the government is sent to round up a gang of counterfeiters operating near the Mexican border.</desc>
+  </programme>
+  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007030100 +0000" stop="20231007033100 +0000">
+    <title>Adventures of Annie Oakley</title>
+    <desc>An aging lawman needs Annie's help.</desc>
+  </programme>
+  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007033100 +0000" stop="20231007040100 +0000">
+    <title>Adventures of Annie Oakley</title>
+    <desc>Annie and Tagg are robbed at the circus.</desc>
+  </programme>
+  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007040100 +0000" stop="20231007043000 +0000">
+    <title>Adventures of Annie Oakley</title>
+    <desc>An ex-con wants to be the woman he loves.</desc>
+  </programme>
+  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007043000 +0000" stop="20231007050000 +0000">
+    <title>Adventures of Annie Oakley</title>
+    <desc>Annie has to protect a man from an angry mob.</desc>
+  </programme>
+  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007050000 +0000" stop="20231007053000 +0000">
+    <title>Petticoat Junction</title>
+    <desc>Bobbie Jo falls for an edgy young  poet.</desc>
+  </programme>
+  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007053000 +0000" stop="20231007060000 +0000">
+    <title>Petticoat Junction</title>
+    <desc>Billie Jo  wants to become an actress.</desc>
+  </programme>
+  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007060000 +0000" stop="20231007063000 +0000">
+    <title>Petticoat Junction</title>
+    <desc>Kate meets with Judge Drucker to see if she can legally prevent Billie Jo from going to Hollywood.</desc>
+  </programme>
+  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007063000 +0000" stop="20231007065900 +0000">
+    <title>Petticoat Junction</title>
+    <desc>A famous movie star stays at the Shady Rest Hotel.</desc>
+  </programme>
+  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007065900 +0000" stop="20231007080000 +0000">
+    <title>Bonanza</title>
+    <desc>Joe befriends a deaf girl.</desc>
+  </programme>
+  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007080000 +0000" stop="20231007085900 +0000">
+    <title>Bonanza</title>
+    <desc>Ben kills a man in self defense.</desc>
+  </programme>
+  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007085900 +0000" stop="20231007093000 +0000">
+    <title>The Lucy Show - Collection 1</title>
+    <desc>Lucy convinces a truck driver to enter a Robert Goulet look-alike contest to earn some money.</desc>
+  </programme>
+  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007093000 +0000" stop="20231007100000 +0000">
+    <title>The Lucy Show - Collection 1</title>
+    <desc>Lucy and Viv decide to trick Harry &amp; Eddie into building a shower in the boys' room.</desc>
+  </programme>
+  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007100000 +0000" stop="20231007103000 +0000">
+    <title>The Lucy Show - Collection 1</title>
+    <desc>Lucy tries to join Viv's Quartet and hires a singing tutor to teach her how to sing.</desc>
+  </programme>
+  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007103000 +0000" stop="20231007110000 +0000">
+    <title>The Lucy Show - Collection 1</title>
+    <desc>George Burns makes Lucy a part of his new nightclub act.</desc>
+  </programme>
+  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007110000 +0000" stop="20231007115500 +0000">
+    <title>Paper Dream</title>
+    <desc>A determined woman goes to great lengths to achieve her childhood dream of becoming a mother.</desc>
+  </programme>
+  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007115500 +0000" stop="20231007140000 +0000">
+    <title>The Ultimate Life</title>
+    <desc>A billionaire with questionable priorities re-examines his life after discovering his grandfather's journal.</desc>
+  </programme>
+  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007140000 +0000" stop="20231007145900 +0000">
+    <title>Sue Thomas: F.B.Eye</title>
+    <desc>Sue is offered an exciting new high-profile job at the FBI  but is torn when she realizes it means leaving her FBI teammates and friends.</desc>
+  </programme>
+  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007145900 +0000" stop="20231007160000 +0000">
+    <title>Sue Thomas: F.B.Eye</title>
+    <desc>Sue's first FBI assignment thrusts her into the high stakes, high-pressure world of investigating an anonymous bomb threat at an oil refinery.</desc>
+  </programme>
+  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007160000 +0000" stop="20231007170000 +0000">
+    <title>Sue Thomas: F.B.Eye</title>
+    <desc>Sue is swept into the maelstrom of a dangerous assignment when the FBI has to protect a visiting dignitary who has been targeted for assassination by.</desc>
+  </programme>
+  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007170000 +0000" stop="20231007185000 +0000">
+    <title>The Man Who Saved Christmas</title>
+    <desc>A.C. Gilbert figures out a way to keep Christmas alive after the war threatens to take it away. Based on the incredible true story.</desc>
+  </programme>
+  <programme channel="externallinearfeed-01-28-2021-184530260-01-28-2021" start="20231007185000 +0000" stop="20231007210500 +0000">
+    <title>Mister Scrooge to See You</title>
+    <desc>One year after the classic Dickens' A Christmas Carol Ebenezer Scrooge finds himself on a new journey.</desc>
+  </programme>
+  <programme channel="externallinearfeed-07-20-2021-07-20-2021" start="20231006180000 +0000" stop="20231006220000 +0000">
+    <title>Video Jukebox</title>
+    <desc>Music videos play continuously for viewers' enjoyment, without the need to put money into a jukebox.</desc>
+  </programme>
+  <programme channel="externallinearfeed-07-20-2021-07-20-2021" start="20231006220000 +0000" stop="20231006230000 +0000">
+    <title>Prime Cuts</title>
+    <desc>Music videos seasoned to perfection.</desc>
+  </programme>
+  <programme channel="externallinearfeed-07-20-2021-07-20-2021" start="20231006230000 +0000" stop="20231007000000 +0000">
+    <title>Video Jukebox</title>
+    <desc>Music videos play continuously for viewers' enjoyment, without the need to put money into a jukebox.</desc>
+  </programme>
+  <programme channel="externallinearfeed-07-20-2021-07-20-2021" start="20231007000000 +0000" stop="20231007020000 +0000">
+    <title>TCN Top 20 Countdown</title>
+    <desc>Counting down the hottest videos in country music.</desc>
+  </programme>
+  <programme channel="externallinearfeed-07-20-2021-07-20-2021" start="20231007020000 +0000" stop="20231007023000 +0000">
+    <title>Nashville Insider</title>
+    <desc>The fast-paced entertainment news series gives viewers a sneak peek at all things country music by going behind the scenes to provide access to fans' favorite artists and country music's hottest events.</desc>
+  </programme>
+  <programme channel="externallinearfeed-07-20-2021-07-20-2021" start="20231007023000 +0000" stop="20231007030000 +0000">
+    <title>Video Jukebox</title>
+    <desc>Music videos play continuously for viewers' enjoyment, without the need to put money into a jukebox.</desc>
+  </programme>
+  <programme channel="externallinearfeed-07-20-2021-07-20-2021" start="20231007030000 +0000" stop="20231007060000 +0000">
+    <title>TCN Latenights</title>
+    <desc>A block of favorite country music videos to help burn the midnight oil.</desc>
+  </programme>
+  <programme channel="externallinearfeed-07-20-2021-07-20-2021" start="20231007060000 +0000" stop="20231007100000 +0000">
+    <title>TCN Early Bird Special</title>
+    <desc>Starting the day off right with this block of favorite country music videos.</desc>
+  </programme>
+  <programme channel="externallinearfeed-07-20-2021-07-20-2021" start="20231007100000 +0000" stop="20231007110000 +0000">
+    <title>Video Jukebox</title>
+    <desc>Music videos play continuously for viewers' enjoyment, without the need to put money into a jukebox.</desc>
+  </programme>
+  <programme channel="externallinearfeed-07-20-2021-07-20-2021" start="20231007110000 +0000" stop="20231007113000 +0000">
+    <title>Animal Rescue</title>
+    <desc>Just about everybody likes animals and doesn't like to see animals who are sick, injured or abused. So "Animal Rescue," a weekly series -- aimed at children and families -- that showcases spectacular rescues of animals, should be very popular. Because people don't like to see an animal's situation get so bad that it requires rescue, the program tries to avoid those situations by instructing children on the proper care of animals, as well as giving safety tips on caring for all types of creatures.</desc>
+  </programme>
+  <programme channel="externallinearfeed-07-20-2021-07-20-2021" start="20231007113000 +0000" stop="20231007120000 +0000">
+    <title>America's Heartland</title>
+    <desc>Much of the food Americans eat is produced by farmers and ranchers in the country's heartland, but many people don't know how it's produced. "America's Heartland" provides information about the people and processes responsible for the availability of food and fuel across the country and around the world. The show's reporters and producers tell stories in topics that include farm families, consumer issues, animal welfare and crop sustainability. Some episodes also take the show abroad to countries such as Egypt and Taiwan to show the impact American agriculture has on the global economy.</desc>
+  </programme>
+  <programme channel="externallinearfeed-07-20-2021-07-20-2021" start="20231007120000 +0000" stop="20231007123000 +0000">
+    <title>Dog Tales</title>
+    <desc>Dogs are said to be man's best friend so is it a surprise that there's a weekly show dedicated to dogs and the people who love them? That's what "Dog Tales" is all about. The show, aimed at teenagers, features information on dogs of all shapes, sizes and breeds while also informing young people on how to properly care for pets. It also provides safety, health and training tips that are useful for different breeds of dogs as well as emphasizing responsible pet ownership and compassion for all living creatures.</desc>
+  </programme>
+  <programme channel="externallinearfeed-07-20-2021-07-20-2021" start="20231007123000 +0000" stop="20231007130000 +0000">
+    <title>Animal Rescue</title>
+    <desc>Just about everybody likes animals and doesn't like to see animals who are sick, injured or abused. So "Animal Rescue," a weekly series -- aimed at children and families -- that showcases spectacular rescues of animals, should be very popular. Because people don't like to see an animal's situation get so bad that it requires rescue, the program tries to avoid those situations by instructing children on the proper care of animals, as well as giving safety tips on caring for all types of creatures.</desc>
+  </programme>
+  <programme channel="externallinearfeed-07-20-2021-07-20-2021" start="20231007130000 +0000" stop="20231007133000 +0000">
+    <title>America's Heartland</title>
+    <desc>Much of the food Americans eat is produced by farmers and ranchers in the country's heartland, but many people don't know how it's produced. "America's Heartland" provides information about the people and processes responsible for the availability of food and fuel across the country and around the world. The show's reporters and producers tell stories in topics that include farm families, consumer issues, animal welfare and crop sustainability. Some episodes also take the show abroad to countries such as Egypt and Taiwan to show the impact American agriculture has on the global economy.</desc>
+  </programme>
+  <programme channel="externallinearfeed-07-20-2021-07-20-2021" start="20231007133000 +0000" stop="20231007140000 +0000">
+    <title>Dog Tales</title>
+    <desc>Dogs are said to be man's best friend so is it a surprise that there's a weekly show dedicated to dogs and the people who love them? That's what "Dog Tales" is all about. The show, aimed at teenagers, features information on dogs of all shapes, sizes and breeds while also informing young people on how to properly care for pets. It also provides safety, health and training tips that are useful for different breeds of dogs as well as emphasizing responsible pet ownership and compassion for all living creatures.</desc>
+  </programme>
+  <programme channel="externallinearfeed-07-20-2021-07-20-2021" start="20231007140000 +0000" stop="20231007180000 +0000">
+    <title>Video Jukebox</title>
+    <desc>Music videos play continuously for viewers' enjoyment, without the need to put money into a jukebox.</desc>
+  </programme>
+  <programme channel="externallinearfeed-07-20-2021-07-20-2021" start="20231007180000 +0000" stop="20231007183000 +0000">
+    <title>Wild Bearings Outdoors</title>
     <desc></desc>
   </programme>
-  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231006215900 +0000" stop="20231006230000 +0000">
-    <title>Superbloom Soaring</title>
-    <desc>A gentle flight over the spring poppy fields of California's Antelope Valley and Lake Elsinore wilderness, filmed in 2020 and 2019.</desc>
+  <programme channel="externallinearfeed-07-20-2021-07-20-2021" start="20231007183000 +0000" stop="20231007190000 +0000">
+    <title>Video Jukebox</title>
+    <desc>Music videos play continuously for viewers' enjoyment, without the need to put money into a jukebox.</desc>
   </programme>
-  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231006230000 +0000" stop="20231006235900 +0000">
-    <title>Tutoko River: New Zealand</title>
-    <desc>Rushing waters through rocky rapids.</desc>
-  </programme>
-  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231006235900 +0000" stop="20231007005900 +0000">
-    <title>Fireplace 2, Banff</title>
-    <desc>A fireplace, filmed in Banff, Canada, fills viewers' home with warmth and happiness.</desc>
-  </programme>
-  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231007005900 +0000" stop="20231007015900 +0000">
-    <title>Fireplace 2, Banff</title>
-    <desc>A fireplace, filmed in Banff, Canada, fills viewers' home with warmth and happiness.</desc>
-  </programme>
-  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231007015900 +0000" stop="20231007025900 +0000">
-    <title>Fireplace 2, Banff</title>
-    <desc>A fireplace, filmed in Banff, Canada, fills viewers' home with warmth and happiness.</desc>
-  </programme>
-  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231007025900 +0000" stop="20231007035900 +0000">
-    <title>At Dusk</title>
-    <desc>Viewing the setting sun from Torrey Pines State Reserve in La Jolla, Calif.</desc>
-  </programme>
-  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231007035900 +0000" stop="20231007045900 +0000">
-    <title>Sunny Getaways</title>
-    <desc>Footage of a stretch of sand, surrounded by flora and light navy blue waters.</desc>
-  </programme>
-  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231007045900 +0000" stop="20231007055900 +0000">
-    <title>Sunny Getaways</title>
-    <desc></desc>
-  </programme>
-  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231007055900 +0000" stop="20231007070000 +0000">
-    <title>Glistening Island Beach</title>
-    <desc></desc>
-  </programme>
-  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231007070000 +0000" stop="20231007075700 +0000">
-    <title>Autumn in Amsterdam</title>
-    <desc>A cityscape film captured by collaborating cinematographer and dutch resident Nick DeJonge.</desc>
-  </programme>
-  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231007075700 +0000" stop="20231007085900 +0000">
-    <title>Waimamaku Beach: New Zealand</title>
-    <desc>Exploring the remote, cliff-lined, cavernous coastline of Waimamaku Beach.</desc>
-  </programme>
-  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231007085900 +0000" stop="20231007095900 +0000">
-    <title>Northland Beaches: New Zealand</title>
-    <desc>Traversing the Northland region's pristine beaches that showcase the diverse natural beauty of New Zealand's coastline, and basking in the unspoiled scenery of sandy shores, clear waters, and stunning natural landscapes.</desc>
-  </programme>
-  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231007095900 +0000" stop="20231007110000 +0000">
-    <title>Baylys Beach &amp; Kai iwi Lake: New Zealand</title>
-    <desc>A tour of New Zealand's Baylys Beach and Kai iwi Lakes.</desc>
-  </programme>
-  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231007110000 +0000" stop="20231007115900 +0000">
-    <title>Blue Lagoon Boat</title>
-    <desc>Featuring a static nature scene filmed on a remote island on the northern tip of Mexico's Yucatan Peninsula; puffy clouds, lapsing lagoon waves and the sights and sounds of seagulls.</desc>
-  </programme>
-  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231007115900 +0000" stop="20231007125900 +0000">
-    <title>Nature Relaxation Journey Part 5</title>
-    <desc>Experience the depths &amp; wonders of Nature like never seen before as you soar over more than 15 of the world's most beautiful countries, synced to a soothing ambient music soundtrack for a fully immersive travel + relaxation experience. Part 5 of the Nature Relaxation Journey Series, this 1 fast-moving hour signature Nature RelaxationTM aerial ambient film features hundreds of stunning 4K landscapes from the aerial perspective, ranging from lush rainforests to erupting volcanoes.</desc>
-  </programme>
-  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231007125900 +0000" stop="20231007135900 +0000">
-    <title>A Day in Paradise</title>
-    <desc>Filmed in 2013 by David Huting, the tiny island is hidden off the northeastern coast of the outer Fiji Islands (near Taveuni), and boasts a perfect white sandy beach.</desc>
-  </programme>
-  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231007135900 +0000" stop="20231007145900 +0000">
-    <title>Fly Over Kelingking Beach: Indonesia</title>
-    <desc>A bird's eye view of a scenic beach surrounded by pristine waters and high cliffs.</desc>
-  </programme>
-  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231007145900 +0000" stop="20231007155900 +0000">
-    <title>Coastal Spring Flowers</title>
-    <desc>Nature scenes from California's coast.</desc>
-  </programme>
-  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231007155900 +0000" stop="20231007165900 +0000">
-    <title>At Dusk</title>
-    <desc>Colourful paragliders soar into the California sunset.</desc>
-  </programme>
-  <programme channel="externallinearfeed-02-13-2020-02-13-2020" start="20231006163000 +0000" stop="20231006170000 +0000">
-    <title>Elizabeth Stanton's Great Big World- Life on Horseback</title>
-    <desc>S5:E3-Elizabeth and her friends head out for a real equestrian adventure from the dusty trails of Colorado and the dude ranches of Nevada to the vaulting arena in sunny southern California.</desc>
-  </programme>
-  <programme channel="externallinearfeed-02-13-2020-02-13-2020" start="20231006170000 +0000" stop="20231006190000 +0000">
-    <title>Coyotes</title>
-    <desc>A drifter heads to Baja with his teen daughter for a lucrative construction job that he finds upon arrival doesn't exist. After subjecting his daughter to several life-threatening decisions, he is now forced to make the biggest decision that will forever change their relationship.</desc>
-  </programme>
-  <programme channel="externallinearfeed-02-13-2020-02-13-2020" start="20231006190000 +0000" stop="20231006193000 +0000">
-    <title>Popstar Today</title>
-    <desc>Actors Who've Played Multiple Superheroes, Ryan Reynolds, Superhero Workout Regime, Superhero Costumes Through the Years, Top 5: Ladies Sporting Superhero Capes On The Red Carpet, Actresses Who've Starred In Multiple Comic Book Flicks, Brie Larson, Actresses Who Know How To Kick Butt.</desc>
+  <programme channel="externallinearfeed-07-20-2021-07-20-2021" start="20231007190000 +0000" stop="20231007193000 +0000">
+    <title>Nashville Insider</title>
+    <desc>The fast-paced entertainment news series gives viewers a sneak peek at all things country music by going behind the scenes to provide access to fans' favorite artists and country music's hottest events.</desc>
   </programme>
   <programme channel="externallinearfeed-02-13-2020-02-13-2020" start="20231006193000 +0000" stop="20231006200000 +0000">
     <title>B-Sides with Pete Mar</title>
@@ -2870,13 +2755,117 @@ Castle Rock, the Royal Mile, a popular tourist attraction that is a charming str
     <desc>S3:E3 Naples-
 Mt. Vesuvius beside the Port of Naples, castles on the islet of Megaris, Castel dell 'Ovo, Castel Nuovo, and the star-shaped Castel Saint Elmo. Plus, the Arch of Triumph of Alfonso and the Torre dell'Oro!</desc>
   </programme>
-  <programme channel="externallinearfeed-05-26-2020-05-26-2020" start="20231006160000 +0000" stop="20231006170000 +0000">
-    <title>Today's Top Deals; Muk Luks</title>
+  <programme channel="externallinearfeed-02-13-2020-02-13-2020" start="20231007163000 +0000" stop="20231007170000 +0000">
+    <title>Elizabeth Stanton's Great Big World- Life on Horseback</title>
+    <desc>S5:E3-Elizabeth and her friends head out for a real equestrian adventure from the dusty trails of Colorado and the dude ranches of Nevada to the vaulting arena in sunny southern California.</desc>
+  </programme>
+  <programme channel="externallinearfeed-02-13-2020-02-13-2020" start="20231007170000 +0000" stop="20231007190000 +0000">
+    <title>Coyotes</title>
+    <desc>A drifter heads to Baja with his teen daughter for a lucrative construction job that he finds upon arrival doesn't exist. After subjecting his daughter to several life-threatening decisions, he is now forced to make the biggest decision that will forever change their relationship.</desc>
+  </programme>
+  <programme channel="externallinearfeed-02-13-2020-02-13-2020" start="20231007190000 +0000" stop="20231007210000 +0000">
+    <title>Black Creek</title>
+    <desc>Returning to their family's cabin in the dark, Wisconsin woods to scatter the ashes of their father, a troubled young man and his brash sister are terrorized by signs that an ancient, Native-American spirit, awakened by a ritual murder, has marked them for death.</desc>
+  </programme>
+  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231006185900 +0000" stop="20231006195900 +0000">
+    <title>Relaxing Orchid Garden</title>
+    <desc>Delicate flowers swaying in the gentle breeze.</desc>
+  </programme>
+  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231006195900 +0000" stop="20231006205900 +0000">
+    <title>Golden Waves Crashing at Sunset</title>
+    <desc>The shores of the iconic Baker Beach in San Francisco with a sunset scene filmed in high definition. Views of the Marin headlands and the Golden Gate bridge.</desc>
+  </programme>
+  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231006205900 +0000" stop="20231006215900 +0000">
+    <title>Falls Colors: Colorado</title>
     <desc></desc>
   </programme>
-  <programme channel="externallinearfeed-05-26-2020-05-26-2020" start="20231006170000 +0000" stop="20231006190000 +0000">
-    <title>Isaac Mizrahi Live! x Selma Blair</title>
-    <desc>Universal fashion collaboration from award-winning designer and actress, advocate, and QVC Brand Ambassador for Accessibility.</desc>
+  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231006215900 +0000" stop="20231006230000 +0000">
+    <title>Superbloom Soaring</title>
+    <desc>A gentle flight over the spring poppy fields of California's Antelope Valley and Lake Elsinore wilderness, filmed in 2020 and 2019.</desc>
+  </programme>
+  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231006230000 +0000" stop="20231006235900 +0000">
+    <title>Tutoko River: New Zealand</title>
+    <desc>Rushing waters through rocky rapids.</desc>
+  </programme>
+  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231006235900 +0000" stop="20231007005900 +0000">
+    <title>Fireplace 2, Banff</title>
+    <desc>A fireplace, filmed in Banff, Canada, fills viewers' home with warmth and happiness.</desc>
+  </programme>
+  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231007005900 +0000" stop="20231007015900 +0000">
+    <title>Fireplace 2, Banff</title>
+    <desc>A fireplace, filmed in Banff, Canada, fills viewers' home with warmth and happiness.</desc>
+  </programme>
+  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231007015900 +0000" stop="20231007025900 +0000">
+    <title>Fireplace 2, Banff</title>
+    <desc>A fireplace, filmed in Banff, Canada, fills viewers' home with warmth and happiness.</desc>
+  </programme>
+  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231007025900 +0000" stop="20231007035900 +0000">
+    <title>At Dusk</title>
+    <desc>Viewing the setting sun from Torrey Pines State Reserve in La Jolla, Calif.</desc>
+  </programme>
+  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231007035900 +0000" stop="20231007045900 +0000">
+    <title>Sunny Getaways</title>
+    <desc>Footage of a stretch of sand, surrounded by flora and light navy blue waters.</desc>
+  </programme>
+  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231007045900 +0000" stop="20231007055900 +0000">
+    <title>Sunny Getaways</title>
+    <desc></desc>
+  </programme>
+  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231007055900 +0000" stop="20231007070000 +0000">
+    <title>Glistening Island Beach</title>
+    <desc></desc>
+  </programme>
+  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231007070000 +0000" stop="20231007075700 +0000">
+    <title>Autumn in Amsterdam</title>
+    <desc>A cityscape film captured by collaborating cinematographer and dutch resident Nick DeJonge.</desc>
+  </programme>
+  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231007075700 +0000" stop="20231007085900 +0000">
+    <title>Waimamaku Beach: New Zealand</title>
+    <desc>Exploring the remote, cliff-lined, cavernous coastline of Waimamaku Beach.</desc>
+  </programme>
+  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231007085900 +0000" stop="20231007095900 +0000">
+    <title>Northland Beaches: New Zealand</title>
+    <desc>Traversing the Northland region's pristine beaches that showcase the diverse natural beauty of New Zealand's coastline, and basking in the unspoiled scenery of sandy shores, clear waters, and stunning natural landscapes.</desc>
+  </programme>
+  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231007095900 +0000" stop="20231007110000 +0000">
+    <title>Baylys Beach &amp; Kai iwi Lake: New Zealand</title>
+    <desc>A tour of New Zealand's Baylys Beach and Kai iwi Lakes.</desc>
+  </programme>
+  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231007110000 +0000" stop="20231007115900 +0000">
+    <title>Blue Lagoon Boat</title>
+    <desc>Featuring a static nature scene filmed on a remote island on the northern tip of Mexico's Yucatan Peninsula; puffy clouds, lapsing lagoon waves and the sights and sounds of seagulls.</desc>
+  </programme>
+  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231007115900 +0000" stop="20231007125900 +0000">
+    <title>Nature Relaxation Journey Part 5</title>
+    <desc>Experience the depths &amp; wonders of Nature like never seen before as you soar over more than 15 of the world's most beautiful countries, synced to a soothing ambient music soundtrack for a fully immersive travel + relaxation experience. Part 5 of the Nature Relaxation Journey Series, this 1 fast-moving hour signature Nature RelaxationTM aerial ambient film features hundreds of stunning 4K landscapes from the aerial perspective, ranging from lush rainforests to erupting volcanoes.</desc>
+  </programme>
+  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231007125900 +0000" stop="20231007135900 +0000">
+    <title>A Day in Paradise</title>
+    <desc>Filmed in 2013 by David Huting, the tiny island is hidden off the northeastern coast of the outer Fiji Islands (near Taveuni), and boasts a perfect white sandy beach.</desc>
+  </programme>
+  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231007135900 +0000" stop="20231007145900 +0000">
+    <title>Fly Over Kelingking Beach: Indonesia</title>
+    <desc>A bird's eye view of a scenic beach surrounded by pristine waters and high cliffs.</desc>
+  </programme>
+  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231007145900 +0000" stop="20231007155900 +0000">
+    <title>Coastal Spring Flowers</title>
+    <desc>Nature scenes from California's coast.</desc>
+  </programme>
+  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231007155900 +0000" stop="20231007165900 +0000">
+    <title>At Dusk</title>
+    <desc>Colourful paragliders soar into the California sunset.</desc>
+  </programme>
+  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231007165900 +0000" stop="20231007175900 +0000">
+    <title>Houhora Beach: New Zealand</title>
+    <desc>The seaside hamlet of Houhora, New Zealand; the beaches that make this destination unforgettable.</desc>
+  </programme>
+  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231007175900 +0000" stop="20231007185900 +0000">
+    <title>Turtle Paradise</title>
+    <desc></desc>
+  </programme>
+  <programme channel="externallinearfeed-11-06-2019-184659187-11-06-2019" start="20231007185900 +0000" stop="20231007195900 +0000">
+    <title>Natural Beauty</title>
+    <desc>The Bayahibe Pier in the Dominican Republic.</desc>
   </programme>
   <programme channel="externallinearfeed-05-26-2020-05-26-2020" start="20231006190000 +0000" stop="20231006200000 +0000">
     <title>The Perfect Accessory With Jen Coffey</title>
@@ -2930,17 +2919,13 @@ Mt. Vesuvius beside the Port of Naples, castles on the islet of Megaris, Castel 
     <title>Saturday Morning Gifts</title>
     <desc>Ideas for everyone.</desc>
   </programme>
-  <programme channel="externallinearfeed-06-26-2020-185414162-06-26-2020" start="20231006160000 +0000" stop="20231006170000 +0000">
-    <title>Lancome Paris Beauty Gifts- All On Free Shipping</title>
-    <desc>Superior skin care, cat-walk inspired makeup, and award-winning products fulfill a quest for beauty.</desc>
+  <programme channel="externallinearfeed-05-26-2020-05-26-2020" start="20231007180000 +0000" stop="20231007190000 +0000">
+    <title>iNNOVATIONS in Electronics - Apple Products</title>
+    <desc>Portable technology products by leading global brand.</desc>
   </programme>
-  <programme channel="externallinearfeed-06-26-2020-185414162-06-26-2020" start="20231006170000 +0000" stop="20231006180000 +0000">
-    <title>Samantha Brown Luggage Collection</title>
-    <desc>A look at some popular travel solution options from Samatha Brown.</desc>
-  </programme>
-  <programme channel="externallinearfeed-06-26-2020-185414162-06-26-2020" start="20231006180000 +0000" stop="20231006190000 +0000">
-    <title>Electronic Gift Connection - Rover E-Bikes</title>
-    <desc>Featuring Rover by Land Rover e-bikes.</desc>
+  <programme channel="externallinearfeed-05-26-2020-05-26-2020" start="20231007190000 +0000" stop="20231007220000 +0000">
+    <title>Holiday Gift Preview</title>
+    <desc>All-new gift ideas.</desc>
   </programme>
   <programme channel="externallinearfeed-06-26-2020-185414162-06-26-2020" start="20231006190000 +0000" stop="20231006200000 +0000">
     <title>DG2 by Diane Gilman Fashions</title>
@@ -2963,8 +2948,8 @@ Mt. Vesuvius beside the Port of Naples, castles on the islet of Megaris, Castel 
     <desc>A look at some popular travel solution options from Samatha Brown.</desc>
   </programme>
   <programme channel="externallinearfeed-06-26-2020-185414162-06-26-2020" start="20231007000000 +0000" stop="20231007010000 +0000">
-    <title>Rhonda Shear Intimates &amp; Loungewear</title>
-    <desc>An exclusively designed and curated fine jewelry collection that adds style to every outfit.</desc>
+    <title>Practical Presents - Origami</title>
+    <desc>Discover a wide selection of unique gift items this holiday with something for everyone on your list.</desc>
   </programme>
   <programme channel="externallinearfeed-06-26-2020-185414162-06-26-2020" start="20231007010000 +0000" stop="20231007020000 +0000">
     <title>Fashion Fridays With DG2 by Diane Gilman</title>
@@ -2976,7 +2961,7 @@ Mt. Vesuvius beside the Port of Naples, castles on the islet of Megaris, Castel 
   </programme>
   <programme channel="externallinearfeed-06-26-2020-185414162-06-26-2020" start="20231007030000 +0000" stop="20231007040000 +0000">
     <title>Black Friday Deals</title>
-    <desc>Featuring low prices for holiday shopping.</desc>
+    <desc>Turning up the merry with holiday shopping.</desc>
   </programme>
   <programme channel="externallinearfeed-06-26-2020-185414162-06-26-2020" start="20231007040000 +0000" stop="20231007050000 +0000">
     <title>Naturalizer Footwear</title>
@@ -3030,9 +3015,17 @@ Mt. Vesuvius beside the Port of Naples, castles on the islet of Megaris, Castel 
     <title>Saturday Morning With Callie &amp; Alyce</title>
     <desc>Kick off the weekend with a blend of best sellers from the week and new products with Callie &amp; Alyce.</desc>
   </programme>
-  <programme channel="externallinearfeed-08-27-2021-08-27-2021" start="20231006160000 +0000" stop="20231006190000 +0000">
-    <title>Under Eye Bags? SOLUTION!</title>
-    <desc>Plexaderm helps reduce Under Eye Bags, Dark Circles, and Wrinkles in just 10 minutes!</desc>
+  <programme channel="externallinearfeed-06-26-2020-185414162-06-26-2020" start="20231007170000 +0000" stop="20231007180000 +0000">
+    <title>Lancome Paris Beauty Gifts- All On Free Shipping</title>
+    <desc>Superior skin care, cat-walk inspired makeup, and award-winning products fulfill a quest for beauty.</desc>
+  </programme>
+  <programme channel="externallinearfeed-06-26-2020-185414162-06-26-2020" start="20231007180000 +0000" stop="20231007190000 +0000">
+    <title>Lancome Paris Beauty Gifts- All On Free Shipping</title>
+    <desc>Superior skin care, cat-walk inspired makeup, and award-winning products fulfill a quest for beauty.</desc>
+  </programme>
+  <programme channel="externallinearfeed-06-26-2020-185414162-06-26-2020" start="20231007190000 +0000" stop="20231007200000 +0000">
+    <title>Naturalizer Footwear</title>
+    <desc>A modern footwear brand with superior comfort featuring a blend of fashion and function; the beautiful assortment includes a variety of casual styles.</desc>
   </programme>
   <programme channel="externallinearfeed-08-27-2021-08-27-2021" start="20231006190000 +0000" stop="20231006220000 +0000">
     <title>Arthritis Causing Neck Pain? SOLUTION!</title>
@@ -3066,17 +3059,9 @@ Mt. Vesuvius beside the Port of Naples, castles on the islet of Megaris, Castel 
     <title>Best Cooling Topper for Back &amp; Hip Pain!</title>
     <desc>Dormeo Mattress Topper Transforms Your Bed To Get A Great Night's Sleep. Soothing &amp; Cooling.</desc>
   </programme>
-  <programme channel="externallinearfeed-09-16-2021-09-16-2021" start="20231006160000 +0000" stop="20231006170000 +0000">
-    <title>Shopping</title>
-    <desc></desc>
-  </programme>
-  <programme channel="externallinearfeed-09-16-2021-09-16-2021" start="20231006170000 +0000" stop="20231006180000 +0000">
-    <title>Shopping</title>
-    <desc></desc>
-  </programme>
-  <programme channel="externallinearfeed-09-16-2021-09-16-2021" start="20231006180000 +0000" stop="20231006190000 +0000">
-    <title>Shopping</title>
-    <desc></desc>
+  <programme channel="externallinearfeed-08-27-2021-08-27-2021" start="20231007190000 +0000" stop="20231007220000 +0000">
+    <title>Rechargeable Hearing Aid. No More Batteries!</title>
+    <desc>Nano's number 1 selling Hearing Aid is the cost-efficient solution to hearing loss. Easy to purchase - no doctor needed!</desc>
   </programme>
   <programme channel="externallinearfeed-09-16-2021-09-16-2021" start="20231006190000 +0000" stop="20231006200000 +0000">
     <title>Shopping</title>
@@ -3166,21 +3151,17 @@ Mt. Vesuvius beside the Port of Naples, castles on the islet of Megaris, Castel 
     <title>Shopping</title>
     <desc></desc>
   </programme>
-  <programme channel="externallinearfeed-07-01-2020-225307685-07-01-2020" start="20231006163000 +0000" stop="20231006170000 +0000">
-    <title>The Way It Was</title>
-    <desc>Sid's Granddaughter Quinn hunts youth season in Kansas in hopes of getting her 3rd buck on the ground. PaPa Sid tries to do something he's never done before. Kill a whitetail in velvet with a muzzleloader.</desc>
+  <programme channel="externallinearfeed-09-16-2021-09-16-2021" start="20231007170000 +0000" stop="20231007180000 +0000">
+    <title>Shopping</title>
+    <desc></desc>
   </programme>
-  <programme channel="externallinearfeed-07-01-2020-225307685-07-01-2020" start="20231006170000 +0000" stop="20231006183000 +0000">
-    <title>Wild and Uncut Podcast</title>
-    <desc>NRA Fashion Show.</desc>
+  <programme channel="externallinearfeed-09-16-2021-09-16-2021" start="20231007180000 +0000" stop="20231007190000 +0000">
+    <title>Shopping</title>
+    <desc></desc>
   </programme>
-  <programme channel="externallinearfeed-07-01-2020-225307685-07-01-2020" start="20231006183000 +0000" stop="20231006190000 +0000">
-    <title>Sportsman's Adventures With Captain Rick Murphy</title>
-    <desc>Capts. Rick and Ridge Murphy travel to Trinidad to fish for tarpon with Capt. Matthew Milne.</desc>
-  </programme>
-  <programme channel="externallinearfeed-07-01-2020-225307685-07-01-2020" start="20231006190000 +0000" stop="20231006193000 +0000">
-    <title>Dream Makers</title>
-    <desc>On this episode of Dream Makers,we're going to kick things off with a Veteran Black Bear hunt up in Canada! Watch as a run of the black bear hunt turns chaotic as we capture something never before seen in the bear woods!!</desc>
+  <programme channel="externallinearfeed-09-16-2021-09-16-2021" start="20231007190000 +0000" stop="20231007200000 +0000">
+    <title>Shopping</title>
+    <desc></desc>
   </programme>
   <programme channel="externallinearfeed-07-01-2020-225307685-07-01-2020" start="20231006193000 +0000" stop="20231006200000 +0000">
     <title>McWhorter Rifles' Precision Hunting TV</title>
@@ -3350,17 +3331,29 @@ Mt. Vesuvius beside the Port of Naples, castles on the islet of Megaris, Castel 
     <title>Red Arrow Tv</title>
     <desc>Kip trades his Hoyt for a camera and takes his oldest daughter Addie out on a hunt for a big VA 10 point!!</desc>
   </programme>
-  <programme channel="free-07-26-2018" start="20231006160527 +0000" stop="20231006181952 +0000">
-    <title>2022 Nitto ATP Finals Turin</title>
-    <desc>Casper Ruud (NOR) vs. Novak Djokovic in the 2022 Nitto ATP Final</desc>
+  <programme channel="externallinearfeed-07-01-2020-225307685-07-01-2020" start="20231007163000 +0000" stop="20231007170000 +0000">
+    <title>Struttinbuck</title>
+    <desc>The Cowell family farm has produced some mature whitetails over the years, and this season is no different. Join Matt Cowell and Clede Spooner as they attempt to bring down another mid-west bruiser.</desc>
   </programme>
-  <programme channel="free-07-26-2018" start="20231006181952 +0000" stop="20231006184858 +0000">
-    <title>Warm &amp; Fuzzy</title>
-    <desc>Warm &amp; Fuzzy</desc>
+  <programme channel="externallinearfeed-07-01-2020-225307685-07-01-2020" start="20231007170000 +0000" stop="20231007173000 +0000">
+    <title>Americana Outdoors Presented By Garmin</title>
+    <desc>This week on Americana Outdoors, we're taking you on a once in a lifetime hunting trip celebrating our U.S. Veterans and First Responders, and later, we'll catch up with Brian Flaherty of TenPoint Crossbows for an epic Texas whitetail hunt!</desc>
   </programme>
-  <programme channel="free-07-26-2018" start="20231006184858 +0000" stop="20231006191430 +0000">
-    <title>My Tennis Life</title>
-    <desc>My Tennis Life</desc>
+  <programme channel="externallinearfeed-07-01-2020-225307685-07-01-2020" start="20231007173000 +0000" stop="20231007180000 +0000">
+    <title>Legendary Trails</title>
+    <desc>Legendary Trails TV's, Producer, Steve Foster, and Bob Foulkrod share their experiences and elk hunts with good friend, Chris Lucero and Screamin' Bull Outfitters, in Northern New Mexico on the Rio Costilla Park Ranch.</desc>
+  </programme>
+  <programme channel="externallinearfeed-07-01-2020-225307685-07-01-2020" start="20231007180000 +0000" stop="20231007183000 +0000">
+    <title>Swarovski Optik Quests</title>
+    <desc>Hunting the unforgiving mountains of New Zealand.</desc>
+  </programme>
+  <programme channel="externallinearfeed-07-01-2020-225307685-07-01-2020" start="20231007183000 +0000" stop="20231007190000 +0000">
+    <title>Huntin' Fool</title>
+    <desc>Ben Rountree is hunting in Sonora Mexico with Bob Dykeman as his guide. They set out to look for mule deer and find one right out of the gate, however, it starts raining which cuts the visibility, so they switch up their plan and decide to split up.</desc>
+  </programme>
+  <programme channel="externallinearfeed-07-01-2020-225307685-07-01-2020" start="20231007190000 +0000" stop="20231007193000 +0000">
+    <title>Fishing And Hunting Texas</title>
+    <desc>Hunting big game with Airguns has become increasingly popular as more and more states are making it legal. We'll take a deep look at hunting whitetail deer and other species in this episode of Fishing &amp; Hunting Texas.</desc>
   </programme>
   <programme channel="free-07-26-2018" start="20231006191430 +0000" stop="20231006194527 +0000">
     <title>Think About It with Victoria Azarenka: Jon Wertheim </title>
@@ -3467,5 +3460,19 @@ Wertheim also dives into how fans in the current climate consume their news, sta
   <programme channel="free-07-26-2018" start="20231007155548 +0000" stop="20231007181013 +0000">
     <title>2022 Nitto ATP Finals Turin</title>
     <desc>Casper Ruud (NOR) vs. Novak Djokovic in the 2022 Nitto ATP Final</desc>
+  </programme>
+  <programme channel="free-07-26-2018" start="20231007181013 +0000" stop="20231007183919 +0000">
+    <title>Warm &amp; Fuzzy</title>
+    <desc>Warm &amp; Fuzzy</desc>
+  </programme>
+  <programme channel="free-07-26-2018" start="20231007183919 +0000" stop="20231007190451 +0000">
+    <title>My Tennis Life</title>
+    <desc>My Tennis Life</desc>
+  </programme>
+  <programme channel="free-07-26-2018" start="20231007190451 +0000" stop="20231007193548 +0000">
+    <title>Think About It with Victoria Azarenka: Jon Wertheim </title>
+    <desc>Jon Wertheim has been one of the most respected sports journalists for several decades, having worked for Sports Illustrated, Tennis Channel, &amp; 60 Minutes as a feature contributor. He joins the show for a enlightening discussion on the delicate relationship between athletes &amp; journalists, &amp; how trust is established in some cases while unfortunately eroded in others.
+
+Wertheim also dives into how fans in the current climate consume their news, state of professional tennis, &amp; how the WTA can grow and exalt their talented collection of players.</desc>
   </programme>
 </tv>
