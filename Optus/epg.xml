@@ -1141,7 +1141,12 @@
     <sub-title>LaLiga World</sub-title>
     <desc>LaLiga World 2023/2024</desc>
   </programme>
-  <programme channel="os12" start="20231009153000 +0000" stop="20231009160000 +0000">
+  <programme channel="os12" start="20231009153000 +0000" stop="20231009154500 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Zap</sub-title>
+    <desc>LaLiga Zap International 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231009154500 +0000" stop="20231009160000 +0000">
     <title>LaLiga TV</title>
     <sub-title>LaLiga Zap</sub-title>
     <desc>LaLiga Zap International 2023/2024</desc>
@@ -1181,7 +1186,12 @@
     <sub-title>Viva LaLiga</sub-title>
     <desc>Viva LaLiga 2023/2024</desc>
   </programme>
-  <programme channel="os12" start="20231009233000 +0000" stop="20231010000000 +0000">
+  <programme channel="os12" start="20231009233000 +0000" stop="20231009234500 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Zap</sub-title>
+    <desc>LaLiga Zap International 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231009234500 +0000" stop="20231010000000 +0000">
     <title>LaLiga TV</title>
     <sub-title>LaLiga Zap</sub-title>
     <desc>LaLiga Zap International 2023/2024</desc>
@@ -1311,7 +1321,12 @@
     <sub-title>LaLiga Classics</sub-title>
     <desc>LaLiga 2016/2017 MD01</desc>
   </programme>
-  <programme channel="os12" start="20231011120000 +0000" stop="20231011123000 +0000">
+  <programme channel="os12" start="20231011120000 +0000" stop="20231011121500 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Zap</sub-title>
+    <desc>LaLiga Zap International 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231011121500 +0000" stop="20231011123000 +0000">
     <title>LaLiga TV</title>
     <sub-title>LaLiga Zap</sub-title>
     <desc>LaLiga Zap International 2023/2024</desc>
@@ -1356,7 +1371,12 @@
     <sub-title>Viva LaLiga</sub-title>
     <desc>Viva LaLiga 2023/2024</desc>
   </programme>
-  <programme channel="os12" start="20231011183000 +0000" stop="20231011190000 +0000">
+  <programme channel="os12" start="20231011183000 +0000" stop="20231011184500 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Zap</sub-title>
+    <desc>LaLiga Zap International 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231011184500 +0000" stop="20231011190000 +0000">
     <title>LaLiga TV</title>
     <sub-title>LaLiga Zap</sub-title>
     <desc>LaLiga Zap International 2023/2024</desc>
@@ -1466,7 +1486,12 @@
     <sub-title>LaLiga Fans</sub-title>
     <desc>LaLiga Fans 2023/2024</desc>
   </programme>
-  <programme channel="os12" start="20231012213000 +0000" stop="20231012220000 +0000">
+  <programme channel="os12" start="20231012213000 +0000" stop="20231012214500 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Zap</sub-title>
+    <desc>LaLiga Zap International 2023/2024</desc>
+  </programme>
+  <programme channel="os12" start="20231012214500 +0000" stop="20231012220000 +0000">
     <title>LaLiga TV</title>
     <sub-title>LaLiga Zap</sub-title>
     <desc>LaLiga Zap International 2023/2024</desc>
